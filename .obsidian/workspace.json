@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "752f0804ec543820",
+        "id": "577016d9ff653ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "6a3e1f11807e4981",
+            "id": "19f57b5d4f1541f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/电商系统/ShopXO.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ShopXO"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,10 +176,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "6a3e1f11807e4981",
+  "active": "19f57b5d4f1541f9",
   "lastOpenFiles": [
-    "未命名.md",
     "docs/电商系统/ShopXO.md",
+    "未命名.md",
     "assets/未命名",
     "assets",
     "_txtdbpic/19d8dcbfbe2570a4cb555f73d2ba95ab_MD5.png",
