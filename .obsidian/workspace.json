@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "577016d9ff653ee0",
+        "id": "67a25b72ddc51e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "19f57b5d4f1541f9",
+            "id": "45d1986bb54806df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/电商系统/ShopXO.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ShopXO"
+              "title": "新标签页"
             }
           }
         ]
@@ -181,10 +177,11 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "19f57b5d4f1541f9",
+  "active": "45d1986bb54806df",
   "lastOpenFiles": [
-    "_txtdbpic/7158fe76538eb374706f64c76cc516fc_MD5.png",
     "docs/电商系统/ShopXO.md",
+    "docs/电商系统/index.md",
+    "_txtdbpic/7158fe76538eb374706f64c76cc516fc_MD5.png",
     "_txtdbpic/9d26028b039999b55721d158f82ff79d_MD5.png",
     "_txtdbpic/39f553087d9e1731be7bb670827264f7_MD5.png",
     "_txtdbpic/537032506cf4eebf178b4ba77fd6d411_MD5.png",
@@ -194,7 +191,6 @@
     "_txtdbpic/3f421c0a57a844ce513a629d72584191_MD5.png",
     "_txtdbpic/58fa0cf5a4cbdd3738780d306823e2f3_MD5.png",
     "_txtdbpic/271c450cfb3540db86ec83eae42bebcd_MD5.png",
-    "_txtdbpic/2b9466e015f77635ad58ee7fbd2143ce_MD5.png",
     "_txtdbpic/1ee3cc8f6d0ce1bc78beda3942c21958_MD5.xml",
     "_txtdbpic/67abb7c3be3235dafbeed55ad7cdc39d_MD5.xml",
     "docs/Cloudflare/Cloudflare 邮件路由.md",
@@ -209,7 +205,6 @@
     "网盘/OpenList.md",
     "网盘/Nextcloud.md",
     "网盘",
-    "docs/电商系统/index.md",
     "docs/电商系统",
     "docs/ERP/index.md",
     "docs/ERP/Dolibarr.md",
