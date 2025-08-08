@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "901512440827aa11",
+    "type": "split",
+    "children": [
+      {
+        "id": "3adfd06a0f37e289",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AI/ChatGPT/wonderful-prompts.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fff45f2d4998f782",
+    "type": "split",
+    "children": [
+      {
+        "id": "4791d4ff3ded1575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2051d50342eeb067",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "736b431d94f72c5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66722d33fd53da28",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "471be4f431ebf11b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad3e0bdd93df5b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "049e17fb9da46d5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/ChatGPT/wonderful-prompts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef17911a14becef1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/ChatGPT/wonderful-prompts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46017e8dfcf3b164",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8096b3015448f32b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/ChatGPT/wonderful-prompts.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2051d50342eeb067",
+  "lastOpenFiles": [
+    "AI/ChatGPT/awesome-chatgpt-prompts.md",
+    "AI/ChatGPT/wonderful-prompts.md",
+    "AI/Stable Diffusion/Stable Diffusion.md",
+    "AI/ChatGPT/awesome-chatgpt-prompts-zh.md",
+    "AutoX.js.md",
+    "DHL.md",
+    "未命名 1.md",
+    "Advanced iFrame Pro.md",
+    "未命名.md",
+    "2024-02-26.md"
+  ]
+}
