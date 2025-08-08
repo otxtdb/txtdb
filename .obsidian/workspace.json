@@ -11,10 +11,14 @@
             "id": "19f57b5d4f1541f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/电商系统/ShopXO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "ShopXO"
             }
           }
         ]
@@ -173,11 +177,26 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "25ad79425d152323",
+  "active": "19f57b5d4f1541f9",
   "lastOpenFiles": [
+    "_txtdbpic/7158fe76538eb374706f64c76cc516fc_MD5.png",
+    "docs/电商系统/ShopXO.md",
+    "_txtdbpic/9d26028b039999b55721d158f82ff79d_MD5.png",
+    "_txtdbpic/39f553087d9e1731be7bb670827264f7_MD5.png",
+    "_txtdbpic/537032506cf4eebf178b4ba77fd6d411_MD5.png",
+    "_txtdbpic/91d43b1ffde528d610e634f640c583ca_MD5.png",
+    "_txtdbpic/8f77a3124cf475b7f2eab7480322a1fa_MD5.png",
+    "_txtdbpic/f050552afa3e0f6e02a8f89bc0dceda4_MD5.png",
+    "_txtdbpic/3f421c0a57a844ce513a629d72584191_MD5.png",
+    "_txtdbpic/58fa0cf5a4cbdd3738780d306823e2f3_MD5.png",
+    "_txtdbpic/271c450cfb3540db86ec83eae42bebcd_MD5.png",
+    "_txtdbpic/2b9466e015f77635ad58ee7fbd2143ce_MD5.png",
+    "_txtdbpic/1ee3cc8f6d0ce1bc78beda3942c21958_MD5.xml",
+    "_txtdbpic/67abb7c3be3235dafbeed55ad7cdc39d_MD5.xml",
     "docs/Cloudflare/Cloudflare 邮件路由.md",
     "docs/Cloudflare",
     "docs/邮件服务器/Stalwart.md",
@@ -190,7 +209,6 @@
     "网盘/OpenList.md",
     "网盘/Nextcloud.md",
     "网盘",
-    "docs/电商系统/ShopXO.md",
     "docs/电商系统/index.md",
     "docs/电商系统",
     "docs/ERP/index.md",
@@ -199,19 +217,7 @@
     "未命名.md",
     "assets/未命名",
     "assets",
-    "_txtdbpic/19d8dcbfbe2570a4cb555f73d2ba95ab_MD5.png",
-    "_txtdbpic",
     "README.md",
-    "txtdbpic/19d8dcbfbe2570a4cb555f73d2ba95ab_MD5.png",
-    "txtdbpic",
-    "assets/未命名/19d8dcbfbe2570a4cb555f73d2ba95ab_MD5.png",
-    "_images/19d8dcbfbe2570a4cb555f73d2ba95ab_MD5.png",
-    "_images/601ef2a6755e5e2520b1326cdba6a5b4_MD5.png",
-    "_images/9c8d1f83dcd0931a66be1519b6cf2e82_MD5.png",
-    "_images/19a7ada9ceeb0d8141ccf7b60652e4bd_MD5.png",
-    "_images/cc6146a2ddc8c5b193dc1b9bbbc851f9_MD5.png",
-    "_images/8cd0eefce22c66e87f91f5e5f5e2072b_MD5.png",
-    "_images/f31e1c5dac0de1c5a7e30fe387f27b32_MD5.png",
     "undefined.md",
     "Clippings/“进销存”插件配置 - 进销存使用教程.md",
     "Clippings/Teambition  OpenList 文档.md",

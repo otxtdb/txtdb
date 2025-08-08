@@ -4,15 +4,15 @@
 
 在商城后台“应用”>“应用管理”中找到安装好的“进销存”插件，点击“开启”按钮开启它，点击“设置”按钮，进行配置。
 
-![WX20250521-143842.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b7638ae0823b772cdaba91f7d5bc47ca.png)
+![WX20250521-143842.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/19d8dcbfbe2570a4cb555f73d2ba95ab_MD5.png)
 
   
 
-![WX20250521-143917.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/aad04ac910388a40ea1414424a84a342.png)
+![WX20250521-143917.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1b786b901b01a05361d999e06e48caa3_MD5.png)
 
   
 
-![WX20250521-144127.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/10416a7990551470b85c646e1ea75122.png)
+![WX20250521-144127.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/89de91265488f469ac172286d7970527_MD5.png)
 
   
 
@@ -24,7 +24,7 @@
 
   
 
-![WX20250521-151154.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/0e6e048918a9e65df691c43c6bf97a60.png)
+![WX20250521-151154.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/14a30576990b13cbd13a8c918d0806c4_MD5.png)
 
   
 
@@ -32,15 +32,15 @@
 
   
 
-![WX20250521-150250.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a061416a42da621e42d5fee1b29992c2.png)
+![WX20250521-150250.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fdf3fd5791f9b6ab876799ed723f0cc1_MD5.png)
 
   
 
-![WX20250521-145836.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/83470b2280478d54f3b119853027b8d9.png)
+![WX20250521-145836.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7495fe477bfe3251f1fe22aebd67c037_MD5.png)
 
   
 
-![WX20250521-145905.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/d074d8374ded7c3fe1ae2215e82b2780.png)
+![WX20250521-145905.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/895d82535be5ed5ed8719c143d01156c_MD5.png)
 
   
 
@@ -48,7 +48,7 @@
 
   
 
-![WX20250521-150514.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/8ca3b39ff292cb9331edb882e40c74e0.png)
+![WX20250521-150514.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bc76e2d3a01847e6690762d6430cfab9_MD5.png)
 
   
 
@@ -56,11 +56,11 @@
 
   
 
-![WX20250528-141106.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f28c5adacd33acb0630fdf6958079d44.png)
+![WX20250528-141106.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3624f2553c662fe5d74d7f73b9d11085_MD5.png)
 
   
 
-![WX20250521-151004.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/17bcd99a8c867fdd5c169f7ba1e8ee48.png)
+![WX20250521-151004.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ef526a894864ac1d06b4ca1dc686e2d9_MD5.png)
 
   
 
@@ -68,7 +68,7 @@
 
   
 
-![WX20250521-154246.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b7534cb2ed1b4dace2724850d60c120f.png)
+![WX20250521-154246.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/57c41d954172f22cd11ff28ac10e6fd1_MD5.png)
 
 
 
@@ -103,7 +103,7 @@
 
   
 
-![WX20250521-152114.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/69d6529ca0e6297a22da9c9f9c67c21d.png)
+![WX20250521-152114.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8a80d8faf8c50a89f5bec149bd03b246_MD5.png)
 
   
 
@@ -111,7 +111,7 @@
 
   
 
-![WX20250529-093321.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/7ddd77342b05223a8cd07e538f92dc7a.png)
+![WX20250529-093321.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ce970ce416d20733b80e7c7bfd616e9c_MD5.png)
 
 
 
@@ -134,11 +134,11 @@
 
   
 
-![WX20250521-160815.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/35485a8b3739f32c2f4f212ce1498c95.png)
+![WX20250521-160815.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/aedf439b6a4a362a6dc86edacc7c0495_MD5.png)
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/6f72f92a430197bd91910fa5b87ca3d7.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/af050045ca92d3da4dc44b12b9432fd9_MD5.png)
 
   
 
@@ -150,7 +150,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/bafe9daacb678e2d29956caf9b275c94.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/37838b7b2cba5ed5aa422b6fb76e1000_MD5.png)
 
   
 
@@ -169,7 +169,7 @@
 
   
 
-![WX20250528-142956.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/208cfbfa6df13ca41c7937a7ebe37289.png)
+![WX20250528-142956.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bf31e3a75d1a8a8dabaf9f1a0f5f2c5a_MD5.png)
 
   
 
@@ -181,7 +181,7 @@
 
   
 
-![WX20250521-162529.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/c451ee803a2a8e8ba3cf3aa79f714a69.png)
+![WX20250521-162529.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/97d01e45eca2648e68bf3655c9face1e_MD5.png)
 
   
 
@@ -189,7 +189,7 @@
 
   
 
-![WX20250528-143509.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/013e08cbb51ddcef403ee02fe21ff497.png)
+![WX20250528-143509.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b141a09ce7ededa297374acfc491fd17_MD5.png)
 
   
 
@@ -215,19 +215,19 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/0b150328c3ac00c638d443225b2ae6ab.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c5bb6d4ee208b2b9ab88ad27321cf061_MD5.png)
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f44b1c47508c0864ee6ee1ac33e82852.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0162b48c50f09c67fdf1e1f3fdb1b897_MD5.png)
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2ed2344c796fdbd9177e2edb5076c88b.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d373c79f197a9f3d02182d1dfaebde39_MD5.png)
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2e043932399d7e1d794e92c70f972dec.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8cc2b059e778300345ca2e4ecfacd6d9_MD5.png)
 
   
 
@@ -235,7 +235,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2259b79bf23be1d8b79d51e22361500d.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/689a1211165fdfa06949519ffca55f41_MD5.png)
 
 ### 产品与商城基础同步
 
@@ -250,7 +250,7 @@
 进销存后台【“系统配置”>“系统设置”>“基础配置”>“产品与商城基础同步”】页面中的“商城导入默认反写编码和条码”按钮：进销存后台的编码和条码反写到商城对应的规格，如果该按钮打开，在【“基础数据”>“产品管理”】页面从商城导入商品时，“编码和条码反写”按钮将会默认勾选。
 
   
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a24c79a8b5aa88e64e98f978725f1940.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/47de945b1534d56904b4e0c0d3da6516_MD5.png)
 
   
 
@@ -259,7 +259,7 @@
 如果该按钮打开，在【“基础数据”>“产品管理”】页面从商城导入商品时，“库存同步到进销存”按钮将会默认勾选。
 
   
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/491598f8f8c1579f79afd793bb3a030b.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/377c85b64d9186ad0ec79dbd6c088c94_MD5.png)
 
   
 
@@ -294,7 +294,7 @@
 
   
 
-![WX20250522-110759.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/ec62b299af5eef21c229385accbae2bf.png)
+![WX20250522-110759.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8bc40b8fbac31ea218a7e29242d7282a_MD5.png)
 
   
 
@@ -349,11 +349,11 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/34837e46c3a5f85eb1f52a53928ce300.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/37c0eac82492218028e9cd71fdefec30_MD5.png)
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/cb5c4039359e397caefd359ffc122bc9.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/362a5b2ce697461480d6bb41007171bd_MD5.png)
 
   
 
@@ -361,7 +361,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/ec07a937642fcf4bdd1c888124d0c29e.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e9d1931294c5cd8396aed07fbeb5b4e6_MD5.png)
 
   
 
@@ -376,7 +376,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/4442ed14543d8e070a311972ad3a0952.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/afd5175cc59b848bd8f9fdef56ffcd35_MD5.png)
 
   
 
@@ -389,7 +389,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2ff4b3f5ca1b8aced88e4853e53370b8.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/883eb4588ad8dcfaacc7e1ddbc8d48e2_MD5.png)
 
   
 
@@ -405,7 +405,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/94b921c3ddafb6669bcac84774c81ce0.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8c1e2ff1c309e54d8582103a48a7c054_MD5.png)
 
   
 
@@ -413,7 +413,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/730791ec00503d0c79c94a3f8aa3f642.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c0af0f689756feb9d1c9bfcc42ef4189_MD5.png)
 
 ### 录单相关
 
@@ -431,7 +431,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/7b1c6491226f1fbedf3624d640ecd7fc.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/30cbfad3d919ff4a63061854d5a3acce_MD5.png)
 
   
 
@@ -439,7 +439,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/112ca01eef9cc2d607ec8a6201444336.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dd1a73972b1574b77f924d9a9ae9cbec_MD5.png)
 
   
 
@@ -447,7 +447,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/9feae1d3ac4a7096f6785aa5472ef3cd.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/288032a25962e2905c0ec94fad50dab1_MD5.png)
 
   
 
@@ -455,7 +455,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/8c7e60bd3a5a878ac044739a13d545f2.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4447e8399939790a8e67cc32c7205fc5_MD5.png)
 
   
 
@@ -463,7 +463,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/db2fe92d64995f01501858d354a1b6ed.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/49c5db52bb971b38c4733f8c1f61d1f7_MD5.png)
 
   
 
@@ -471,7 +471,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/29f12203b2e1f205897ba7c98aa445c1.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/96c60dfceb9d669cd41b348f4680f37b_MD5.png)
 
   
 
@@ -479,7 +479,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a81c8cbfbd438d050db6627ba495eb8e.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0d0d2449bf450ea3ddf5aebe90a459d7_MD5.png)
 
   
 
@@ -487,7 +487,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/4684bc05f832e12ea8adec27f1a1a1ea.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e0381c13126127da47305473aa8ec497_MD5.png)
 
   
 
@@ -495,7 +495,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/0d88230c7bc8713e18e18a563f9e7efc.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/87a48dd26bc003d65ec74a2f3765d93d_MD5.png)
 
   
 
@@ -503,14 +503,14 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/af672d9e7009095ad3f8a91cadd26333.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c0e5eba120315db4767497f762d26f0d_MD5.png)
 
   
 进销存后台【“系统配置”>“系统设置”>“数据打印配置”>“自定义打印默认模板”】页面中的“采购付款单”下拉列表：内容来源于【“系统配置”>“数据打印模板”】中的类型为“采购付款单”的模板。
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e7cb8e12d00dd4e09d793c331722c71f.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d7e1cf6cb0229efd6d4dc6d71454be3_MD5.png)
 
   
 
@@ -518,7 +518,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/d6d457aa34849b59139ef8144a9432bc.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/34e9915b460c37b8732f7d40535bcc50_MD5.png)
 
   
 
@@ -526,7 +526,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/76f3df9748401956e1af3183feffb585.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/96fd51328ce653bdd9b26559975bb134_MD5.png)
 
   
 
@@ -536,7 +536,7 @@
 
   
 
-![WX20250522-121110.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a9aba498c9587c75f39c2f73b3ea82cb.png)
+![WX20250522-121110.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/03739d6b5accb2b22cc67ddf87368f81_MD5.png)
 
   
 
@@ -544,7 +544,7 @@
 
   
 
-![WX20250522-152202.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e900aad12cc9b5184c8d5dcd7e188ea5.png)
+![WX20250522-152202.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4d1cfb7cf16f46a2e4b2075f4ba3b768_MD5.png)
 
   
 
@@ -554,7 +554,7 @@
 
   
 
-![WX20250522-123157.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/3518ad2db43e4e3fe5219876dce729e0.png)
+![WX20250522-123157.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ac0768aaff1c7c2b0d947dd3ec93ed2d_MD5.png)
 
   
 
@@ -562,7 +562,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a48b377efa56a60f094c37d1a0423437.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ae8d4b78b74dadd9f122ba07fb98c455_MD5.png)
 
   
 
@@ -615,7 +615,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a48b377efa56a60f094c37d1a0423437.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ae8d4b78b74dadd9f122ba07fb98c455_MD5.png)
 
 
 
@@ -625,7 +625,7 @@
 
   
 
-![WX20250522-143155.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f1b5b770abb2ce287a5145020e45bd67.png)
+![WX20250522-143155.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/431e80c8ef60e4c22a7f4e8433776189_MD5.png)
 
 
 
@@ -643,7 +643,7 @@
 
   
 
-![WX20250522-143809.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/51a11b55a324ae0bf453db8636b800f5.png)
+![WX20250522-143809.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3d045d751e3192da5721f609a93cbcb5_MD5.png)
 
   
 
@@ -651,7 +651,7 @@
 
   
 
-![WX20250522-144127.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2bbd99bc4bbf818552ddea06cb507c14.png)
+![WX20250522-144127.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/30a3c4fde426e255ce9233f98fbaa7ee_MD5.png)
 
   
 
@@ -663,11 +663,11 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/83facedafe3f44e4dd2225ea7a621638.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/112cd429df0d8ee4647b5a1fdabd2212_MD5.png)
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/7fdd0b8100baa83ce3924c24fc2d986f.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dd86fa57f2be81b81c4c4f12c2ea02b3_MD5.png)
 
 
 
@@ -683,7 +683,7 @@
 
   
 
-![WX20250523-090906.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/dc2c53a7e6a5861af60e2bf225c4fd75.png)
+![WX20250523-090906.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/df86f9bb49387171afb89ea1d3d2464c_MD5.png)
 
 
 
@@ -695,7 +695,7 @@
 
   
 
-![WX20250523-091614.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a7c68506d553dbedad007e133373fafa.png)
+![WX20250523-091614.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1b8fc280e801082f9faeb87bdaf3337a_MD5.png)
 
   
 
@@ -713,7 +713,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/cc0be9cc1ef36764a5c97132d99e575a.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2d05922d4e3f9c29a824af4d93de4dc2_MD5.png)
 
   
 
@@ -737,7 +737,7 @@
 
   
 
-![WX20250523-094024.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/bafe9daacb678e2d29956caf9b275c94.png)
+![WX20250523-094024.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/37838b7b2cba5ed5aa422b6fb76e1000_MD5.png)
 
   
 
@@ -758,7 +758,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/208cfbfa6df13ca41c7937a7ebe37289.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bf31e3a75d1a8a8dabaf9f1a0f5f2c5a_MD5.png)
 
   
 
@@ -772,7 +772,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f84fb4382eb6b77e999cf856936bd773.png)  
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8ef3ac936458e8ee137fc5edb00e95d6_MD5.png)  
 
   
 
@@ -782,7 +782,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e003eaa960a26a2c378e453a77e97a13.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0dc09e9ac5f31e2d1afac761c3135421_MD5.png)
 
   
 
@@ -812,13 +812,13 @@
 
 【“基础数据”>“产品管理”】中的“商城导入”按钮  
 
-![WX20250523-123831.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/8bc13f7ad43e8648f0320a630a7fa2ab.png)
+![WX20250523-123831.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2ac47382f44d17e9dda6c89fa536a39a_MD5.png)
 
   
 
 点击“商城导入”按钮之后：
 
-![WX20250523-110505.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/bf22fbfd1db6dd694c5fb1383bf526ea.png)
+![WX20250523-110505.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c8b815c5d6834e73a061549d698f70dd_MD5.png)
 
   
 
@@ -830,7 +830,7 @@
 
   
 
-![WX20250523-111145.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/16ba75cdd50cbd91bc484a5823cb906d.png)
+![WX20250523-111145.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f0793c2d056c9f2621e52a3be3776801_MD5.png)
 
   
 
@@ -838,7 +838,7 @@
 
 【“基础数据”>“产品管理”】中的“商城导入”按钮页面的“excel更新”按钮可以通过excel更新商城商品信息。
 
-![WX20250523-115052.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/76cb7345ddacce963c6b869f7d0dba1a.png)
+![WX20250523-115052.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3ea69fe5a69ca5835b1f5149a72cda06_MD5.png)
 
   
 
@@ -846,7 +846,7 @@
 
   
 
-![WX20250525-131252.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/3c72f9eb40c22667134302f7241fc3ef.png)
+![WX20250525-131252.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b6bfa2d5c17a1830c7c36691d4866fa3_MD5.png)
 
 
 ### “导出excel”按钮
@@ -855,7 +855,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/838d928a777a6618fe32571f591ab213.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/294ebfcb71eb79924d2da767d415ab43_MD5.png)
 
   
 
@@ -863,7 +863,7 @@
 
 【“基础数据”>“产品管理”】的“Excel导入”按钮可以从Excel读取信息导入产品到进销存。
 
-![WX20250523-124931.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b66234b7e6597fbadc886d962563ff05.png)
+![WX20250523-124931.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b7d656dfe5b9e8122d776d30226b4b75_MD5.png)
 
   
 
@@ -871,7 +871,7 @@
 
   
 
-![WX20250523-124509.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e145c0731cbb235235cfa05c4d6082e2.png)
+![WX20250523-124509.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bcca70f572e133709ebe54037dfc4ef2_MD5.png)
 
   
 
@@ -881,7 +881,7 @@
 
   
 
-![WX20250523-130438.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/bc32db3a5edc9783e9e65cf4228c9a06.png)
+![WX20250523-130438.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e5ef677d63d983d9a070080943595694_MD5.png)
 
   
 
@@ -891,7 +891,7 @@
 
   
 
-![WX20250523-183141.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/0515977f00fac0c2f2b99314c114858e.png)
+![WX20250523-183141.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cf0736eda3e095f2d0b8941e2b9bccff_MD5.png)
 
   
 
@@ -901,7 +901,7 @@
 
   
 
-![WX20250523-185620.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/d5b22a49246d763a71dda7b0861e495d.png)
+![WX20250523-185620.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/617af548d48fccb1ea26c80108f9aff3_MD5.png)
 
   
 
@@ -913,7 +913,7 @@
 
   
 
-![WX20250523-190037.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/09dc7e071941db0edafca69d54c0967a.png)
+![WX20250523-190037.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f183c4a6029f3ef5bd4aef6c326e4404_MD5.png)
 
   
 
@@ -937,7 +937,7 @@
 
   
 
-![WX20250523-131445.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/ee15d3eed4b65daf323a86b168b01f22.png)
+![WX20250523-131445.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2b95c7f1c94a4b892b6f4e62cf740deb_MD5.png)
 
 
 
@@ -949,7 +949,7 @@
 
   
 
-![WX20250523-131922.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/1ba4e557c017160f917ac8e744108856.png)
+![WX20250523-131922.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/99af02446e28dbf46a09bcb1ce79c2ca_MD5.png)
 
   
 
@@ -957,7 +957,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b08337cdc97ecdac2f42a143cc17f850.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/85a5e67d74f055f42748f77ae4526c43_MD5.png)
 
   
 
@@ -967,7 +967,7 @@
 
   
 
-![WX20250523-132420.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/99c830920b15703dbd4befb0398672f3.png)
+![WX20250523-132420.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e301907bfcb4bb0f029c0fa8d7c115fb_MD5.png)
 
   
 
@@ -977,7 +977,7 @@
 
   
 
-![WX20250523-132822.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2d8b5a5d62698e65349c7773b32fe12d.png)
+![WX20250523-132822.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7a14f102d444b5de7a5854f9c09caf88_MD5.png)
 
   
 
@@ -987,7 +987,7 @@
 
   
 
-![WX20250523-133123.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/7aa4035a68fe2b3724d23851f1578756.png)
+![WX20250523-133123.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6172cc4c11c4e71824afefe514107270_MD5.png)
 
 
 
@@ -997,7 +997,7 @@
 
   
 
-![WX20250523-180753.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/c10870a4bebd7391c147402b83188181.png)
+![WX20250523-180753.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/974dec89f1922ea2677b8b97b4a1111b_MD5.png)
 
   
 
@@ -1011,7 +1011,7 @@
 
   
 
-![WX20250523-180958.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/830bb76441028cafc337090b113a0ff0.png)
+![WX20250523-180958.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5f8906c7cd45e12ca242b61da77c2297_MD5.png)
 
   
 
@@ -1025,7 +1025,7 @@
 
   
 
-![WX20250523-181359.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/568948de6599e8863600b4dc9ccf38d3.png)
+![WX20250523-181359.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0674bf8ef139e02acf26e129df095d7d_MD5.png)
 
   
 
@@ -1043,7 +1043,7 @@
 
   
 
-![WX20250523-181835.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f38d05a350a2af9a24eede8924f9a26b.png)
+![WX20250523-181835.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8350498c260e5b80fd1ff8c8df88a159_MD5.png)
 
   
 
@@ -1051,7 +1051,7 @@
 
   
 
-![WX20250523-181810.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b231170a6ab9fdc4b78e3825ff7d1013.png)
+![WX20250523-181810.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/37e73d357015bc46f5eaf2aa2345cd42_MD5.png)
 
   
 
@@ -1061,7 +1061,7 @@
 
   
 
-![WX20250523-182354.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/658b56298ded3203854dc768536c400f.png)
+![WX20250523-182354.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b4bea10d4fa089e51f80c0fff23cf05f_MD5.png)
 
 
 ## 编辑仓库
@@ -1070,7 +1070,7 @@
 
   
 
-![WX20250523-182213.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/ab83bae42e99f641ca3d9dbea8c74273.png)
+![WX20250523-182213.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f0a5fb0f455d6e239706db1d4bc8e7a7_MD5.png)
 
 
 
@@ -1080,7 +1080,7 @@
 
   
 
-![WX20250525-133459.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e3273e705713f85a38ac15a63a73e2a4.png)
+![WX20250525-133459.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/49b41bb23b46c06342d44a65eb3ecd77_MD5.png)
 
 
 ## 新增采购订单  
@@ -1091,11 +1091,11 @@
 
 ### 直接新增
 
-![WX20250523-201010.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f241cbf75a5c28cb8c5c1ca4ea860e1a.png)
+![WX20250523-201010.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dbcc3a93990ee5e470004e24208d2cf3_MD5.png)
 
   
 
-![WX20250523-201110.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/7f3210a1f6022e4ab5de3c0f336da2e8.png)
+![WX20250523-201110.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8bcd1be98d1066fde3fad8905011495a_MD5.png)
 
   
 
@@ -1108,11 +1108,11 @@
 |名称|说明/注意事项|
 |采购单号|必填，不用修改系统自动生成，星号代表随机数|
 |供应商|必选，下拉列表数据来源于【“客商管理”>“企业管理”】|
-|“选择产品”按钮|选择进销存中的产品添加产品：<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/fae89f9ab3e1c59be6f8a9f3c79efc20.png)<br><br>- 可以直接点击产品右侧的“选择”按钮添加产品<br>    <br>- 也可以先勾选产品，再点击“确认”按钮添加产品|
-|“添加产品”按钮|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/bedd95736fefcf275bf83c422b8644b3.png)<br><br>  <br><br>产品编码：不用修改，系统自动按规则生成，星号代表随机数  <br><br>此处添加新的产品后，新的产品也会在【“基础数据”>“产品管理”】中显示|
-|中间的搜索框|![WX20250523-203310.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f663389622b58576683f16066d424b90.png)<br><br>  <br><br>可以在搜索框中输入产品名称/首字母/简述/编码快速检索选择|
-|扫码枪扫码添加产品框|使用前提：产品已经在【“基础数据”>“产品管理”】中存在。<br><br>![WX20250525-141113.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/53b3f709edd8f2c518f68ebf9a97eeda.png)|
-|“导出PDF”、“打印”、“保存”、“提交”|![WX20250525-134910.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/51f207032461f4f7483a281f60907e68.png)|
+|“选择产品”按钮|选择进销存中的产品添加产品：<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5b9a07a312aac47384db7ea43b5cc3e8_MD5.png)<br><br>- 可以直接点击产品右侧的“选择”按钮添加产品<br>    <br>- 也可以先勾选产品，再点击“确认”按钮添加产品|
+|“添加产品”按钮|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/02b23b9da07cacd2e4d63ba0f9b5542a_MD5.png)<br><br>  <br><br>产品编码：不用修改，系统自动按规则生成，星号代表随机数  <br><br>此处添加新的产品后，新的产品也会在【“基础数据”>“产品管理”】中显示|
+|中间的搜索框|![WX20250523-203310.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/331222517f2ba27941bed6edc753cb1c_MD5.png)<br><br>  <br><br>可以在搜索框中输入产品名称/首字母/简述/编码快速检索选择|
+|扫码枪扫码添加产品框|使用前提：产品已经在【“基础数据”>“产品管理”】中存在。<br><br>![WX20250525-141113.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f46ff036908ba2f12264437169a723c6_MD5.png)|
+|“导出PDF”、“打印”、“保存”、“提交”|![WX20250525-134910.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ae813d6d84acd45d629a3b2d93487e0a_MD5.png)|
 
   
 
@@ -1122,7 +1122,7 @@
 
 【“采购管理”>“采购订单”】中的“新增”按钮下的“销售单导入”菜单，可以选择【“销售管理”>“销售订单”】中的产品列表的数据
 
-![WX20250523-204026.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b912746209fb45755fee36dce9f31708.png)
+![WX20250523-204026.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fa9cdfda85e406a3320cefb586adc5a6_MD5.png)
 
   
 
@@ -1136,7 +1136,7 @@
 
   
 
-![WX20250523-205221.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/94b921c3ddafb6669bcac84774c81ce0.png)
+![WX20250523-205221.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8c1e2ff1c309e54d8582103a48a7c054_MD5.png)
 
   
 
@@ -1144,7 +1144,7 @@
 
   
 
-![WX20250523-205501.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/95870fabc6ce828fd83fbab08225970c.png)
+![WX20250523-205501.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bc2453428dc002e54da39d3353fd74f3_MD5.png)
 
   
 
@@ -1156,13 +1156,13 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b1324f6fa5db53679ccb71c5693c9272.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d1c055cca249f0df116d50d927f71a99_MD5.png)
 
   
 
   
 
-![WX20250523-205939.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/4fb3fcbcc7fd583f4598cdf8b0698cae.png)
+![WX20250523-205939.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9e2f50a5152fd929ef64bde2ad5082d2_MD5.png)
 
   
 
@@ -1170,7 +1170,7 @@
 
   
 
-![WX20250525-132310.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/c5ca44143063c7a3d130a3f06a7fc8ae.png)
+![WX20250525-132310.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9ebe7af750c079b4813e3c00672a13dd_MD5.png)
 
   
 
@@ -1190,15 +1190,15 @@
 
 我们以“入库 & 直接入库” 为例，演示操作。
 
-![WX20250525-132724.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/5475ae3dfedc046354f1c30b555c0780.png)
+![WX20250525-132724.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c9661402dc9362d03662cc2f7ccc39ab_MD5.png)
 
   
 
-![WX20250525-142626.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a05a5fd88a50c0521346c25b6cffcf44.png)
+![WX20250525-142626.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f31e1c5dac0de1c5a7e30fe387f27b32_MD5.png)
 
   
 
-![WX20250525-142411.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/131ea0eed638416bbd2f321ceb71dad6.png)
+![WX20250525-142411.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8cd0eefce22c66e87f91f5e5f5e2072b_MD5.png)
 
   
 
@@ -1208,11 +1208,11 @@
 
 “采购订单”页面的数据右侧的“详情”页面中，有“数据打印”、“导出PDF”、“导出Excel”功能。“已入库”的数据的详情按钮页面，还有最终采购数量等详细信息。
 
-![WX20250525-144707.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/cb3b1d01f7a3e3ce1e851c09a5a0c14d.png)
+![WX20250525-144707.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cc6146a2ddc8c5b193dc1b9bbbc851f9_MD5.png)
 
   
 
-![WX20250525-144755.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/7b1c6491226f1fbedf3624d640ecd7fc.png)
+![WX20250525-144755.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/30cbfad3d919ff4a63061854d5a3acce_MD5.png)
 
   
 
@@ -1220,7 +1220,7 @@
 
   
 
-![WX20250526-115931.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/124f4ff70f61bed8b6697af4a458eeee.png)
+![WX20250526-115931.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/19a7ada9ceeb0d8141ccf7b60652e4bd_MD5.png)
 
 
 ## “数据打印”按钮
@@ -1229,7 +1229,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/112ca01eef9cc2d607ec8a6201444336.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dd1a73972b1574b77f924d9a9ae9cbec_MD5.png)
 
   
   
@@ -1266,7 +1266,7 @@
 
   
 
-![WX20250525-145458.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/63d24e9f3790011e7260c3327f3ebd18.png)
+![WX20250525-145458.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9c8d1f83dcd0931a66be1519b6cf2e82_MD5.png)
 
   
 
@@ -1292,7 +1292,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/9feae1d3ac4a7096f6785aa5472ef3cd.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/288032a25962e2905c0ec94fad50dab1_MD5.png)
 
   
   
@@ -1336,7 +1336,7 @@
 
   
 
-![WX20250525-150017.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/8e1836b41ab156bdde1fa6bdc4a4bf18.png)
+![WX20250525-150017.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3f46b72d901acd1be4315bcc49bd3336_MD5.png)
 
   
 
@@ -1362,7 +1362,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b38ea89c5381b298b4c26367875f12ef.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0eb0d6cd7d7679c2e64ce0e56aefbe3a_MD5.png)
 
   
 
@@ -1406,7 +1406,7 @@
 
   
 
-![WX20250526-130308.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/1ee1ec5f36d9ccbaf6a0213e84a02d68.png)
+![WX20250526-130308.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cf93f480619c3af341919a0cd23d4023_MD5.png)
 
   
 
@@ -1416,10 +1416,10 @@
 |销售单号|必填，不用修改，就按照系统的规格生成，星号代表随机数|
 |职员|选填，下拉列表的数据来源于【“基础数据”>“职员管理”】|
 |销售客户|必填，下拉列表的数据来源于【“客商管理”>“企业管理”】|
-|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>![WX20250526-130728.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2d9d6ff22de5d696a49d918779a148df.png)|
-|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250526-130918.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/0f3dc9c3b33cc03c62342bf8df05096f.png)<br><br>  <br><br>![WX20250526-131710.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e9d462253e61a6eac8529245eeb9a8ff.png)|
-|“添加产品”按钮|点击“添加产品”按钮之后，页面上会多一条数据信息，可以填写产品标签，选择计量单位，填写销售价格等<br><br>![WX20250526-131239.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/1ba8c7aca33134e4dfd2eef21cc688fe.png)<br><br>  <br><br>![WX20250526-131812.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/1eb354c493881279818c2198639b7674.png)|
-|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250526-131529.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/64dd43afd8d0972af0ea03954a661b0a.png)|
+|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>![WX20250526-130728.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c4e3f040ecf37d9870439773e40b9bd2_MD5.png)|
+|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250526-130918.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/271c450cfb3540db86ec83eae42bebcd_MD5.png)<br><br>  <br><br>![WX20250526-131710.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9d26028b039999b55721d158f82ff79d_MD5.png)|
+|“添加产品”按钮|点击“添加产品”按钮之后，页面上会多一条数据信息，可以填写产品标签，选择计量单位，填写销售价格等<br><br>![WX20250526-131239.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d4936759ef9685fcfd1973802c789b62_MD5.png)<br><br>  <br><br>![WX20250526-131812.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9868065ca53bdf98faa0e3ac36758cef_MD5.png)|
+|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250526-131529.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0c49033df9f30e67f25e8eb4df268435_MD5.png)|
 
   
 
@@ -1427,7 +1427,7 @@
 
   
 
-![WX20250526-132145.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/0622beef8aa8ff4e6a42771b88dea4d5.png)
+![WX20250526-132145.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/244ebcb8328ce9e7368f7ed3a54af732_MD5.png)
 
   
 
@@ -1435,7 +1435,7 @@
 
   
 
-![WX20250526-132316.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2a998c3150b1dcab4d6f4b41328154fe.png)
+![WX20250526-132316.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/45cd0579d5a30352a284e932975ef222_MD5.png)
 
   
 
@@ -1453,7 +1453,7 @@
 
   
 
-![WX20250526-133059.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/34837e46c3a5f85eb1f52a53928ce300.png)
+![WX20250526-133059.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/37c0eac82492218028e9cd71fdefec30_MD5.png)
 
   
 
@@ -1461,7 +1461,7 @@
 
   
 
-![WX20250526-133145.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/8f01a82d781903b2e3f47a5f85db7e7f.png)
+![WX20250526-133145.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e1c65c358cc8fc8a6eb0b564b90b149b_MD5.png)
 
   
 
@@ -1482,7 +1482,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/ef29d41e7d87eb0bd1ca4992e4db54dc.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/18796d537710ac5f8ec381c512c6a4c1_MD5.png)
 
   
 
@@ -1492,11 +1492,11 @@
 
   
 
-![WX20250526-154240.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/4e101cfe84bf3de5dc2b75628554626f.png)
+![WX20250526-154240.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/135420ea17e6fbbceafad456a6ef9884_MD5.png)
 
   
 
-![WX20250526-134628.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/8c7e60bd3a5a878ac044739a13d545f2.png)
+![WX20250526-134628.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4447e8399939790a8e67cc32c7205fc5_MD5.png)
 
   
 
@@ -1508,7 +1508,7 @@
 
   
 
-![WX20250526-134816.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/1c8de1593893fe1c793d13cdf6addf22.png)
+![WX20250526-134816.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/941520b9a4cab2bb5c0b706b082172d7_MD5.png)
 
   
 
@@ -1520,7 +1520,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/5bdcdf6336390981d596728257a42acd.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e4418d2f897f42784129854dcc78c248_MD5.png)
 
   
   
@@ -1565,11 +1565,11 @@
 
   
 
-![WX20250527-110459.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e8be9b3ee68192f864e64da40533f739.png)
+![WX20250527-110459.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/916c4da5c0620911de9db81094caedac_MD5.png)
 
   
 
-![WX20250527-110529.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a2b02f6fcf9a9dd140f09002b8d024d5.png)
+![WX20250527-110529.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/18d009e4fe117a0c0b60aa4c1b49efdb_MD5.png)
 
 ## “更多”按钮
 
@@ -1577,7 +1577,7 @@
 
   
 
-![WX20250527-095056.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/07ae1b3f448cee977f1938b761ff2c05.png)
+![WX20250527-095056.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f74aa4b15e7c1e0e51e1887f37e08340_MD5.png)
 
   
 
@@ -1593,7 +1593,7 @@
 
   
 
-![WX20250527-100219.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/db2fe92d64995f01501858d354a1b6ed.png)
+![WX20250527-100219.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/49c5db52bb971b38c4733f8c1f61d1f7_MD5.png)
 
   
 
@@ -1612,7 +1612,7 @@
 
   
 
-![WX20250527-104652.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b9446c73d7107210a44df6a7d7240c91.png)
+![WX20250527-104652.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9a4c3af160cbc934d23c94824ba30351_MD5.png)
 
   
 
@@ -1634,7 +1634,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/8529c1fc8467f892c0d3f9914a8642c0.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f5ec9093a687bb2740d41a8f80ee4f5d_MD5.png)
 
   
   
@@ -1685,11 +1685,11 @@
 
   
 
-![WX20250527-111024.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/9fbd1307387b518d8f2ef160b2dc4b34.png)
+![WX20250527-111024.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/95b787feb2cf05db1d213d62ebde5a38_MD5.png)
 
   
 
-![WX20250527-111050.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/29f12203b2e1f205897ba7c98aa445c1.png)
+![WX20250527-111050.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/96c60dfceb9d669cd41b348f4680f37b_MD5.png)
 
   
 
@@ -1697,7 +1697,7 @@
 
   
 
-![WX20250527-111211.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/68492d6492fd9a3039b6ad1fd7879e11.png)
+![WX20250527-111211.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3b7b50f6dad15b18e12bf3106b1657d2_MD5.png)
 
   
 
@@ -1721,7 +1721,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/7993de481f20b3f1515b5c819e08d91f.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/74c0ef26d61877883c3ed0f82d05aefa_MD5.png)
 
   
   
@@ -1777,9 +1777,9 @@
 |仓库|选选，下拉列表的数据来源于【“基础数据”>“仓库管理”】|
 |退货状态|必选，“待退货”、“已退货”|
 |退货客户|必选，下拉列表的数据来源于【“客商管理”>“企业管理”】|
-|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250527-144846.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/ea427812208471ba4f2efd1448e4afd3.png)<br><br>  <br><br>![WX20250527-144924.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/c2d567d6ccc47d32c2f41274eadf9412.png)|
-|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250527-145040.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/d8f86ee807e85ad3ac4bcd2ac692a988.png)|
-|快速搜索产品框|![WX20250527-145205.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/29f12203b2e1f205897ba7c98aa445c1.png)|
+|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250527-144846.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ff2eae53edb76b177b49e32b5e676038_MD5.png)<br><br>  <br><br>![WX20250527-144924.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/537032506cf4eebf178b4ba77fd6d411_MD5.png)|
+|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250527-145040.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/48e9f655eb122ed8d7d89d265d04f930_MD5.png)|
+|快速搜索产品框|![WX20250527-145205.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/96c60dfceb9d669cd41b348f4680f37b_MD5.png)|
 
   
 
@@ -1801,7 +1801,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/7993de481f20b3f1515b5c819e08d91f.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/74c0ef26d61877883c3ed0f82d05aefa_MD5.png)
 
   
   
@@ -1846,16 +1846,16 @@
 
   
 
-![WX20250528-090328.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/09f50afa5f0ad1f2eb30bc820e95d22b.png)
+![WX20250528-090328.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3b7e87cf21f7d368a2a38dd07c0b3b75_MD5.png)
 
   
 
-![WX20250528-090415.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/cddc299c78d815127d1d42c8429f65ef.png)
+![WX20250528-090415.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b0c66f5b7a10d88d2844658012a0a562_MD5.png)
 
   
 
   
-![WX20250528-090507.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e6c72f5056cef2822387715faf82459f.png)
+![WX20250528-090507.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/22b5eae73b6a7707e048a07770c5a7df_MD5.png)
 
   
 
@@ -1865,7 +1865,7 @@
 
 【“商城订单”>“商城订单”】中，点击“批量发货”按钮，上传表头包含“订单号”、“快递公司”、“快递单号”的excel就可以进行批量发货。
 
-![WX20250528-090715.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/9aeda7edea489d351f5154bf4faddd00.png)
+![WX20250528-090715.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2758385cf8f9c60e7df45cda81b34735_MD5.png)
 
   
 
@@ -1885,7 +1885,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/76f3df9748401956e1af3183feffb585.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/96fd51328ce653bdd9b26559975bb134_MD5.png)
 
   
 
@@ -1937,10 +1937,10 @@
 |入库单号|必填，不用修改，就按照系统的规格生成，星号代表随机数|
 |仓库|必选，下拉列表的数据来源于【“基础数据”>“仓库管理”】|
 |入库状态|必选|
-|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>![WX20250528-093006.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/88081c8ff3033278cd8d7d9df44e57e7.png)|
-|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250528-093050.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f29bd324c34138fe65da910d6ab4f6a5.png)<br><br>  <br><br>![WX20250528-093127.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/9299ab27079340ed71457da2417ff664.png)|
-|“添加产品”按钮|点击“添加产品”按钮之后，页面上会多一条数据信息，可以填写产品标签，选择计量单位，填写销售价格等<br><br>![WX20250528-093237.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e35ab970b63b0f7a38cefff2c2733d97.png)<br><br>  <br><br>![WX20250528-093327.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/8f8cb3602b64ac6bd265238ad0655e8e.png)|
-|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250528-093400.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e2ff9843386d84c5428f601dbb985624.png)|
+|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>![WX20250528-093006.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4a47c46b42e8fcfe5d71005ef9261fed_MD5.png)|
+|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250528-093050.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/035d94e4faf1b9572701d3dae76b2903_MD5.png)<br><br>  <br><br>![WX20250528-093127.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/673ae187e1c30306ecc7549f7e20019d_MD5.png)|
+|“添加产品”按钮|点击“添加产品”按钮之后，页面上会多一条数据信息，可以填写产品标签，选择计量单位，填写销售价格等<br><br>![WX20250528-093237.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/47a2c1eda71e9f184acf3b4c67d85bbb_MD5.png)<br><br>  <br><br>![WX20250528-093327.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/58fa0cf5a4cbdd3738780d306823e2f3_MD5.png)|
+|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250528-093400.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/613978dcda8d0bb97ec48a4949c37f6b_MD5.png)|
 
   
 
@@ -1958,7 +1958,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a81c8cbfbd438d050db6627ba495eb8e.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0d0d2449bf450ea3ddf5aebe90a459d7_MD5.png)
 
   
 
@@ -2012,10 +2012,10 @@
 |出库单号|必填，不用修改，就按照系统的规格生成，星号代表随机数|
 |仓库|必选，下拉列表的数据来源于【“基础数据”>“仓库管理”】|
 |出库状态|必选|
-|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>![WX20250528-110403.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/0d4054b37f41765bdf710e9c9d6d08fa.png)|
-|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250528-110454.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/d3b14349bb11c2b01dc56ad72536277d.png)<br><br>  <br><br>![WX20250528-110616.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/d52d3c86562c642a4d9a42935035d714.png)|
-|“添加产品”按钮|点击“添加产品”按钮之后，页面上会多一条数据信息，可以填写产品标签，选择计量单位，填写销售价格等<br><br>![WX20250528-110706.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/a4e7c7dd132d69cd7597bff2ba607332.png)<br><br>  <br><br>![WX20250528-110740.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/fe7eb47000f0bb596bcc52d6827d8420.png)|
-|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250528-110824.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/3b622ef846094121b471642f13e0b5d4.png)|
+|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>![WX20250528-110403.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/39f553087d9e1731be7bb670827264f7_MD5.png)|
+|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250528-110454.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3c1ca1bf30b944f0b12cb5513944f2b1_MD5.png)<br><br>  <br><br>![WX20250528-110616.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/16881f0f82093f5113d0c53c13f70312_MD5.png)|
+|“添加产品”按钮|点击“添加产品”按钮之后，页面上会多一条数据信息，可以填写产品标签，选择计量单位，填写销售价格等<br><br>![WX20250528-110706.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/72cb9ffa3a08901d5c9b89e97bc9fcab_MD5.png)<br><br>  <br><br>![WX20250528-110740.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8f77a3124cf475b7f2eab7480322a1fa_MD5.png)|
+|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250528-110824.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/200b9422c0f4dfa3fbfb3bee2efca4ce_MD5.png)|
 
   
 
@@ -2033,7 +2033,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/4684bc05f832e12ea8adec27f1a1a1ea.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e0381c13126127da47305473aa8ec497_MD5.png)
 
   
 
@@ -2085,9 +2085,9 @@
 |盘点单号|必填，不用修改，就按照系统的规格生成，星号代表随机数|
 |仓库|必选，下拉列表的数据来源于【“基础数据”>“仓库管理”】|
 |盘点状态|必选|
-|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>  <br><br>![WX20250528-111722.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/9db19001dde7724ca1e34a53451c80b7.png)|
-|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250528-111821.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/0d9a4fa03101c543c0c3bcc70d22d0c5.png)<br><br>  <br><br>![WX20250528-111859.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/07256d54ff720e23030086b17062ad4f.png)|
-|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250528-111947.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f80c8a74ba8db08c6a5b9875ebb510a0.png)|
+|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>  <br><br>![WX20250528-111722.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f050552afa3e0f6e02a8f89bc0dceda4_MD5.png)|
+|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250528-111821.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cce6226323a324689dd516bbe6964b1f_MD5.png)<br><br>  <br><br>![WX20250528-111859.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e5f6c5970dd74619122b1ac9660950f6_MD5.png)|
+|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250528-111947.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/da603f7a7741f33c862437a5884a13f3_MD5.png)|
 
   
 
@@ -2105,7 +2105,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/0d88230c7bc8713e18e18a563f9e7efc.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/87a48dd26bc003d65ec74a2f3765d93d_MD5.png)
 
   
 
@@ -2159,9 +2159,9 @@
 |调拨状态|必选|
 |调出仓库|必选，下拉列表的数据来源于【“基础数据”>“仓库管理”】|
 |调入仓库|必选，下拉列表的数据来源于【“基础数据”>“仓库管理”】|
-|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>  <br><br>![WX20250528-112859.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/dbd6b9af4600edc634759efc11e96d94.png)|
-|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250528-112944.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f0f6f7bf03cdfa50953db110173ac41a.png)<br><br>  <br><br>![WX20250528-113021.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/8d4929535e76d01ff7d5056ce06c4b42.png)|
-|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250528-113059.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/22cf276cd6f79f3a210fae7840b62110.png)|
+|快速搜索产品框|可以快速地通过名称等信息搜索到产品并添加<br><br>  <br><br>![WX20250528-112859.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7060d160cfb3d7ddad5d30bb59582b27_MD5.png)|
+|“选择产品”按钮|“选择产品”按钮点击之后，会列出所有【“基础数据”>“产品管理”】中的产品<br><br>- 可以直接点击产品右侧的“选择”按钮，添加产品<br>    <br>- 可以勾选产品，再点击“确认”按钮，添加产品  <br>    <br><br>  <br><br>![WX20250528-112944.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9b9812bd3cfa508f1b09bea2244f7540_MD5.png)<br><br>  <br><br>![WX20250528-113021.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/17c42048ae8c78b48447e2595ae44358_MD5.png)|
+|扫码枪扫码“产品ID/编码/条形码”|使用扫码枪扫码的前提是该产品已经存在于【“基础数据”>“产品管理”】中<br><br>  <br><br>![WX20250528-113059.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0bd2be53e575febbab5a848fcf420bb1_MD5.png)|
 
   
 
@@ -2179,7 +2179,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/af672d9e7009095ad3f8a91cadd26333.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c0e5eba120315db4767497f762d26f0d_MD5.png)
 
   
 
@@ -2219,11 +2219,11 @@
 
 【“库存管理”>“库存日志”】中“操作类型”为“同步”的意思是，与商城同步。
 
-![WX20250528-115138.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/b48e373b143d457517fd69b64a51c1f5.png)
+![WX20250528-115138.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3c7c64f832ebb0689b2d1fb29d65ac3d_MD5.png)
 
   
 
-![WX20250528-115347.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/ea2d48de72db63fe957c167127d640c1.png)
+![WX20250528-115347.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c6cc47633e4d576de8effa54ac569b4a_MD5.png)
 
 
 
@@ -2233,7 +2233,7 @@
 
 当【“采购管理”>“采购订单”】中创建一个采购单时，【“资金账单”>“采购付款单”】相应会有对应采购单的采购付款单数据。
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/fb90c2baee82646622d09a91d9656e5a.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d209a495867e6f9c1e91ee8340e9fc13_MD5.png)
 
 
 ## “更多”按钮
@@ -2250,7 +2250,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/ef0e7ddf0efca26fe711b1d96a579c92.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/52a7cc0a11b604a3c39a7c1541a97ba3_MD5.png)
 
   
 
@@ -2264,13 +2264,13 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e9d942813efea8f4e1f9172ce3d6c30a.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/47ef6e2ad24769416c86e08436fa82d1_MD5.png)
 
   
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/6861abf7b7ddc795aa301ca72b2c023d.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d81548d2551f73e821cc62370bf48966_MD5.png)
  
 
 ## “数据打印”按钮
@@ -2279,7 +2279,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/e7cb8e12d00dd4e09d793c331722c71f.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d7e1cf6cb0229efd6d4dc6d71454be3_MD5.png)
 
   
 
@@ -2315,7 +2315,7 @@
 
 当【“销售管理”>“销售订单”】中创建一个销售单时，【“资金账单”>“销售收款单”】相应会有对应销售单的销售付款单数据。
 
- ![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/aa18ad3a64253b4d535e8e3e524e7898.png)
+ ![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e3a88a27433a584dc8a5910cd8244f3b_MD5.png)
 
   
 
@@ -2328,18 +2328,18 @@
 
 ### 收款
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2064130a6f92139c9105168755271add.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/051e67f08a012baac5da71030b3bcb27_MD5.png)
 
   
 
 
 ### 开票
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/6ecc6dd621c6389a268fbd1d12d8c349.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4cde6957db998f78c46b0d8ef52478a4_MD5.png)
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/05c191a0b60c44c4f946f80f053dd792.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4fc88a358d3decfe7159494623d7f47a_MD5.png)
 
   
 
@@ -2352,7 +2352,7 @@
 
   
 
-![](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/d6d457aa34849b59139ef8144a9432bc.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/34e9915b460c37b8732f7d40535bcc50_MD5.png)
 
   
 
@@ -2394,7 +2394,7 @@
 
   
 
-![WX20250528-125813.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/058183ce120f6d2b45f48b362cb45bbc.png)
+![WX20250528-125813.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ff7b82858918586ba378f07cdaac0257_MD5.png)
 
 
 
@@ -2404,7 +2404,7 @@
 
   
 
-![WX20250528-130135.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/9ff10c36de7c0560ac3d63b912e23422.png)
+![WX20250528-130135.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/281f6b5b660469592b8df393d987ea28_MD5.png)
 
 
 
@@ -2416,7 +2416,7 @@
 
   
 
-![WX20250528-130216.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2c4c1af0c195682cb92804dd38540a5a.png)
+![WX20250528-130216.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9ac2dc11d7fc03bca72a4e385e2fba05_MD5.png)
 
 
 
@@ -2426,7 +2426,7 @@
 
   
 
-![WX20250528-130318.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/03ba6500a4f798c08ffd7fea15e49e26.png)
+![WX20250528-130318.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/441ef980a2c2c4e5b61f9dd988273e54_MD5.png)
 
 
 
@@ -2436,7 +2436,7 @@
 
   
 
-![WX20250528-130416.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/5d8db2dcec9d9bc7154c85a1cf252273.png)
+![WX20250528-130416.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/93312e64706420eaa039bc5162623dd0_MD5.png)
 
 
 
@@ -2449,7 +2449,7 @@
 
   
 
-![WX20250528-130536.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/5d3c1ca61fe108b8ce96b15ece682ccc.png)
+![WX20250528-130536.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3b3ddf56c1011d8c7337d4e173c33845_MD5.png)
 
 
 
@@ -2459,7 +2459,7 @@
 
   
 
-![WX20250528-130630.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/2d278e578a6756ee6aae18ad181b8a76.png)
+![WX20250528-130630.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d0f3e760189309df44bb9dde12506e48_MD5.png)
 
 
 
@@ -2469,7 +2469,7 @@
 
   
 
-![WX20250528-130726.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/290612bea54b448c25118846d470aabd.png)
+![WX20250528-130726.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3a3f78b17472c111f74dbfbdfaeeeb96_MD5.png)
 
 
 
@@ -2479,7 +2479,7 @@
 
   
 
-![WX20250528-130818.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/28181e81262767fc55de67b6312563bd.png)
+![WX20250528-130818.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4a1e548283a62d6345193b283618cc3e_MD5.png)
 
 
 
@@ -2497,7 +2497,7 @@
 
   
 
-![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/bf66f045c1df2cb2e06a5b59853ab599.png)
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2b9466e015f77635ad58ee7fbd2143ce_MD5.png)
 
 
 
@@ -2507,7 +2507,7 @@
 
   
 
-![WX20250528-131317.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/6f6fcb83c04de646834ef2330c6ac667.png)
+![WX20250528-131317.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/91d43b1ffde528d610e634f640c583ca_MD5.png)
 
 
 
@@ -2517,7 +2517,7 @@
 
   
 
-![WX20250528-131427.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/ad13ea336091f39ff386b5c8d4df8520.png)
+![WX20250528-131427.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4d92033ee50338827fb6ddfe4fbf059d_MD5.png)
 
   
 
@@ -2527,11 +2527,11 @@
 
   
 
-![WX20250528-131747.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/f7301aac14421dbe7b17e20a430a13ca.png)
+![WX20250528-131747.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3f421c0a57a844ce513a629d72584191_MD5.png)
 
   
 
-![WX20250528-131920.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdbpic@master/img/5e3d01ce292a6dcc1abb5760f40d8175.png)
+![WX20250528-131920.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1d4df1f496ab64e0e5d72b6fadfff1f4_MD5.png)
 
 
 
@@ -2549,13 +2549,13 @@
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744091587915835.png "1744091587915835.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/afb3825b839f95db6d0b21f5468ccd2f_MD5.png)
 
   
 
 网站名称和logo：【“站点”------>“站点设置”-------->“基础配置”】修改 “站点名称” 和 “电脑端logo“
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744091492864415.png "1744091492864415.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/32065004c3d230e47d8a9d4cfb157c14_MD5.png)
 
   
 
@@ -2566,12 +2566,12 @@
 |   |
 |---|
 |首页配置项|
-|首页轮播左侧商品分类是否开启：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页轮播左侧商品分类）开关控制是否显示<br><br>![WX20250422-111503.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/22/1745291385857737.png)|
-|首页轮播右侧聚合内容（用户头像和用户名、订单状态、资讯头条）：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页轮播右侧聚合内容）开关控制是否显示<br><br>![WX20250422-111924.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/22/1745291613583278.png)|
+|首页轮播左侧商品分类是否开启：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页轮播左侧商品分类）开关控制是否显示<br><br>![WX20250422-111503.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f34494dfbb6324607f9d34926fe61a39_MD5.png)|
+|首页轮播右侧聚合内容（用户头像和用户名、订单状态、资讯头条）：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页轮播右侧聚合内容）开关控制是否显示<br><br>![WX20250422-111924.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b0cd5d2b8032bac7b38e9727552efd3c_MD5.png)|
 |首页楼层数据模式<br><br>自动模式：显示已配置的商品<br><br>手动模式：可更换显示的商品，可调节商品的顺序<br><br>拖拽模式：可自己设计页面|
-|首页楼层左侧二级商品分类：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页楼层左侧二级商品分类）勾选需要展示的分类<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744093888431082.png "1744093888431082.png")|
-|首页楼层左侧大图片：【“商品”------>“商品分类”】中（编辑当前展示的一级分类中的大图片）<br><br>![QQ20250411-163506.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744360183870229.png "1744360183870229.png")|
-|首页楼层顶部右侧关键字：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页楼层顶部右侧关键字）设置需要展示的搜索关键字<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744093960329826.png "1744093960329826.png")|
+|首页楼层左侧二级商品分类：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页楼层左侧二级商品分类）勾选需要展示的分类<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/47e43eb6ec9d10c97e647c016aab8119_MD5.png)|
+|首页楼层左侧大图片：【“商品”------>“商品分类”】中（编辑当前展示的一级分类中的大图片）<br><br>![QQ20250411-163506.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/157db88816368c1bf7a98706f6565a70_MD5.png)|
+|首页楼层顶部右侧关键字：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页楼层顶部右侧关键字）设置需要展示的搜索关键字<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7e530cd0941c14851cfd4a293c1ae693_MD5.png)|
 |当“首页楼层数据模式类型”为“自动模式”时，有以下三种配置：<br><br>- 首页楼层商品数量：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页楼层商品数量）设置数量<br>    <br>- 首页楼层商品排序类型：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页楼层商品排序类型）选择排序类型<br>    <br>- 首页楼层商品排序规则：【“站点”------>“站点设置”-------->“网站设置”------>“首页”】中（首页楼层商品排序规则）选择排序规则|
 
   
@@ -2580,7 +2580,7 @@ pc端主导航开关控制：【“站点”------>“站点设置”-------->�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744092562603175.png "1744092562603175.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/af3ff2bd70c2f6f99813a12914c13e16_MD5.png)
 
   
 
@@ -2590,7 +2590,7 @@ pc端顶部小导航开关控制：【“站点”------>“站点设置”-----
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744092667214079.png "1744092667214079.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4c7c94a67b76e2291d7f974fa7eab8e0_MD5.png)
 
   
 
@@ -2598,7 +2598,7 @@ pc端顶部快捷导航开关控制：【“站点”------>“站点设置”--
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744093465516400.png "1744093465516400.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/06cf2c1a12a364da6d0a16c0f972b24b_MD5.png)
 
   
 
@@ -2606,7 +2606,7 @@ pc端logo及搜索栏开关控制：【“站点”------>“站点设置”----
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744092805102333.png "1744092805102333.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9568545dfbcab715d7cf46bf9ccf8689_MD5.png)
 
   
 
@@ -2614,7 +2614,7 @@ pc端首页轮播配置：【“网站”------>“首页轮播”】  参考�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744096945181382.png "1744096945181382.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3aa682aac0ace0c0d52a770b0df923e0_MD5.png)
 
   
 
@@ -2627,7 +2627,7 @@ pc端底部页脚开关和内容控制：
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744093293843366.png "1744093293843366.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/174899003f895dcc8aa385bede814323_MD5.png)
 
   
 
@@ -2645,7 +2645,7 @@ ICP证书号：【“站点”----->“站点设置”---->“基础配置”---
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744094491169639.png "1744094491169639.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/592f598abcf99b1136cda24b7d2e9571_MD5.png)
 
   
 
@@ -2653,7 +2653,7 @@ pc端底部右侧商店信息： 【“系统”------->“商店信息”】中
 
   
 
-![WX20250326-202506.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/26/1742991597460785.png "1742991597460785.png")
+![WX20250326-202506.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/41a3fe50b49a58746f3b81ec5cb376e2_MD5.png)
 
   
 
@@ -2664,15 +2664,15 @@ pc端底部右侧商店信息： 【“系统”------->“商店信息”】中
 |   |
 |---|
 |导航内容配置|
-|导航内容配置位置：【“网站”------>“导航管理”】中配置<br><br>![QQ_1744359126496.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744358873674819.png "1744358873674819.png")|
-|中间导航：【“网站”------>“导航管理”---->“中间导航”】中配置<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744095003580979.png "1744095003580979.png")|
-|底部导航：【“网站”------>“导航管理”---->“底部导航”】中配置<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744094886543661.png "1744094886543661.png")|
+|导航内容配置位置：【“网站”------>“导航管理”】中配置<br><br>![QQ_1744359126496.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e3934aeb88cd27e56caa83db70366f15_MD5.png)|
+|中间导航：【“网站”------>“导航管理”---->“中间导航”】中配置<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cf4a43e9fa770be26aedf2225d26dfdd_MD5.png)|
+|底部导航：【“网站”------>“导航管理”---->“底部导航”】中配置<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3ef724569d5fd302469f6667812c13c3_MD5.png)|
 
   
 
 pc端底部友情链接友情链接配置：【“网站”--->“友情链接”】  参考文档   [友情链接 >>](https://store.shopxo.net/doc-index-detail-13.html?dcid=139)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743768423319181.png "1743768423319181.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e402ace4b5e1c3ca6e3b7df2dbe28af9_MD5.png)
 
 
 
@@ -2688,27 +2688,27 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |新增商品分类：在【“商品”------>"商品分类"】中进行配置|   |
 |删除商品分类：在【“商品”------>"商品分类"】中进行配置|   |
 |编辑商品分类：在【“商品”------>"商品分类"】中进行配置|   |
-|首页轮播左侧分类小图标上传：【“商品”------>"商品分类"---->“编辑”】编辑图标  <br>  <br>![WX20250402-105259.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743562052697666.png "1743562052697666.png")|   |
-|首页轮播左侧分类小图标选中时的图标上传：【“商品”------>"商品分类"---->“编辑”---->“选中图标”】编辑选中图标<br><br>  <br><br>![WX20250402-105441.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743562151725908.png "1743562151725908.png")|   |
-|首页点击“全部分类”页签后显示的图片上传：【“商品”------>"商品分类"---->“编辑”---->“实景图”】编辑实景图<br><br>- 【“站点”-------->"网站设置"--------->"商品"---------->"分类展示层级”】为 “一级分类” 时<br>    <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200986395826.png "1744200986395826.png")<br><br>![WX20250402-110804.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743562953674344.png "1743562953674344.png")<br><br>  <br><br>- “站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”为 “分类+商品” 时<br>    <br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200373682130.png "1744200373682130.png")<br><br>![WX20250402-110929.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743563041459566.png "1743563041459566.png")|   |
-|首页楼层左侧的大图片上传：【“商品”------>"商品分类"---->“编辑”---->“大图片”】编辑大图片<br><br>  <br><br>![WX20250402-112045.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743563848703641.png "1743563848703641.png")|   |
+|首页轮播左侧分类小图标上传：【“商品”------>"商品分类"---->“编辑”】编辑图标  <br>  <br>![WX20250402-105259.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2a1a9ee4ff875dfac338cd85fb8ab878_MD5.png)|   |
+|首页轮播左侧分类小图标选中时的图标上传：【“商品”------>"商品分类"---->“编辑”---->“选中图标”】编辑选中图标<br><br>  <br><br>![WX20250402-105441.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/95e6f0e083119289b380e3cba5b13c6d_MD5.png)|   |
+|首页点击“全部分类”页签后显示的图片上传：【“商品”------>"商品分类"---->“编辑”---->“实景图”】编辑实景图<br><br>- 【“站点”-------->"网站设置"--------->"商品"---------->"分类展示层级”】为 “一级分类” 时<br>    <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/40a802f28e1ad8f2e9f661a872d79c18_MD5.png)<br><br>![WX20250402-110804.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e845765383e53092d9883496dd511393_MD5.png)<br><br>  <br><br>- “站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”为 “分类+商品” 时<br>    <br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9d35c4411292325c3418afbfdbb4c7ae_MD5.png)<br><br>![WX20250402-110929.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7f780ef35b22252cd9374d9f66617c06_MD5.png)|   |
+|首页楼层左侧的大图片上传：【“商品”------>"商品分类"---->“编辑”---->“大图片”】编辑大图片<br><br>  <br><br>![WX20250402-112045.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/26418a7d0972dfed8d4ca2b035b05fe2_MD5.png)|   |
 |商品分类的名称设置：【“商品”------>"商品分类"---->“编辑”---->“名称”】编辑名称|   |
-|商品分类的副名称设置：【“商品”------>"商品分类"---->“编辑”---->“副名称”】编辑副名称  <br>![WX20250402-111432.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743563337983439.png "1743563337983439.png")|   |
-|商品分类的副名称设置：【“商品”------>"商品分类"---->“编辑”---->“副名称”】编辑副名称 （【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “二级分类” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248373721343.png "1744248373721343.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744249701980702.png "1744249701980702.png")|   |
-|商品分类的副名称设置：【“商品”------>"商品分类"---->“编辑”---->“副名称”】编辑副名称 （【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “三级分类” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248689973775.png "1744248689973775.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744249814442563.png "1744249814442563.png")|   |
-|商品分类的描述设置：【“商品”------>"商品分类"---->“编辑”---->“描述”】编辑描述（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “二级分类” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248373721343.png "1744248373721343.png")<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744249939501893.png "1744249939501893.png")|   |
-|商品分类的描述配置：【“商品”------>"商品分类"---->“编辑”---->“描述”】编辑描述（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “三级分类” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248689973775.png "1744248689973775.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744250062572109.png "1744250062572109.png")|   |
+|商品分类的副名称设置：【“商品”------>"商品分类"---->“编辑”---->“副名称”】编辑副名称  <br>![WX20250402-111432.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d0bf50f00c70509eaf0025f7fb435238_MD5.png)|   |
+|商品分类的副名称设置：【“商品”------>"商品分类"---->“编辑”---->“副名称”】编辑副名称 （【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “二级分类” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dc7d6f4570ec48cca41ad5269f667f7b_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0dfe5fac3780da85593cab93bccf4778_MD5.png)|   |
+|商品分类的副名称设置：【“商品”------>"商品分类"---->“编辑”---->“副名称”】编辑副名称 （【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “三级分类” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d928dd4eaef91083d9b7e58bc9a11121_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4a119f7f9567d9983612224fd358c259_MD5.png)|   |
+|商品分类的描述设置：【“商品”------>"商品分类"---->“编辑”---->“描述”】编辑描述（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “二级分类” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dc7d6f4570ec48cca41ad5269f667f7b_MD5.png)<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0bf6ebe7057705ad4fea03702b7104c9_MD5.png)|   |
+|商品分类的描述配置：【“商品”------>"商品分类"---->“编辑”---->“描述”】编辑描述（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “三级分类” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d928dd4eaef91083d9b7e58bc9a11121_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ba787daaff56caa90df582319bb0803f_MD5.png)|   |
 |调背景色|   |
 |在所有分类中的显示顺序设置：【“商品”------>"商品分类"---->“编辑”---->“顺序”】  <br>数值越大，越靠后|   |
 |是否启用|   |
 |商品分类是否显示在首页开关：【“商品”------>"商品分类"---->“编辑”---->“首页推荐”】|   |
-|SEO标题、SEO关键则、SEO描述  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744161928288274.png "1744161928288274.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744161564995199.png "1744161564995199.png")|   |
+|SEO标题、SEO关键则、SEO描述  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/26cfde7a23b3c6b1baea51d2f13001a6_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/765fef2994802a90b2b18406cd521f01_MD5.png)|   |
 
   
 
 商品分类最多添加三级菜单
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744159297191679.png "1744159297191679.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4ffbb239141c3c6392f7f11a344f8b01_MD5.png)
 
   
 
@@ -2716,7 +2716,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![WX20250402-104011.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743561327683309.png "1743561327683309.png")
+![WX20250402-104011.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/853b04b5272d42be4ed8ee43e0f83d4a_MD5.png)
 
   
 
@@ -2724,23 +2724,23 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744198863183867.png "1744198863183867.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dc3ab6cad72fdb4049cdbf5df860efc2_MD5.png)
 
   
 
 点击首页“商品分类”页签之后的显示样式为一级分类：【“站点”----->"网站设置"------>"商品"--->“分类展示层级”】配置 为“一级分类”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744198884302423.png "1744198884302423.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3c3e185036dcf68a717ef7aadaf063d9_MD5.png)
 
 点击首页“商品分类”页签之后的显示样式为“二级分类”：【“站点”----->"网站设置"------>"商品"--->“分类展示层级”】配置 为“二级分类”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744198904495597.png "1744198904495597.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d2308135f5a2ddb03ce433c7548ae2ff_MD5.png)
 
   
 
 点击首页“商品分类”页签之后的显示样式为“三级分类”：【“站点”----->"网站设置"------>"商品"--->“分类展示层级”】配置 为“三级分类”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744198926495444.png "1744198926495444.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/60cee586bb6053adcecb9d99bb6856bc_MD5.png)
 
 
 
@@ -2758,14 +2758,14 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |---|---|
 |内容|   |
 |是否开启搜索记录：【“站点”--------->“站点设置”--------->"网站设置“------------>"搜索”------>“是否开启搜索记录”】，数据库会记录这个搜索日志|   |
-|- 关闭搜索关键字：【“站点”--------->"站点设置"---->"网站设置“------------>"搜索”------>“搜索关键字类型”】设置为“关闭”<br>    <br>- 自定义搜索关键字：【“站点”--------->"站点设置"---->"网站设置“------------>"搜索”------>“搜索关键字类型”】设置为“自定义”，在“搜索关键字”文本框中输入自定义的关键字<br>    <br>- 搜索关键字设置为搜索频次最多的：【“站点”--------->"站点设置"---->"网站设置“------------>"搜索”------>“搜索关键字类型”】设置为“自动”，自动取10个搜索最多的关键字<br>    <br><br>  <br><br>![WX20250327-151710.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743059535954406.png "1743059535954406.png")|   |
+|- 关闭搜索关键字：【“站点”--------->"站点设置"---->"网站设置“------------>"搜索”------>“搜索关键字类型”】设置为“关闭”<br>    <br>- 自定义搜索关键字：【“站点”--------->"站点设置"---->"网站设置“------------>"搜索”------>“搜索关键字类型”】设置为“自定义”，在“搜索关键字”文本框中输入自定义的关键字<br>    <br>- 搜索关键字设置为搜索频次最多的：【“站点”--------->"站点设置"---->"网站设置“------------>"搜索”------>“搜索关键字类型”】设置为“自动”，自动取10个搜索最多的关键字<br>    <br><br>  <br><br>![WX20250327-151710.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0e8d8ea33698831558dc7e39b688cb1d_MD5.png)|   |
 |设置“搜索禁止UserAgent”：比如当前操作系统为windows，输入windows，则当前电脑就不能在shopxo网站进行搜索了|   |
-|页面右下角的搜索展示数据条数设置：【“站点”--------->“站点设置”--------->"网站设置“------------>"搜索”----->“搜索展示数据条数”】  <br>![WX20250327-152748.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743060184829244.png "1743060184829244.png")|   |
+|页面右下角的搜索展示数据条数设置：【“站点”--------->“站点设置”--------->"网站设置“------------>"搜索”----->“搜索展示数据条数”】  <br>![WX20250327-152748.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c1e13d024319980c1cf29e1dd1711e37_MD5.png)|   |
 |搜索是否需要登录开关：【“站点”--------->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索需要登录”】|   |
 |搜索多个关键字之间并且关系设置：【“站点”--------->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索多个关键字并且关系”】，默认为否，“或”关系|   |
 |搜索关键字包含SEO字段|   |
-|- 搜索页开启“品牌”开关控制：【“站点”---->"站点设置"--------->"网站设置“------------>"搜索”---->"搜索页开启品牌”】<br>    <br>- 搜索页开启“分类”开关控制：【“站点”---->"站点设置"--------->"网站设置“------------>"搜索”---->"搜索页开启分类”】<br>    <br>- 搜索页开启“价格”开关控制：【“站点”---->"站点设置"--------->"网站设置“------------>"搜索”---->"搜索页开启价格”】<br>    <br>- 搜索页开启“商品产地”开关控制：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索页开启商品产地”】<br>    <br>- 搜索页开启“参数”开关控制：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索页开启参数”】<br>    <br>- 搜索页配置参数类型：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索参数类型”】，可选“详情”、“基础”、“全部”<br>    <br>- 搜索页开启“规格”开关控制：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索页开启规格”】<br>    <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744081592929245.png "1744081592929245.png")|   |
-|搜索页商品展示样式设置：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索商品展示样式”】，可以是九宫格或图文列表<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744081655418960.png "1744081655418960.png")|   |
+|- 搜索页开启“品牌”开关控制：【“站点”---->"站点设置"--------->"网站设置“------------>"搜索”---->"搜索页开启品牌”】<br>    <br>- 搜索页开启“分类”开关控制：【“站点”---->"站点设置"--------->"网站设置“------------>"搜索”---->"搜索页开启分类”】<br>    <br>- 搜索页开启“价格”开关控制：【“站点”---->"站点设置"--------->"网站设置“------------>"搜索”---->"搜索页开启价格”】<br>    <br>- 搜索页开启“商品产地”开关控制：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索页开启商品产地”】<br>    <br>- 搜索页开启“参数”开关控制：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索页开启参数”】<br>    <br>- 搜索页配置参数类型：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索参数类型”】，可选“详情”、“基础”、“全部”<br>    <br>- 搜索页开启“规格”开关控制：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索页开启规格”】<br>    <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/04ce0e5097ab25ca2cb5be21d1f91c6d_MD5.png)|   |
+|搜索页商品展示样式设置：【“站点”---->“站点设置”--------->"网站设置“------------>"搜索”---->"搜索商品展示样式”】，可以是九宫格或图文列表<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/05b30bef5a1c8655ce5cb02ed3fbc9fc_MD5.png)|   |
 
 
 
@@ -2778,29 +2778,29 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |   |   |
 |---|---|
 |内容|   |
-|编辑商品名称：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品名称”】  <br>![WX20250331-160847.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743408202351449.png "1743408202351449.png")|   |
+|编辑商品名称：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品名称”】  <br>![WX20250331-160847.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1505b4ac6a1df9ab2053b1bb34760476_MD5.png)|   |
 |商品分类设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品分类”】|   |
-|商品简述设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品简述”】![WX20250331-160847.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743408202351449.png "1743408202351449.png")|   |
+|商品简述设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品简述”】![WX20250331-160847.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1505b4ac6a1df9ab2053b1bb34760476_MD5.png)|   |
 |商品型号设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品型号”】暂未展示在页面|   |
 |商品品牌设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“品牌”】暂未展示在页面|   |
 |商品生产地设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“生产地”】暂未展示在页面|   |
-|商品页商品库存单位设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“库存单位”】![WX20250402-095228.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743558419877486.png "1743558419877486.png")|   |
+|商品页商品库存单位设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“库存单位”】![WX20250402-095228.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/01b03049df86bc17f8ee2ed4e2873457_MD5.png)|   |
 |购买赠送积分比例设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“购买赠送积分比例”】比如设置成80，则原价100元的商品购买了3件，则赠送积分80*3=240分|   |
 |商品排序权重设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“排序权重”】数值越大，在网站页面上显示越靠前|   |
 |商品类型设置：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品类型”】未配置时，跟随系统配置的站点类型【“站点”-------->"站点类型“】，下拉框数据是系统固定的，可为“快递+同城+自提”/“快递”/“同城”/“自提”/“虚拟”/“展示”/“快递+同城”/“快递+自提”/“同城+自提”|   |
-|首页展示时，显示的商品图片上传：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“封面图片”】  <br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744164563594303.png "1744164563594303.png")|   |
+|首页展示时，显示的商品图片上传：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“封面图片”】  <br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c24aac3ce1fdb3218305121c57e1047f_MD5.png)|   |
 |商品是否扣减库存开关：【”商品“------->"商品管理”------->“编辑”---->“基础信息”---->“扣减库存”】<br><br>- 可开可关，【“站点”------>"网站设置“-------->"订单“---------->“基础”】可选择订单商品扣减库存规则<br>    <br><br>   注意：【“站点”----------->"网站设置“-------->"订单“---------->“基础” 】里面的”扣减库存“按钮优先级低于【“商品“------->"商品管理“------->"编辑”---->"基础信息"】里的”扣减库存“按钮|   |
 |商品上下架开关：【“商品“------->"商品管理“------->"编辑”---->“基础信息”---->“上下架”】|   |
-|商品规格添加和编辑：【“商品“------->"商品管理“------->"编辑”---->“商品规格”】，有“添加规格”按钮，也有“批量添加规格”按钮，具体查看文档[商品管理>>](https://store.shopxo.net/doc-index-detail-13.html?dcid=127)，添加规格部分![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743661615142407.png "1743661615142407.png")|   |
-|编辑展示范围为“基础”的商品参数：【“商品“------->"商品管理“------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743681607333895.png "1743681607333895.png")|   |
-|编辑展示范围为“详情”的商品参数：【“商品“------->"商品管理“------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743681739126553.png "1743681739126553.png")|   |
-|编辑展示范围为“全部”的商品参数：【“商品“------->"商品管理“------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743681899651537.png "1743681899651537.png")|   |
-|商品页商品相册上传：【“商品“------->"商品管理“------->"编辑”---->“商品相册/商品视频”】，可上传，可更换  <br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744165130564168.png "1744165130564168.png")|   |
-|商品页商品视频上传：【“商品“------->"商品管理“------->"编辑”---->“商品相册/商品视频”】，可上传，可更换![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744165383981161.png "1744165383981161.png")|   |
-|商品页“电脑详情”部分设置：【“商品“------->"商品管理“------->"编辑”---->“电脑详情”】  <br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744165543429769.png "1744165543429769.png")|   |
+|商品规格添加和编辑：【“商品“------->"商品管理“------->"编辑”---->“商品规格”】，有“添加规格”按钮，也有“批量添加规格”按钮，具体查看文档[商品管理>>](https://store.shopxo.net/doc-index-detail-13.html?dcid=127)，添加规格部分![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/63b3ff95bbab29b315659f1ce43a840d_MD5.png)|   |
+|编辑展示范围为“基础”的商品参数：【“商品“------->"商品管理“------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/14c513af119e1854f6b8fb813e664405_MD5.png)|   |
+|编辑展示范围为“详情”的商品参数：【“商品“------->"商品管理“------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/80a2c7e4b2c7aa034758bfce59396115_MD5.png)|   |
+|编辑展示范围为“全部”的商品参数：【“商品“------->"商品管理“------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/992ad83e1e37478138338a524ae1506b_MD5.png)|   |
+|商品页商品相册上传：【“商品“------->"商品管理“------->"编辑”---->“商品相册/商品视频”】，可上传，可更换  <br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/20c61e45a334a2e77aafbe0847a477ca_MD5.png)|   |
+|商品页商品视频上传：【“商品“------->"商品管理“------->"编辑”---->“商品相册/商品视频”】，可上传，可更换![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5531e45e383e1626b9777d1df2992a1d_MD5.png)|   |
+|商品页“电脑详情”部分设置：【“商品“------->"商品管理“------->"编辑”---->“电脑详情”】  <br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/db0dce255a396e81fd6142edaf62345f_MD5.png)|   |
 |商品为虚拟商品时，虚拟信息设置：【“商品“------->"商品管理“------->"编辑”---->“虚拟信息”】可编辑虚拟信息，当商品的“商品类型为“虚拟”时，商品在购买之后，显示在订单详情页的内容|   |
 |扩展数据：【“商品“------->"商品管理“------->"编辑”---->“扩展数据”】，比如通过插件实现商品的会员价等功能|   |
-|SEO标题、SEO关键字、SEO描述：【“商品“------->"商品管理“------->"编辑”---->“SEO信息”】在网页上鼠标右键选择“显示网页源代码”，可查看SEO标题、SEO关键字、SEO描述的展示  <br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744163100938327.png "1744163100938327.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744163199403285.png "1744163199403285.png")|   |
+|SEO标题、SEO关键字、SEO描述：【“商品“------->"商品管理“------->"编辑”---->“SEO信息”】在网页上鼠标右键选择“显示网页源代码”，可查看SEO标题、SEO关键字、SEO描述的展示  <br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d3a25acf662f458df2b3f85b7680de43_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/53cf930b1312d67978084eef8874d78e_MD5.png)|   |
 
 
 
@@ -2815,8 +2815,8 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |   |   |
 |---|---|
 |PC端用户登录页面配置|   |
-|用户登录方式设置：【“站点”----->"用户登录”---->“基础配置”--->"登录方式"】可选账号密码、手机验证码、邮箱验证码<br><br>登录图片验证码开关控制：【“站点”----->"用户登录”---->“基础配置”---->"登录图片验证码"】可开关<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744166525886200.png "1744166525886200.png")|   |
-|用户登录页面轮播图设置：【“站点”----->"用户登录”---->"图片"】可上传三张图片做轮播图  <br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744166756223128.png "1744166756223128.png")|   |
+|用户登录方式设置：【“站点”----->"用户登录”---->“基础配置”--->"登录方式"】可选账号密码、手机验证码、邮箱验证码<br><br>登录图片验证码开关控制：【“站点”----->"用户登录”---->“基础配置”---->"登录图片验证码"】可开关<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3a659b1d53d2be8fa4b205ff0a52be34_MD5.png)|   |
+|用户登录页面轮播图设置：【“站点”----->"用户登录”---->"图片"】可上传三张图片做轮播图  <br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d96aa9376ad4e8f60a7be9fc07eec11_MD5.png)|   |
 |用户登录页面图片点击时跳转的url地址设置：【“站点”----->"用户登录”---->"图片"】配置图片对应的url地址||
 
   
@@ -2830,10 +2830,10 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |   |   |
 |---|---|
 |PC端用户注册配置|   |
-|注册方式设置：【“站点”----->"用户注册”--->"注册方式"】账号、短信、邮箱<br><br>用户注册页面图片验证码开关控制：【“站点”----->"用户注册”--->"用户注册图片验证码"】<br><br>用户注册协议开关控制：【“站点”----->"用户注册”--->"用户注册协议"】开关<br><br>用户注册页面背景图片设置：【“站点”----->"用户注册”--->"用户注册背景图片"】<br><br>用户注册页面背景色设置：【“站点”----->"用户注册”--->"用户注册背景色"】<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744167311692929.png "1744167311692929.png")|   |
+|注册方式设置：【“站点”----->"用户注册”--->"注册方式"】账号、短信、邮箱<br><br>用户注册页面图片验证码开关控制：【“站点”----->"用户注册”--->"用户注册图片验证码"】<br><br>用户注册协议开关控制：【“站点”----->"用户注册”--->"用户注册协议"】开关<br><br>用户注册页面背景图片设置：【“站点”----->"用户注册”--->"用户注册背景图片"】<br><br>用户注册页面背景色设置：【“站点”----->"用户注册”--->"用户注册背景色"】<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/713be7e66e5c5bb37dfe7d60bcc27bf9_MD5.png)|   |
 |禁止注册的用户名/手机/邮箱：【“站点”----->"用户注册”--->"禁止注册用户名/手机/邮箱"】|   |
 |用户注册是否开启审核：【“站点”----->"用户注册”--->"用户注册开启审核"】|   |
-|用户注册界面的协议内容设置：【“站点”---->“协议管理”---->“用户注册协议”】<br><br>                                          【“站点”---->“协议管理”---->“用户隐私政策”】<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744168214877376.png "1744168214877376.png")|   |
+|用户注册界面的协议内容设置：【“站点”---->“协议管理”---->“用户注册协议”】<br><br>                                          【“站点”---->“协议管理”---->“用户隐私政策”】<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/41ecc12f071cc272628ebba601304189_MD5.png)|   |
 
   
 
@@ -2846,7 +2846,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |   |   |
 |---|---|
 |PC端密码找回页面配置|   |
-|密码找回页面的轮播图设置：【“站点”----->"密码找回”---->"图片"】可上传三张轮播图  <br>  <br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744167791705176.png "1744167791705176.png")|   |
+|密码找回页面的轮播图设置：【“站点”----->"密码找回”---->"图片"】可上传三张轮播图  <br>  <br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b380b27e4e21cfff0f37d4ad171a3342_MD5.png)|   |
 |密码找回页面图片点击跳转url地址设置：【“站点”----->"密码找回”---->"url地址"】|   |
 
 
@@ -2861,7 +2861,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 手机端首页左上角的logo上传:【“站点”------>"基础配置”】修改logo
 
-![WX20250327-093625.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743039073323364.png "1743039073323364.png")
+![WX20250327-093625.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/72b4974589a90bf968cb577a49ad9c6b_MD5.png)
 
   
 
@@ -2871,13 +2871,13 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744087019569663.png "1744087019569663.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/272a4ef7f56e6476b6596bb2abb42125_MD5.png)
 
 手机端首页轮播图：【“网站”----->"首页轮播“】，参考文档 [首页轮播>>](https://store.shopxo.net/doc-index-detail-13.html?dcid=143)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744118207935581.png "1744118207935581.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2fb7114452269e238580406f43b9b2ed_MD5.png)
 
   
 
@@ -2885,7 +2885,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744000705397144.png "1744000705397144.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d9a8d488e4ee2934757e705d0ee6cfc_MD5.png)
 
   
 
@@ -2893,7 +2893,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744088130634859.png "1744088130634859.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c4d560953df942e9f70d139390bf84da_MD5.png)
 
   
 
@@ -2901,7 +2901,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744180591469493.png "1744180591469493.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/79e6424d3baa37b1f72c62cee3dc06e2_MD5.png)
 
   
 
@@ -2921,11 +2921,11 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 首页楼层数据模式类型为手动模式时，可以更换显示的商品，调节商品顺序
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744181269106579.png "1744181269106579.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0fd92f010a6fa985d1c12f693a1884d4_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744181343236182.png "1744181343236182.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bc9f2af39df9948c433e5b893fa83514_MD5.png)
 
   
 
@@ -2933,7 +2933,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744089555985371.png "1744089555985371.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2c6dd710801977d4e89701fd8b4717ee_MD5.png)
 
   
 
@@ -2941,13 +2941,13 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744182794514154.png "1744182794514154.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4c46af49325d3fd1b78993413274cbae_MD5.png)
 
   
 
 手机端首页悬浮的"服务"快捷导航内容配置：【“网站”------>“快捷导航”】
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744764617118904.png "1744764617118904.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e1c3dead63fed4ce68c4fa1b15ed6952_MD5.png)
 
   
 
@@ -2955,7 +2955,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 手机端首页底部菜单：【“手机”----->“DIY装修”----->“底部菜单”】
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744078994205484.png "1744078994205484.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/31ffa0ae7448fab60f137b2c3d8cbb76_MD5.png)
 
   
 
@@ -2969,13 +2969,13 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 在后台左侧： 手机 -> DIY装修 页面新增模板自己设计（也可以在页面左上角导入里面选购商店喜欢的diy模板直接导入使用）
 
-![QQ20250423-140216.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/23/1745388124877100.png "1745388124877100.png")
+![QQ20250423-140216.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/032ed3d43fef5170862c5af6d66a1390_MD5.png)
 
   
 
 **选购商店提供的DIY模板**
 
-![QQ20250423-140722.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/23/1745388131186609.png "1745388131186609.png")
+![QQ20250423-140722.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8b774939f9265613007a5888cbfae15e_MD5.png)
 
   
 
@@ -2983,7 +2983,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 后台左侧：手机 -> 基础配置 -> APP/小程序 -> 首页DIY模板 里面设置当前设计的DIY模板，保存后 右上角点击扫把图标清除缓存。
 
-![QQ20250423-140447.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/23/1745388148813544.png "1745388148813544.png")
+![QQ20250423-140447.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/327d8121feb758fd2f855c4067b494ef_MD5.png)
 
 
 
@@ -2991,7 +2991,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 手机端“商品分类”界面对应后台【“商品”----->“商品分类”】的配置
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744199684101821.png "1744199684101821.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2c98f32cc51d8826e9473397918f3d36_MD5.png)
 
   
 
@@ -3002,14 +3002,14 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |   |   |
 |---|---|
 |商品分类配置|   |
-|手机端商品分类页实景图：【“商品”------>"商品分类"---->"编辑"---->"实景图"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “分类+商品” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200373682130.png "1744200373682130.png")<br><br>![WX20250402-111055.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743563123922466.png "1743563123922466.png")|   |
-|手机端商品分类页实景图：【“商品”------>"商品分类"---->"编辑"---->"实景图"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “一级分类” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200967716887.png "1744200967716887.png")<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200457362592.png "1744200457362592.png")|   |
+|手机端商品分类页实景图：【“商品”------>"商品分类"---->"编辑"---->"实景图"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “分类+商品” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9d35c4411292325c3418afbfdbb4c7ae_MD5.png)<br><br>![WX20250402-111055.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/416a1f7994898cdecb004dd3531d8fda_MD5.png)|   |
+|手机端商品分类页实景图：【“商品”------>"商品分类"---->"编辑"---->"实景图"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “一级分类” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/40a802f28e1ad8f2e9f661a872d79c18_MD5.png)<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2afd2b5f6c8fe93f75f0a0b3167ee77e_MD5.png)|   |
 |商品分类的名称：可修改，手机端和PC端都有显示|   |
-|商品分类的副名称 ：【“商品”------>"商品分类"---->"编辑"---->"副名称"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “二级分类” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248373721343.png "1744248373721343.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248640340501.png "1744248640340501.png")|   |
-|商品分类的副名称 ：【“商品”------>"商品分类"---->"编辑"---->"副名称"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “三级分类” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248689973775.png "1744248689973775.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248763617477.png "1744248763617477.png")|   |
-|商品分类的描述：【“商品”------>"商品分类"---->"编辑"---->"描述"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “一级分类” 时）  <br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200986395826.png "1744200986395826.png")<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744207457781928.png "1744207457781928.png")|   |
-|商品分类的描述：【“商品”------>"商品分类"---->"编辑"---->"描述"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “二级分类” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248373721343.png "1744248373721343.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248969596259.png "1744248969596259.png")|   |
-|商品分类的描述：【“商品”------>"商品分类"---->"编辑"---->"描述"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “三级分类” 时）  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248689973775.png "1744248689973775.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744249046457510.png "1744249046457510.png")|   |
+|商品分类的副名称 ：【“商品”------>"商品分类"---->"编辑"---->"副名称"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “二级分类” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dc7d6f4570ec48cca41ad5269f667f7b_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6661b0c690c518ba6a27cf36e9a8e284_MD5.png)|   |
+|商品分类的副名称 ：【“商品”------>"商品分类"---->"编辑"---->"副名称"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “三级分类” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d928dd4eaef91083d9b7e58bc9a11121_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0c7297a9038660cc9a6c59872ea8569a_MD5.png)|   |
+|商品分类的描述：【“商品”------>"商品分类"---->"编辑"---->"描述"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “一级分类” 时）  <br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/40a802f28e1ad8f2e9f661a872d79c18_MD5.png)<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ff5c424831fcbcd358b7e3082fa40841_MD5.png)|   |
+|商品分类的描述：【“商品”------>"商品分类"---->"编辑"---->"描述"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “二级分类” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dc7d6f4570ec48cca41ad5269f667f7b_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1eae057600762e780a7d873e53f8ae3b_MD5.png)|   |
+|商品分类的描述：【“商品”------>"商品分类"---->"编辑"---->"描述"】（【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为 “三级分类” 时）  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d928dd4eaef91083d9b7e58bc9a11121_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/40c41898634e98a369471e82d6d23f63_MD5.png)|   |
 |商品分类的显示顺序：【“商品”------>"商品分类"---->"编辑"---->"顺序"】数值越大，越靠后|   |
 |商品分类首页推荐开关控制：【“商品”------>"商品分类"---->"编辑"---->"首页推荐"】开关，开且已启用则显示在首页|   |
 |商品分类是否启用开关控制：【“商品”------>"商品分类"---->"编辑"---->"是否启用"】开关|   |
@@ -3018,25 +3018,25 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 商品分类展示层级：【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为“商品+分类”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744247599254541.png "1744247599254541.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/02ea40aa7e79fa31d432823ac3192644_MD5.png)
 
   
 
 商品分类展示层级：【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为“一级分类”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744247747994546.png "1744247747994546.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a28c7051215a93a90f6800a1c86881fd_MD5.png)
 
   
 
 商品分类展示层级：【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为“二级分类”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744247898226558.png "1744247898226558.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c50e3bbad11837546e20ecff4f3a531c_MD5.png)
 
   
 
 商品分类展示层级：【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】为“三级分类”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248057421064.png "1744248057421064.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8266421920a0b267b4b03c4ad2a9a59c_MD5.png)
 
 
 
@@ -3057,8 +3057,8 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |搜索是否需要登录开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索需要登录"】|   |
 |搜索多个关键字并且关系设置：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索多个关键字并且关系"】默认为否，即关键字之间为“或”关系|   |
 |搜索禁止UserAgent：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜素禁止UserAgent"】比如填入“android", 手机端就无法搜索了|   |
-|搜索页开启“品牌”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启品牌"】<br><br>搜索页开启“分类”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启分类"】<br><br>搜索页开启“价格”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启价格"】<br><br>搜索页开启“商品产地”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启商品产地"】<br><br>搜索页开启“参数”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启参数"】<br><br>搜索页搜索参数类型：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索参数类型"】，有“详情”、“基础”、“全部”<br><br>搜索页开启“规格”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启规格"】<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744081981613846.png "1744081981613846.png")|   |
-|搜索商品展示样式：【“站点”------>“站点设置”---->"网站设置”------>"搜索”------>"搜索商品展示样式"】可以为“九宫格”或“图文列表”。<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744082081993308.png "1744082081993308.png")|   |
+|搜索页开启“品牌”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启品牌"】<br><br>搜索页开启“分类”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启分类"】<br><br>搜索页开启“价格”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启价格"】<br><br>搜索页开启“商品产地”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启商品产地"】<br><br>搜索页开启“参数”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启参数"】<br><br>搜索页搜索参数类型：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索参数类型"】，有“详情”、“基础”、“全部”<br><br>搜索页开启“规格”开关控制：【“站点”--------->“站点设置”---->"网站设置”------------>"搜索”------>"搜索页开启规格"】<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6e3e50d9b3782673406f46a1a74f4671_MD5.png)|   |
+|搜索商品展示样式：【“站点”------>“站点设置”---->"网站设置”------>"搜索”------>"搜索商品展示样式"】可以为“九宫格”或“图文列表”。<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/13e8f196143dab0ccf67cec3e193ec9c_MD5.png)|   |
 
 
 
@@ -3071,7 +3071,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |   |   |
 |---|---|
 |手机端“商品详情”配置|   |
-|商品名称：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品名称”】<br><br>商品简述：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品简述”】<br><br>  <br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744183652903837.png "1744183652903837.png")|   |
+|商品名称：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品名称”】<br><br>商品简述：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品简述”】<br><br>  <br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/37a91731e0bcca89eb00016cac26a61b_MD5.png)|   |
 |商品分类：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品分类”】|   |
 |商品型号：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品型号”】，暂未展示在网页|   |
 |商品品牌：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“品牌”】，暂未展示在网页|   |
@@ -3080,15 +3080,15 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |购买赠送积分比例：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“购买赠送积分比例”】，比如设置成80，则原价100元的商品购买了3件，则赠送积分80*3=240分|   |
 |排序权重：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“排序权重”】，数值越大，在界面上显示越靠前|   |
 |商品类型：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“商品类型”】，未配置时，跟随系统配置的站点类型（“站点”-------->"站点类型”），下拉框数据是系统固定的，可为“快递+同城+自提”/“快递”/“同城”/“自提”/“虚拟”/“展示”/“快递+同城”/“快递+自提”/“同城+自提”|   |
-|首页展示时，显示的商品图片上传：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“封面图片”】<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744184167205751.png "1744184167205751.png")|   |
+|首页展示时，显示的商品图片上传：【“商品”------>“商品管理”----->“编辑”---->“基础信息”---->“封面图片”】<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/466bef37010037789d42dcfe1c676a4b_MD5.png)|   |
 |扣减库存开关控制：【”商品“------->"商品管理”------->“编辑”---->“基础信息”---->“扣减库存”】<br><br>- 可开可关，【“站点”------>"网站设置”-------->"订单”---------->“基础”】，可选择订单商品扣减库存规则<br>    <br><br>       注意：【“站点”----------->"网站设置”-------->"订单”---------->“基础” 】，里面的”扣减库存“按钮优先级低于【”商品“------->"商品管理”------->"编辑”---->"基础信息"】里的”扣减库存“按钮|   |
 |上下架开关控制：【“商品“------->"商品管理“------->"编辑”---->“基础信息”---->“上下架”】|   |
-|商品规格添加或删除：【“商品“------->"商品管理“------->"编辑”---->“商品规格”】，有“添加规格”按钮，也有“批量添加规格”按钮，具体查看文档[商品管理>>](https://store.shopxo.net/doc-index-detail-13.html?dcid=127)，添加规格部分![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744184443933366.png "1744184443933366.png")|   |
-|商品参数/基础：【“商品“------->"商品管理”------->"编辑”---->“商品参数”】，可新增参数，可移除参数![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744184814324946.png "1744184814324946.png")|   |
-|商品参数/详情：【“商品”------->"商品管理”------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744184985779547.png "1744184985779547.png")|   |
-|商品参数/全部：【“商品”------->"商品管理”------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744185125988582.png "1744185125988582.png")|   |
-|商品相册：【“商品”------->"商品管理”------->"编辑”---->“商品相册/商品视频”】，可上传，可更换![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744185452659611.png "1744185452659611.png")|   |
-|商品视频：【“商品”------->"商品管理”------->"编辑”---->“商品相册/商品视频”】，可上传，可更换![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744185574849278.png "1744185574849278.png")|   |
+|商品规格添加或删除：【“商品“------->"商品管理“------->"编辑”---->“商品规格”】，有“添加规格”按钮，也有“批量添加规格”按钮，具体查看文档[商品管理>>](https://store.shopxo.net/doc-index-detail-13.html?dcid=127)，添加规格部分![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c191f686c7dbf3631e041820a3926186_MD5.png)|   |
+|商品参数/基础：【“商品“------->"商品管理”------->"编辑”---->“商品参数”】，可新增参数，可移除参数![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7572e4e0b9b2de8bc624728356443c1d_MD5.png)|   |
+|商品参数/详情：【“商品”------->"商品管理”------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bfcc2199388b1e1d0b69d165ee019e76_MD5.png)|   |
+|商品参数/全部：【“商品”------->"商品管理”------->"编辑”---->“商品参数”】，可新增，可移除![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/18f7c39421808c0477655ea8740f23d2_MD5.png)|   |
+|商品相册：【“商品”------->"商品管理”------->"编辑”---->“商品相册/商品视频”】，可上传，可更换![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3d1b1bb2f781357316d8e1ac550f5360_MD5.png)|   |
+|商品视频：【“商品”------->"商品管理”------->"编辑”---->“商品相册/商品视频”】，可上传，可更换![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9cc4ee85ce7dc92594704050d72104e4_MD5.png)|   |
 |手机详情：【“商品”------->"商品管理”------->"编辑”---->“手机详情”】，可上传图片，可编辑文本|   |
 |虚拟信息：【“商品”------->"商品管理”------->"编辑”---->“虚拟信息”】，可编辑虚拟信息，当商品的“商品类型为“虚拟”时，商品在购买之后，显示在订单详情页的内容|   |
 |扩展数据：【“商品”------->"商品管理”------->"编辑”---->“扩展数据”】，比如通过插件实现商品的会员价等功能|   |
@@ -3097,7 +3097,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 手机详情页是否使用独立的详情开关控制：【“手机”---->"基础配置"---->“APP/小程序”---->“基础配置”---->"使用独立手机详情"，配置为“是”时，手机详情页使用“手机详情”而非“电脑详情”。
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744183317104133.png "1744183317104133.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/53eb57146e833d91dd9e82d006105d35_MD5.png)
 
   
 
@@ -3105,7 +3105,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744089617828960.png "1744089617828960.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/98685a4a2742dc269988d2788b2226e9_MD5.png)
 
 
 
@@ -3116,7 +3116,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744186216774732.png "1744186216774732.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ddb24961a207eba16551e01825b292b4_MD5.png)
 
 
 
@@ -3130,7 +3130,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744086600103732.png "1744086600103732.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/35af2a31438f83258689542d42bd78b3_MD5.png)
 
   
 
@@ -3138,31 +3138,31 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744003745450114.png "1744003745450114.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8ba1c47b3f7c1b9045409e0e35fc8750_MD5.png)
 
   
 
 悬浮的在线客服开关控制：【“手机”-------->“基础配置”------>“APP/小程序”----->“在线客服”】开启或关闭
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744769884327553.png "1744769884327553.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/abfa378440b44f1c591c8ec9d773d60d_MD5.png)
 
   
 
 悬浮的“服务”快捷导航开关控制：【“站点”----->“网站设置”---->“扩展”----->“快捷导航”---->“快捷导航状态”】
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744770042261333.png "1744770042261333.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9b3405eb1153d6e41df1974998c91cd3_MD5.png)
 
   
 
 悬浮的“服务”快捷导航内容配置：【“网站”------>“快捷导航”】
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744764617118904.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e1c3dead63fed4ce68c4fa1b15ed6952_MD5.png)
 
   
 
 菜单后面电话客服：【“手机”-------->“基础配置”------>“APP/小程序”----->“在线客服”---->“客服电话”】空则不显示  
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685227974297.png "1744685227974297.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/238e5269d7fc08131a8cba1ee55561c8_MD5.png)
 
   
 
@@ -3170,7 +3170,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 |   |   |
 |---|---|
-|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685415760673.png "1744685415760673.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685322687272.png "1744685322687272.png")|
+|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4aad2efd7e3cf7be83569fd88d000586_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a288c51229c52ab0b2f39a3477fe449a_MD5.png)|
 
   
 
@@ -3178,7 +3178,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 |   |   |
 |---|---|
-|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685451623479.png "1744685451623479.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685360506358.png "1744685360506358.png")|
+|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f56788f339a09a59484486d7f0de6477_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8bc1e12d38105eb7e951778046ed7286_MD5.png)|
 
   
 
@@ -3195,8 +3195,8 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |   |   |
 |---|---|
 |手机端用户登录配置|   |
-|登录方式：【“站点”----->"用户登录”---->“基础配置”--->"登录方式"】可选账号密码、手机验证码、邮箱验证码<br><br>登录图片验证码开关控制：【“站点”----->"用户登录”---->“基础配置”---->"登录图片验证码"】可开关<br><br>  <br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744254111205692.png "1744254111205692.png")|   |
-|登录界面LOGO：【“站点”---->“基础配置”---->“正方形logo”】  <br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744254318346711.png "1744254318346711.png")|   |
+|登录方式：【“站点”----->"用户登录”---->“基础配置”--->"登录方式"】可选账号密码、手机验证码、邮箱验证码<br><br>登录图片验证码开关控制：【“站点”----->"用户登录”---->“基础配置”---->"登录图片验证码"】可开关<br><br>  <br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/20859815be532ef94c91a974953547bb_MD5.png)|   |
+|登录界面LOGO：【“站点”---->“基础配置”---->“正方形logo”】  <br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f1ce65b3a50f3a0f06929e41b9f358e1_MD5.png)|   |
 
   
 
@@ -3209,11 +3209,11 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 |   |   |
 |---|---|
 |手机端用户注册配置|   |
-|注册界面logo：【“站点”---->“基础配置”---->“正方形logo”】![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744254619163468.png "1744254619163468.png")|   |
+|注册界面logo：【“站点”---->“基础配置”---->“正方形logo”】![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ecf9ef572d0491c36b0af0f1ca942ed8_MD5.png)|   |
 |注册方式设置：【“站点”----->"用户注册”--->"注册方式"】账号、短信、邮箱<br><br>用户注册页面图片验证码开关控制：【“站点”----->"用户注册”--->"用户注册图片验证码"】|   |
 |禁止注册的用户名/手机/邮箱：【“站点”----->"用户注册”--->"禁止注册用户名/手机/邮箱"】|   |
 |用户注册是否开启审核：【“站点”----->"用户注册”--->"用户注册开启审核"】|   |
-|用户注册界面的协议内容设置：【“站点”---->“协议管理”---->“用户注册协议”】<br><br>                                          【“站点”---->“协议管理”---->“用户隐私政策”】<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744255329103859.png "1744255329103859.png")|   |
+|用户注册界面的协议内容设置：【“站点”---->“协议管理”---->“用户注册协议”】<br><br>                                          【“站点”---->“协议管理”---->“用户隐私政策”】<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0c6def67329d97df8d99e7eb253f3783_MD5.png)|   |
 
   
 
@@ -3222,7 +3222,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 更换密码找回界面logo: 【“站点”---->"基础配置”---->“正方形logo”】  
 
   
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744254545102799.png "1744254545102799.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/acfdcbbb1b6ede12a5b43242abc2ff30_MD5.png)
 
 
 
@@ -3243,7 +3243,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 ## 首页快捷导航  
 
-![WX20250326-193941.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/26/1742988997464225.png "1742988997464225.png")
+![WX20250326-193941.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1bf4c7ea6a76687bf3cf6ee7322b2615_MD5.png)
 
   
 
@@ -3251,7 +3251,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![WX20250326-194535.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/26/1742989239980760.png "1742989239980760.png")
+![WX20250326-194535.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ab7ccd7d4cf3b53195a44b662f576fd8_MD5.png)
 
   
 
@@ -3272,7 +3272,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![WX20250326-113343.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/26/1742959720627541.png "1742959720627541.png")
+![WX20250326-113343.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dba7eb4bafb83fe8156ce2c1883e71b9_MD5.png)
 
   
 
@@ -3300,7 +3300,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 后台登录广告图片：【“系统”---->“系统配置”---->“后台登录”---->“后台登录广告图片”】
 
-![WX20250326-121447.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/26/1742962215942576.png "1742962215942576.png")
+![WX20250326-121447.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d53a294391b47edde87b003e8312c7ad_MD5.png)
 
 |   |   |
 |---|---|
@@ -3319,7 +3319,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-下图为【“商品”---> “商品管理”--->“编辑”任意商品--->“商品规格”】，“商品可添加规格最大数量”为3时，下图中的“添加规格”按钮只能最多点击三次，添加三列规格，以此类推。![WX20250326-144823.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/26/1742973489783288.png "1742973489783288.png")  
+下图为【“商品”---> “商品管理”--->“编辑”任意商品--->“商品规格”】，“商品可添加规格最大数量”为3时，下图中的“添加规格”按钮只能最多点击三次，添加三列规格，以此类推。![WX20250326-144823.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/58c6a230e8948a8af9e3c764889973d7_MD5.png)  
 
   
 
@@ -3366,7 +3366,7 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 商店简介：【“系统”---->“商店信息”---->“商店简介”】
 
-商店二维码：【“系统”---->“商店信息”---->“商店二维码”】![WX20250326-202506.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/26/1742991597460785.png "1742991597460785.png")
+商店二维码：【“系统”---->“商店信息”---->“商店二维码”】![WX20250326-202506.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/41a3fe50b49a58746f3b81ec5cb376e2_MD5.png)
 
 
 
@@ -3388,17 +3388,17 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
 ### 站点名称、电脑端logo
 
-![WX20250327-092039.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743038130736760.png "1743038130736760.png")
+![WX20250327-092039.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4fe6e69f9ba5ef66468a44b4bbe1b992_MD5.png)
 
 ### wap端logo
 
-![WX20250327-093056.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743038772819953.png "1743038772819953.png")
+![WX20250327-093056.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/601814e16cbd39995219894a98518367_MD5.png)
 
   
 
 ### 手机端logo
 
-![WX20250327-093625.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743039073323364.png "1743039073323364.png")
+![WX20250327-093625.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/72b4974589a90bf968cb577a49ad9c6b_MD5.png)
 
   
 
@@ -3406,11 +3406,11 @@ pc端底部友情链接友情链接配置：【“网站”--->“友情链接�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744254295871405.png "1744254295871405.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f1ce65b3a50f3a0f06929e41b9f358e1_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744254545102799.png "1744254545102799.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/acfdcbbb1b6ede12a5b43242abc2ff30_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744254619163468.png "1744254619163468.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ecf9ef572d0491c36b0af0f1ca942ed8_MD5.png)
 
 ### 默认时区
 
@@ -3464,7 +3464,7 @@ css/js静态文件cdn域名：【“站点”----->“站点设置”---->“基
 
   
 
-![QQ_1744029282686.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744028936135765.png "1744028936135765.png")
+![QQ_1744029282686.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bc4bfe4355150ea2fd7067d963f74a78_MD5.png)
 
   
 
@@ -3486,7 +3486,7 @@ ICP证书号：【“站点”----->“站点设置”---->“基础配置”---
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744094399766923.png "1744094399766923.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/592f598abcf99b1136cda24b7d2e9571_MD5.png)
 
 
 
@@ -3526,7 +3526,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
 “首页轮播右侧聚合内容”开关控制：【“站点”---->“站点设置”---->“网站设置”---->“首页”---->“首页轮播右侧聚合内容”】
 
-![WX20250327-131222.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743052058324293.png "1743052058324293.png")
+![WX20250327-131222.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fc4f804e416f7b5c20f647343e05b13f_MD5.png)
 
   
 
@@ -3557,7 +3557,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
 首页楼层左侧二级商品分类可以选择和取消二级商品，如果需要编辑楼层展示次序或需要更多的楼层展示，可以在【“商品”--->“商品分类” --->"编辑”】对具体的商品分类，进行设置。
 
-![WX20250327-140100.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743054977673154.png "1743054977673154.png")
+![WX20250327-140100.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3a3e71e000e4c335dd3b16ae4b42b6b5_MD5.png)
 
   
 
@@ -3567,7 +3567,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![WX20250327-142730.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743056538461383.png "1743056538461383.png")
+![WX20250327-142730.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e8b2e7529f04e0626ce6a684dfcd7465_MD5.png)
 
 当“首页楼层数据模式类型”为“自动模式”时，有以下三个配置：
 
@@ -3597,7 +3597,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![WX20250327-151710.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743059535954406.png "1743059535954406.png")
+![WX20250327-151710.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0e8d8ea33698831558dc7e39b688cb1d_MD5.png)
 
 搜索禁止UserAgent：【“站点”---->“站点设置”---->“网站设置”---->“搜索”---->“搜索禁止UserAgent”】，比如当前操作系统为windows，输入windows，则当前电脑就不能在shopxo网站进行搜索了。
 
@@ -3607,7 +3607,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![WX20250327-152748.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/27/1743060184829244.png "1743060184829244.png")
+![WX20250327-152748.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c1e13d024319980c1cf29e1dd1711e37_MD5.png)
 
   
 
@@ -3656,11 +3656,11 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744081592929245.png "1744081592929245.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/04ce0e5097ab25ca2cb5be21d1f91c6d_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744081981613846.png "1744081981613846.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6e3e50d9b3782673406f46a1a74f4671_MD5.png)
 
   
 
@@ -3668,11 +3668,11 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744081655418960.png "1744081655418960.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/05b30bef5a1c8655ce5cb02ed3fbc9fc_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744082081993308.png "1744082081993308.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/13e8f196143dab0ccf67cec3e193ec9c_MD5.png)
 
   
 
@@ -3721,7 +3721,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744782612599558.png "1744782612599558.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0d512f60244cf9308a60fcaa146c47a0_MD5.png)
 
   
 
@@ -3769,13 +3769,13 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744783337805446.png "1744783337805446.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/42fc36e7f385805934a384e0ffa4e5ef_MD5.png)
 
   
 
 “商品详情页左侧更多（手机端）”：【“站点”---->“站点设置”---->“网站设置”---->“商品”----->“商品详情页左侧更多（手机端）”】
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744783973563611.png "1744783973563611.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/af42a03cfbf1c20adffdf30622aed060_MD5.png)
 
   
 
@@ -3791,7 +3791,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 “购物车页显示猜你喜欢”开关：【“站点”---->“站点设置”---->“网站设置”---->“购物车”----->“购物车页显示猜你喜欢”】目前只有手机端有这个配置  
 
   
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744186196560125.png "1744186196560125.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ddb24961a207eba16551e01825b292b4_MD5.png)
 
 
 
@@ -3811,12 +3811,12 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744092548506747.png "1744092548506747.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/af3ff2bd70c2f6f99813a12914c13e16_MD5.png)
 
 “顶部小导航”开关控制：【“站点”---->“站点设置”---->“网站设置”---->“扩展”----->“基础配置”---->“顶部小导航”】
 
   
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744092653409478.png "1744092653409478.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4c7c94a67b76e2291d7f974fa7eab8e0_MD5.png)
 
   
 
@@ -3824,7 +3824,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744092782354306.png "1744092782354306.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9568545dfbcab715d7cf46bf9ccf8689_MD5.png)
 
   
 
@@ -3837,13 +3837,13 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 “底部页脚内容”开关控制：【“站点”---->“站点设置”---->“网站设置”---->“扩展”----->“基础配置”---->“底部页脚内容”】
 
   
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744093107878605.png "1744093107878605.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/48303ed1b75026c8289c964b2039c40b_MD5.png)
 
 “手机模式下友情链接状态”开关控制：【“站点”---->“站点设置”---->“网站设置”---->“扩展”----->“基础配置”---->“手机模式下友情链接状态”】，指的手机访问PC端的情况，关则友情链接不显示。  
 
   
 
-![WX20250328-110214.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/28/1743130643591328.png "1743130643591328.png")
+![WX20250328-110214.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8006a02baee86ddf06db1f5ff07b8412_MD5.png)
 
   
 
@@ -3867,7 +3867,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744085424918285.png "1744085424918285.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/07482c76a38caaae3f2b2e9d7efe440e_MD5.png)
 
 快捷导航的数据是在【“网站”---->“快捷导航”】里进行配置
 
@@ -3889,7 +3889,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![WX20250331-113326.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743391680745374.png "1743391680745374.png")
+![WX20250331-113326.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2ef7375d2b2424ebad1ed8048c374a7e_MD5.png)
 
   
 
@@ -3899,7 +3899,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744099831308785.png "1744099831308785.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/773c4777df55cca1bc0a12a0ba2f6b7e_MD5.png)
 
   
 
@@ -3937,7 +3937,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![WX20250331-112405.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743391125798368.png "1743391125798368.png")
+![WX20250331-112405.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9816fa3468b1d640f062f519253145d1_MD5.png)
 
 
 
@@ -3955,7 +3955,7 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![WX20250331-091806.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743383570809968.png "1743383570809968.png")
+![WX20250331-091806.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bd17a70f2a2d957911d6f428e8663390_MD5.png)
 
   
 
@@ -4023,11 +4023,11 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744167285560692.png "1744167285560692.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/713be7e66e5c5bb37dfe7d60bcc27bf9_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744773689670534.png "1744773689670534.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fe52f70e537bc44e0877df0057c0da70_MD5.png)
 
 
 
@@ -4048,11 +4048,11 @@ css/js版本标记：【“站点”----->“站点设置”---->“基础配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744166525886200.png "1744166525886200.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3a659b1d53d2be8fa4b205ff0a52be34_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744253925442180.png "1744253925442180.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/20859815be532ef94c91a974953547bb_MD5.png)
 
    
 
@@ -4098,7 +4098,7 @@ url地址：【“站点”---->“站点设置”---->“密码找回”---->�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744167757841235.png "1744167757841235.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b380b27e4e21cfff0f37d4ad171a3342_MD5.png)
 
 
 
@@ -4139,10 +4139,10 @@ url地址：【“站点”---->“站点设置”---->“密码找回”---->�
 |   |   |   |   |
 |---|---|---|---|
 ||图片验证码类型：纯数字|图片验证码类型：纯字母|图片验证码类型：数字+字母|
-|图片验证码规则：彩色背景|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743682898692859.png "1743682898692859.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743682934681801.png "1743682934681801.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743682976242229.png "1743682976242229.png")|
-|图片验证码规则：彩色文本|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683026316849.png "1743683026316849.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683048185572.png "1743683048185572.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683101336644.png "1743683101336644.png")|
-|图片验证码规则：干扰点|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683135767466.png "1743683135767466.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683172769622.png "1743683172769622.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683198270958.png "1743683198270958.png")|
-|图片验证码规则：干扰线|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683227594374.png "1743683227594374.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683249753931.png "1743683249753931.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683276593861.png "1743683276593861.png")|
+|图片验证码规则：彩色背景|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0905b2fd54c47d29c2c243c685c8191b_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/88881b9536bfde6f13348f8f67eb2d2d_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/519903b406dbb52ab28cd2b257068d43_MD5.png)|
+|图片验证码规则：彩色文本|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e58695e63d2f0f4fe3e67634096d89d3_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/45f2ca9b0071407a6bc364b94b0b8fe9_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e951cb580183c3b47e6bedd7dd2824f6_MD5.png)|
+|图片验证码规则：干扰点|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5b0e7946cef6251fbfb06611969733cd_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fc6f27d657a27b1dc6563ba8d97bd51c_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/afe3c3d6d7f90c0239df82d96a61f23e_MD5.png)|
+|图片验证码规则：干扰线|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eef4e7a6d7af03f7bc849e2c0df7202d_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/85a5ef74928dcb3aeae08d741eed0732_MD5.png)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f3b0230cf44da944889816a511dfa252_MD5.png)|
 
 
 
@@ -4198,7 +4198,7 @@ url地址：【“站点”---->“站点设置”---->“密码找回”---->�
 
   
 
-![WX20250331-114012.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743392083104653.png "1743392083104653.png")
+![WX20250331-114012.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6b44cd7648e9b5eebd6bf0e212bf5b0a_MD5.png)
 
 
 
@@ -4368,7 +4368,7 @@ Session使用缓存：将数据放在缓存，会更快一些，默认否
 
 短信签名：发送短信包含的签名
 
-![WX20250330-131501.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/30/1743311626422788.png "1743311626422788.png")
+![WX20250330-131501.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/77804d46f88e38aea7660a3bd0489d61_MD5.png)
 
 短信KeyID:【“站点”---->“短信设置”---->“短信设置”---->“短信KeyID”】
 
@@ -4518,15 +4518,15 @@ SSL方式加密：【“站点”---->“邮箱设置”---->“邮箱设置”-
 链接模式：【“站点”---->“SEO设置”---->“链接模式”】
   
 
-![WX20250331-152454.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743405576682904.png "1743405576682904.png")
+![WX20250331-152454.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/02363f268e8b545788ba2154bac37d05_MD5.png)
 
   
 
-![WX20250331-152749.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743405751740824.png "1743405751740824.png")
+![WX20250331-152749.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cad7dd9b880de68419409acc23872df1_MD5.png)
 
   
 
-![WX20250331-153009.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743405882185249.png "1743405882185249.png")
+![WX20250331-153009.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eb3580d4b194b27d186011aace348587_MD5.png)
 
   
 
@@ -4534,7 +4534,7 @@ SSL方式加密：【“站点”---->“邮箱设置”---->“邮箱设置”-
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744097492499224.png "1744097492499224.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/46c49bdc72789f7d16f5cfe0666160be_MD5.png)
 
   
 
@@ -4597,9 +4597,9 @@ AllowOverride None 将None改为 All
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744163425446971.png "1744163425446971.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1f9dc1d312d1d21d0a45ad81e4fdf079_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744097789179223.png "1744097789179223.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4b86772539e5d816b1f007b173c1f391_MD5.png)
 
 
 
@@ -4613,9 +4613,9 @@ AllowOverride None 将None改为 All
 
   
 
-【![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744168314638895.png "1744168314638895.png")
+【![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/41ecc12f071cc272628ebba601304189_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744255354403331.png "1744255354403331.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0c6def67329d97df8d99e7eb253f3783_MD5.png)
 
 
 
@@ -4627,9 +4627,9 @@ AllowOverride None 将None改为 All
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744168328374954.png "1744168328374954.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/41ecc12f071cc272628ebba601304189_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744255361870890.png "1744255361870890.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0c6def67329d97df8d99e7eb253f3783_MD5.png)
 
 
 
@@ -4643,7 +4643,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744168459220108.png "1744168459220108.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2e0a1499ecfdab1fb07c99630947b38a_MD5.png)
 
 
 
@@ -4659,7 +4659,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250331-131514.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743397789702851.png "1743397789702851.png")
+![WX20250331-131514.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d80960b5424b553e1d47682c8cb5d904_MD5.png)
 
   
 
@@ -4677,7 +4677,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250401-162632.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743495677997353.png "1743495677997353.png")
+![WX20250401-162632.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d9b9a91abfa110464ee1822a00687bff_MD5.png)
 
 性别：单选按钮，红星为此项必选  
 
@@ -4697,7 +4697,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250331-131554.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743397826391152.png "1743397826391152.png")
+![WX20250331-131554.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7b59ae646a0bedc21fbbd019dcddd9e2_MD5.png)
 
   
 
@@ -4715,7 +4715,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743767012563936.png "1743767012563936.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5669b1e206518a6b13f5eb1f95654708_MD5.png)
 
 插件权限：可勾选当前角色拥有的权限
 
@@ -4723,7 +4723,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743766528684450.png "1743766528684450.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/30c9dc38f4a92bc4bdd0db92f3255864_MD5.png)
 
 
 
@@ -4733,7 +4733,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250331-131633.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743397868985958.png "1743397868985958.png")
+![WX20250331-131633.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0c48992b536269547513f372c9578310_MD5.png)
 
 
 
@@ -4752,7 +4752,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250331-131726.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743397920440216.png "1743397920440216.png")
+![WX20250331-131726.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c0ba7cfa6e136ce06d27a47802325e56_MD5.png)
 
 
 
@@ -4768,7 +4768,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250331-131811.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743398008174560.png "1743398008174560.png")
+![WX20250331-131811.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2c335954d747581742fba3c879850a19_MD5.png)
 
   
 
@@ -4776,7 +4776,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250402-092700.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743556899272210.png "1743556899272210.png")
+![WX20250402-092700.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3ab6d2a65a43d1fd01ec34153f01d8c4_MD5.png)
 
   
 
@@ -4801,7 +4801,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250331-144927.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743403456315924.png "1743403456315924.png")
+![WX20250331-144927.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b5861e098ce7d83ae3ab9fcdd84497ad_MD5.png)
 
   
 
@@ -4825,7 +4825,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250403-100202.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743645386300924.png "1743645386300924.png")
+![WX20250403-100202.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/37108fc7cf7bf30bf7393c88c1120012_MD5.png)
 
   
 
@@ -4835,11 +4835,11 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250331-160847.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/03/31/1743408202351449.png "1743408202351449.png")
+![WX20250331-160847.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1505b4ac6a1df9ab2053b1bb34760476_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744183579323853.png "1744183579323853.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/37a91731e0bcca89eb00016cac26a61b_MD5.png)
 
   
 
@@ -4855,7 +4855,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250402-100228.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743559020492552.png "1743559020492552.png")
+![WX20250402-100228.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f4574d41c2d917ddb44046dcb0981241_MD5.png)
 
   
 
@@ -4869,7 +4869,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
 编辑商品库存单位：【“商品”---->“商品管理”---->“编辑”---->"基础信息"---->“库存单位”】
 
-![WX20250402-095228.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743558419877486.png "1743558419877486.png")
+![WX20250402-095228.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/01b03049df86bc17f8ee2ed4e2873457_MD5.png)
 
 购买赠送积分比例：比如设置成80，则原价100元的商品购买了3件，则赠送积分80*3=240分  
 
@@ -4891,7 +4891,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250402-095523.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743558590467783.png "1743558590467783.png")
+![WX20250402-095523.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8b5007d9716186c4b305560baf897f54_MD5.png)
 
 封面图片：可上传，显示在首页的图片  
 
@@ -4899,11 +4899,11 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744164533595152.png "1744164533595152.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c24aac3ce1fdb3218305121c57e1047f_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744184149707574.png "1744184149707574.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/466bef37010037789d42dcfe1c676a4b_MD5.png)
 
 扣减库存：可开可关，【“站点”------>"网站设置“-------->"订单“---------->“基础”】，可选择订单商品扣减库存规则
 
@@ -4929,7 +4929,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250402-102932.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743560639812388.png "1743560639812388.png")
+![WX20250402-102932.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ddda5db9e094bb0d032b6c7bd928bd0d_MD5.png)
 
   
 
@@ -4941,11 +4941,11 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743748656155596.png "1743748656155596.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/71beeff9e4519db77f5acf56762ce064_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743748708531100.png "1743748708531100.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/24fafd4caac3126f9464d4de8fed35fe_MD5.png)
 
   
 
@@ -4957,36 +4957,36 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
 编辑一个商品的商品规格，选择“尺码”规格模板
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743661237832254.png "1743661237832254.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d1033f231e3e7720af94ecc89823b49d_MD5.png)
 
 点击“保存”按钮
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/17/1744854076453318.png "1744854076453318.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/13487e1e9fc71f807d4f27b99e75de0f_MD5.png)
 
   
 
 在【“仓库”------->"仓库商品管理"】中找到对应商品，编辑添加库存，否则页面显示不出来，会显示“没货了”
 
   
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/17/1744854178739495.png "1744854178739495.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e64422e8c04b8bb3ee7f2d84dfeceea4_MD5.png)
 
-前端网页上会显示相应规格![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743661615142407.png "1743661615142407.png")  
+前端网页上会显示相应规格![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/63b3ff95bbab29b315659f1ce43a840d_MD5.png)  
 
 ### 使用 “批量添加规格“按钮 流程
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743679890698317.png "1743679890698317.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ab06e6b9c89fe019ad54b062816c525a_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743680012699921.png "1743680012699921.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0172fa2ee92e5aecbf2279f06329cd0c_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743680056199346.png "1743680056199346.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/24b0e0e6d158f030c59529a450bbfbcd_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743680236881908.png "1743680236881908.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5b9d88d122f111b8395c174228c36cc1_MD5.png)
 
   
 
@@ -4994,7 +4994,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743680450750190.png "1743680450750190.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a1ee23d700e7eb088a6ca6fff0b36d4b_MD5.png)
 
   
 
@@ -5002,7 +5002,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743680518459784.png "1743680518459784.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/adcbefc48285f46d28fbe45522024758_MD5.png)
 
   
 
@@ -5016,7 +5016,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![WX20250402-103218.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743560844954877.png "1743560844954877.png")
+![WX20250402-103218.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e6054796e1f0fb496a392945a52cfa7b_MD5.png)
 
   
 
@@ -5028,17 +5028,17 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743681607333895.png "1743681607333895.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/14c513af119e1854f6b8fb813e664405_MD5.png)
 
   
 
 手机端，“基础”的参数部分：
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744184814324946.png "1744184814324946.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7572e4e0b9b2de8bc624728356443c1d_MD5.png)
 
   
 
-电脑端，“详情”的参数展示在“详情”部分![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743681739126553.png "1743681739126553.png")  
+电脑端，“详情”的参数展示在“详情”部分![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/80a2c7e4b2c7aa034758bfce59396115_MD5.png)  
 
   
 
@@ -5046,17 +5046,17 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744184956899480.png "1744184956899480.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bfcc2199388b1e1d0b69d165ee019e76_MD5.png)
 
 “全部”的参数既展示在“基础”展示部分，也展示在“详情”展示部分
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743681899651537.png "1743681899651537.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/992ad83e1e37478138338a524ae1506b_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744185113827692.png "1744185113827692.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/18f7c39421808c0477655ea8740f23d2_MD5.png)
 
   
 
@@ -5064,11 +5064,11 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
 编辑商品相册：【“商品”---->“商品管理”---->“编辑”---->“商品相册/商品视频”---->“商品相册”】，可上传商品图片  
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744165140187688.png "1744165140187688.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/20c61e45a334a2e77aafbe0847a477ca_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744185452659611.png "1744185452659611.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3d1b1bb2f781357316d8e1ac550f5360_MD5.png)
 
 
 
@@ -5076,9 +5076,9 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
 编辑商品视频：【“商品”---->“商品管理”---->“编辑”---->“商品相册/商品视频”---->“商品视频”】，可上传商品视频  
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744165359578999.png "1744165359578999.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5531e45e383e1626b9777d1df2992a1d_MD5.png)
 
- ![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744185554121632.png "1744185554121632.png")
+ ![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9cc4ee85ce7dc92594704050d72104e4_MD5.png)
 
 
 
@@ -5097,7 +5097,7 @@ PC端网页：【“个人中心”------------>“安全设置”--------------
 
 编辑电脑详情中的内容：【“商品”---->“商品管理”---->“编辑”---->“电脑详情”】，可编辑文本
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744165525573676.png "1744165525573676.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/db0dce255a396e81fd6142edaf62345f_MD5.png)
 
   
 
@@ -5132,11 +5132,11 @@ SEO关键字：【“商品”---->“商品管理”---->“编辑”---->“SE
 
 SEO描述：【“商品”---->“商品管理”---->“编辑”---->“SEO信息”---->“SEO描述”】
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744163100938327.png "1744163100938327.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d3a25acf662f458df2b3f85b7680de43_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744163199403285.png "1744163199403285.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/53cf930b1312d67978084eef8874d78e_MD5.png)
 
   
 
@@ -5158,13 +5158,13 @@ SEO描述：【“商品”---->“商品管理”---->“编辑”---->“SEO�
 
   
 
-![WX20250401-123734.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743481925415778.png "1743481925415778.png")
+![WX20250401-123734.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/35dfeb8a56f267c27214708e18d33ad9_MD5.png)
 
   
 
-![WX20250402-104011.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743561327683309.png "1743561327683309.png")
+![WX20250402-104011.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/853b04b5272d42be4ed8ee43e0f83d4a_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744199684101821.png "1744199684101821.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2c98f32cc51d8826e9473397918f3d36_MD5.png)
 
 
 
@@ -5176,7 +5176,7 @@ SEO描述：【“商品”---->“商品管理”---->“编辑”---->“SEO�
 
 显示在分类名称左侧的小图标：【“商品”---->“商品分类”---->“编辑”---->“图标”】  
 
-![WX20250402-105259.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743562052697666.png "1743562052697666.png")
+![WX20250402-105259.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2a1a9ee4ff875dfac338cd85fb8ab878_MD5.png)
 
   
 
@@ -5186,7 +5186,7 @@ SEO描述：【“商品”---->“商品管理”---->“编辑”---->“SEO�
 
   
 
-![WX20250402-105441.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743562151725908.png "1743562151725908.png")
+![WX20250402-105441.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/95e6f0e083119289b380e3cba5b13c6d_MD5.png)
 
   
 
@@ -5196,8 +5196,8 @@ SEO描述：【“商品”---->“商品管理”---->“编辑”---->“SEO�
 
 |实景图位置|   |
 |---|---|
-|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“一级分类”时，实景图位置如下  <br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200316234439.png "1744200316234439.png")<br><br>![WX20250402-110804.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743562953674344.png "1743562953674344.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200457362592.png "1744200457362592.png")|   |
-|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“分类+商品”时，实景图位置如下<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200373682130.png "1744200373682130.png")<br><br>  <br><br>![WX20250402-110929.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743563041459566.png "1743563041459566.png")<br><br>  <br><br>![WX20250402-111055.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743563123922466.png "1743563123922466.png")|   |
+|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“一级分类”时，实景图位置如下  <br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5ec05811d5710c8e15384afd4ba54bc6_MD5.png)<br><br>![WX20250402-110804.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e845765383e53092d9883496dd511393_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2afd2b5f6c8fe93f75f0a0b3167ee77e_MD5.png)|   |
+|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“分类+商品”时，实景图位置如下<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9d35c4411292325c3418afbfdbb4c7ae_MD5.png)<br><br>  <br><br>![WX20250402-110929.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7f780ef35b22252cd9374d9f66617c06_MD5.png)<br><br>  <br><br>![WX20250402-111055.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/416a1f7994898cdecb004dd3531d8fda_MD5.png)|   |
 
   
 
@@ -5207,7 +5207,7 @@ SEO描述：【“商品”---->“商品管理”---->“编辑”---->“SEO�
 
   
 
-![WX20250402-112045.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743563848703641.png "1743563848703641.png")
+![WX20250402-112045.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/26418a7d0972dfed8d4ca2b035b05fe2_MD5.png)
 
   
 
@@ -5224,9 +5224,9 @@ SEO描述：【“商品”---->“商品管理”---->“编辑”---->“SEO�
 |   |   |
 |---|---|
 |商品分类副名称位置|   |
-|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为任意值时，副名称位置![WX20250402-111432.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743563337983439.png "1743563337983439.png")|   |
-|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“二级分类”时，副名称位置<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248373721343.png "1744248373721343.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744249701980702.png "1744249701980702.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248640340501.png "1744248640340501.png")|   |
-|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“三级分类”时，副名称位置<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248689973775.png "1744248689973775.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744249814442563.png "1744249814442563.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248763617477.png "1744248763617477.png")|   |
+|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为任意值时，副名称位置![WX20250402-111432.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d0bf50f00c70509eaf0025f7fb435238_MD5.png)|   |
+|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“二级分类”时，副名称位置<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dc7d6f4570ec48cca41ad5269f667f7b_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0dfe5fac3780da85593cab93bccf4778_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6661b0c690c518ba6a27cf36e9a8e284_MD5.png)|   |
+|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“三级分类”时，副名称位置<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d928dd4eaef91083d9b7e58bc9a11121_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4a119f7f9567d9983612224fd358c259_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0c7297a9038660cc9a6c59872ea8569a_MD5.png)|   |
 
   
 
@@ -5235,9 +5235,9 @@ SEO描述：【“商品”---->“商品管理”---->“编辑”---->“SEO�
 |   |   |
 |---|---|
 |“描述”的位置|   |
-|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“一级分类”，“描述”的位置<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744200986395826.png "1744200986395826.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744207457781928.png "1744207457781928.png")|   |
-|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“二级分类”时，“描述”的位置<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248373721343.png "1744248373721343.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744249939501893.png "1744249939501893.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248969596259.png "1744248969596259.png")|   |
-|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“三级分类”时，“描述”的位置<br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744248689973775.png "1744248689973775.png")<br><br>  <br><br>  <br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744250062572109.png "1744250062572109.png")<br><br>  <br><br>![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744249046457510.png "1744249046457510.png")|   |
+|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“一级分类”，“描述”的位置<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/40a802f28e1ad8f2e9f661a872d79c18_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ff5c424831fcbcd358b7e3082fa40841_MD5.png)|   |
+|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“二级分类”时，“描述”的位置<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dc7d6f4570ec48cca41ad5269f667f7b_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0bf6ebe7057705ad4fea03702b7104c9_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1eae057600762e780a7d873e53f8ae3b_MD5.png)|   |
+|【“站点”-------->"网站设置“--------->"商品“---------->"分类展示层级”】的值为“三级分类”时，“描述”的位置<br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d928dd4eaef91083d9b7e58bc9a11121_MD5.png)<br><br>  <br><br>  <br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ba787daaff56caa90df582319bb0803f_MD5.png)<br><br>  <br><br>![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/40c41898634e98a369471e82d6d23f63_MD5.png)|   |
 
   
 
@@ -5273,7 +5273,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744161467486610.png "1744161467486610.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/765fef2994802a90b2b18406cd521f01_MD5.png)
 
 
 
@@ -5290,7 +5290,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250401-131829.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743484393842273.png "1743484393842273.png")
+![WX20250401-131829.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/04d3fafe43ed5e28950531c3a8eb23a5_MD5.png)
 
   
 
@@ -5308,7 +5308,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250402-113839.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743564788970821.png "1743564788970821.png")
+![WX20250402-113839.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4bbfdddee62f0fb92361d3013b49ae3a_MD5.png)
 
 是否启用：开关
 
@@ -5328,7 +5328,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250402-120016.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743566120192826.png "1743566120192826.png")
+![WX20250402-120016.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f11d6c21979ced3401eb807746ca8cac_MD5.png)
 
 
 
@@ -5346,7 +5346,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250401-132708.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743484917371959.png "1743484917371959.png")
+![WX20250401-132708.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c6f8e12237c57ad5a147d7d77dec66f5_MD5.png)
 
   
 
@@ -5364,7 +5364,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250402-114007.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743564964252139.png "1743564964252139.png")
+![WX20250402-114007.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9c82271adebd92fca820b70b9c75f133_MD5.png)
 
 规格值：必填
 
@@ -5380,7 +5380,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250402-115646.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743565930609795.png "1743565930609795.png")
+![WX20250402-115646.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e2b85b8ca67c939b02a48905898fe629_MD5.png)
 
 
 
@@ -5397,7 +5397,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250401-133713.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743485569283786.png "1743485569283786.png")
+![WX20250401-133713.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/36e01c8e00bd354ace3dfcda61cb0584_MD5.png)
 
   
 
@@ -5405,17 +5405,17 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743660288423934.png "1743660288423934.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/190bc9dd33bc4e095df8cff12fba8023_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743660369731356.png "1743660369731356.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f5487114c4170303b14fa747b03016b1_MD5.png)
 
   
 
 用户端提交了评价之后，就会在【“商品”-------->“商品评价”】中显示
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743660427207368.png "1743660427207368.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f1b4d4cdf863db94fa6d4d066c8abc9d_MD5.png)
 
 
 
@@ -5428,7 +5428,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250401-135351.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743486512281266.png "1743486512281266.png")
+![WX20250401-135351.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3f8a1064fe5f5628d3d7a62966227364_MD5.png)
 
 
 
@@ -5440,11 +5440,11 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250401-135536.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743486649922515.png "1743486649922515.png")
+![WX20250401-135536.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5c53c13a0aa913b495764f35f0b4a626_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743683867267307.png "1743683867267307.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/45995d7e3710add204583f5da9278e57_MD5.png)
 
 
 
@@ -5456,15 +5456,15 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250401-135726.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743486763400259.png "1743486763400259.png")
+![WX20250401-135726.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/715617a217ecce7282fd7a430bf94d74_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743659657840317.png "1743659657840317.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/abfb154ac81a15ee9ea63076457af949_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743660039865114.png "1743660039865114.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ef7850c6c490782ac18cf8824e453c01_MD5.png)
 
 
 
@@ -5487,7 +5487,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250401-141136.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743487564233120.png "1743487564233120.png")
+![WX20250401-141136.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/385827069804f848e48579a0ed2a306a_MD5.png)
 
   
 
@@ -5495,13 +5495,13 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250402-130956.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743570307554427.png "1743570307554427.png")
+![WX20250402-130956.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/97480e6b2883ebfd4c92f535ce01df80_MD5.png)
 
   
 
 用户点击“立即购买”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743649004366234.png "1743649004366234.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/aa1f83acd7c7cd126539a269eed2d756_MD5.png)
 
   
 
@@ -5509,17 +5509,17 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743649084762421.png "1743649084762421.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/84eab7291ad406e8be95ad50db5f669a_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743741548743815.png "1743741548743815.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/90639d00b9f2ff7c3867c1154e82d970_MD5.png)
 
   
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743741983995187.png "1743741983995187.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2cd91eb2fed5425f04258a58ec21894c_MD5.png)
 
   
 
@@ -5527,31 +5527,31 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743741852903184.png "1743741852903184.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/444e4453434cc3214cc9c3abd3351303_MD5.png)
 
   
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743741734592948.png "1743741734592948.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dadb2b9c6c6fdedf7de88729fc4f0ce7_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743649270443404.png "1743649270443404.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b5cf013751a719880d768bde6fc17299_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743651830797624.png "1743651830797624.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f9142d21ea21ffce33ad4bbc8793e790_MD5.png)
 
 用户可按上图提示银行卡方式打款，也可在后台进行现金支付；上图中的银行卡号和联系电话在后台【“网站”-------->"支付方式”-------->编辑“现金支付” 】中配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743649322403566.png "1743649322403566.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a6b8700a9ac01a02bd5454c41654439f_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743649671151972.png "1743649671151972.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e3d9a626908c735be9ccfc22180a08fa_MD5.png)
 
   
 
@@ -5559,19 +5559,19 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743649705729995.png "1743649705729995.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f548599bdf66d1a0199df853f7870f94_MD5.png)
 
   
 
 点“发货”之后，会让填写快递信息
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743649741373992.png "1743649741373992.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a2c5db20d85c5eb03562862680fa854b_MD5.png)
 
 可以在后台点“收货”，也可以用户在网页点“收货”
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743649891349780.png "1743649891349780.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/72be77922ade749fe6bfaf852e0613c9_MD5.png)
 
   
 
@@ -5579,9 +5579,9 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250402-131127.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743570367808751.png "1743570367808751.png")
+![WX20250402-131127.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0dc167971de4bdaaa177da22dbdbda8d_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650237511592.png "1743650237511592.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/57b66c98ff7c695420aff0a127fa568c_MD5.png)
 
   
 
@@ -5589,15 +5589,15 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650278796516.png "1743650278796516.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/57f1e36cf365724f21462f8a7871cda2_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743742288593078.png "1743742288593078.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2204c76eaa9c2b97ffcb6c2768a06812_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743742359463848.png "1743742359463848.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/64a9928f7ad81c26e8eaec293112f8cd_MD5.png)
 
   
 
@@ -5605,29 +5605,29 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743742703982545.png "1743742703982545.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/be0dea310d75b73001b996f9aedd480f_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743742521972516.png "1743742521972516.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c9fb33afed9fb36ca0c679f2960136e2_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650343691180.png "1743650343691180.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6a181e4a8b41068b4cca1d69d2d5a6ec_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743651898958402.png "1743651898958402.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fee0f7a85f51951f0b885e1efda21dff_MD5.png)
 
 用户按照上图提供银行卡打款，或者从后台用现金支付；上图中的银行卡号和联系电话在后台【“网站”-------->"支付方式”-------->编辑“现金支付” 】中配置
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650404504923.png "1743650404504923.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ffc09ccb1a6bc00babf25a940bb8465b_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650438873450.png "1743650438873450.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4abb34d24a050def6e701c70a2c1b4c1_MD5.png)
 
   
 
@@ -5637,7 +5637,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650487213495.png "1743650487213495.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/161b7c5df8619905ce5338662f65908a_MD5.png)
 
   
 
@@ -5645,13 +5645,13 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650569654931.png "1743650569654931.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/71923702c17cc39352f03b2198ed4ab5_MD5.png)
 
   
 
 用户在网页点击“收货”，或者管理员后台点击“收货”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650699421582.png "1743650699421582.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/30b88534cd90797f36a32d59288be3ad_MD5.png)
 
   
 
@@ -5659,7 +5659,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![WX20250402-125958.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743569669870374.png "1743569669870374.png")
+![WX20250402-125958.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4b7c3ffcbacc41ded9e46f1c69d2d503_MD5.png)
 
   
 
@@ -5671,7 +5671,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650829487883.png "1743650829487883.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2fc0c28994506a97abef4c6af79f3280_MD5.png)
 
   
 
@@ -5679,15 +5679,15 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650862454860.png "1743650862454860.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/62a075289a63dc88f6cfdbc42c40fd38_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743742892919761.png "1743742892919761.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b0888ca23aae4a717ae3448460223435_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743742947134643.png "1743742947134643.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/11c1c5d072964cd02c30a6907fe91e1e_MD5.png)
 
   
 
@@ -5695,17 +5695,17 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743743170564306.png "1743743170564306.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/924137882c089ad5e04e6f882943bed4_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743743122140279.png "1743743122140279.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ca06a3b42825bbb0c505a4641e4e15da_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743650919400621.png "1743650919400621.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5a8a67952abb40af66d9ead63bafad07_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743651975337455.png "1743651975337455.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/54afe1d2932dd49cf5ad7b472365d016_MD5.png)
 
   
 
@@ -5713,17 +5713,17 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743651101337772.png "1743651101337772.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ec52b2adf6d78708e03efc7b4e5494bf_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743651126916704.png "1743651126916704.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5c8d460f7322df8f2a6f92c9ede6ff80_MD5.png)
 
   
 
 支付完成之后，用户网页会收到取货码
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743651172660242.png "1743651172660242.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3a2b4fa4cdf5dfe599e766f9a6033d68_MD5.png)
 
   
 
@@ -5731,13 +5731,13 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743651276987329.png "1743651276987329.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/229a758847ea56ca817e5c86b86c9c13_MD5.png)
 
   
 
 用户在网页确认收货，或者管理员在后端点击“收货”
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743651429109897.png "1743651429109897.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7ef157b622979884c5ec6be0d0df1925_MD5.png)
 
 
 
@@ -5763,16 +5763,16 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743652314323110.png "1743652314323110.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/15a8313370ab63f0245c301e3e5f25f7_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743652477321337.png "1743652477321337.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6362888e6b7468d19c21de794d1312dd_MD5.png)
 
   
 
   
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743652785267461.png "1743652785267461.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ea4a099298f614b7eb7fde9b65c32b1a_MD5.png)
 
   
 
@@ -5780,17 +5780,17 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743653034568638.png "1743653034568638.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4f22830f84629235b6685f697bef08c7_MD5.png)
 
   
 
 此时，在后台就可以看到售后的一条数据，可以审核，拒绝，取消
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743653066187653.png "1743653066187653.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ef861a7b08cbe64ad164d2b505b7327b_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743653641276681.png "1743653641276681.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4ee2d81d56f045785ba4a9d998bdeb0c_MD5.png)
 
   
 
@@ -5809,19 +5809,19 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743654612242679.png "1743654612242679.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/93ab13ec0c3511966aed55d42c772d11_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743654671400767.png "1743654671400767.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/86ab9aa74a939d7f87cdcbfeefea6ed8_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743654701162615.png "1743654701162615.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e4e98c443d6e7d2efe75050393365a07_MD5.png)
 
 退款原因下拉框内容配置参考文档[站点---订单售后](https://store.shopxo.net/doc-index-detail-13.html?dcid=114)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743654851358862.png "1743654851358862.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/195a2e061628c173cdfab8bc2fd5dd47_MD5.png)
 
   
 
@@ -5829,7 +5829,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743654934563413.png "1743654934563413.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/26bc77182755b628d2cbb803d214bfc1_MD5.png)
 
   
 
@@ -5837,7 +5837,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743655011556955.png "1743655011556955.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7692eec38886629a7e8e5a1a2264999c_MD5.png)
 
   
 
@@ -5845,7 +5845,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743656363717272.png "1743656363717272.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/72dc1f491b73a227d9e4668f243efa2c_MD5.png)
 
   
 
@@ -5853,7 +5853,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743656473263105.png "1743656473263105.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5d18d267417452ade0eb39f7d4c68024_MD5.png)
 
   
 
@@ -5876,7 +5876,7 @@ SEO描述：【“商品”---->“商品分类”---->“编辑”---->“SEO�
 
 编辑中间导航：【“网站”---->“导航管理”---->“编辑”】
 
-![WX20250402-142331.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743574679946792.png "1743574679946792.png")
+![WX20250402-142331.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7f96bc514ac66a1d5c7888fce017f566_MD5.png)
 
   
 
@@ -5914,7 +5914,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250402-145613.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743576646406124.png "1743576646406124.png")
+![WX20250402-145613.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/44e0d1f57ddf3812a6c4995ab9d8194b_MD5.png)
 
   
 
@@ -5936,7 +5936,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250402-150917.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743577425949187.png "1743577425949187.png")
+![WX20250402-150917.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/60e541d7a7ecbe065176b6208f839eae_MD5.png)
 
   
 
@@ -5960,7 +5960,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250402-152100.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743578130512137.png "1743578130512137.png")
+![WX20250402-152100.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3b1ec78141db9d22d5437b11dbb9e61a_MD5.png)
 
   
 
@@ -5982,7 +5982,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250402-153057.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743578727332582.png "1743578727332582.png")
+![WX20250402-153057.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c4c25bba402cc04f4289a0bfac5f088c_MD5.png)
 
   
 
@@ -6006,7 +6006,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250402-154131.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/02/1743579362434828.png "1743579362434828.png")
+![WX20250402-154131.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e8f5a6e38507d698291f11d34639eeef_MD5.png)
 
   
 
@@ -6022,7 +6022,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250403-092250.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743643035433695.png "1743643035433695.png")
+![WX20250403-092250.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/94cf226fc229e644b961545264be687d_MD5.png)
 
   
 
@@ -6070,7 +6070,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250403-093847.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743643994425194.png "1743643994425194.png")
+![WX20250403-093847.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ce85650d73754788421cfede7da977cb_MD5.png)
 
   
 
@@ -6094,7 +6094,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250403-094948.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743644652658741.png "1743644652658741.png")
+![WX20250403-094948.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/47948a64b9b25ed987d931a1ad28b463_MD5.png)
 
   
 
@@ -6116,7 +6116,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250403-095836.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743645180921662.png "1743645180921662.png")
+![WX20250403-095836.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7c6dc2ae252c4640a547b42f8a8e372a_MD5.png)
 
   
 
@@ -6138,7 +6138,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250403-103817.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743647561388539.png "1743647561388539.png")
+![WX20250403-103817.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ba90257ace6c1f3d38cbf14c47393ef5_MD5.png)
 
   
 
@@ -6160,7 +6160,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![WX20250403-104603.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/03/1743648031712278.png "1743648031712278.png")
+![WX20250403-104603.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e593a2a1b5983ccc41637714050393db_MD5.png)
 
 
 
@@ -6190,7 +6190,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/04/1743768423319181.png "1743768423319181.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e402ace4b5e1c3ca6e3b7df2dbe28af9_MD5.png)
 
   
 
@@ -6235,11 +6235,11 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743797134243163.png "1743797134243163.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/70312bf50a8fd481c4c11315b233068a_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1743989168402968.png "1743989168402968.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a2164e2534e9abb4d1a8ae50391e3810_MD5.png)
 
   
 
@@ -6253,15 +6253,15 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
 ### 模板市场
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743837608762308.png "1743837608762308.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6c82f36f99a47f069461379cbe3dba07_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743837703485292.png "1743837703485292.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ed2f56fd08007f550dc55fb0250af23b_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743837749332059.png "1743837749332059.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f744318dd6eff545cc5b8e35c6da5cb3_MD5.png)
 
   
 
@@ -6273,7 +6273,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743837920843191.png "1743837920843191.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a8f302a0b6014009e7996bc498bcd718_MD5.png)
 
 
 
@@ -6287,7 +6287,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743850474268572.png "1743850474268572.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ed7a1a4ed4c08a5dbb82823fb4d1d466_MD5.png)
 
 
 
@@ -6304,11 +6304,11 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743798131155815.png "1743798131155815.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/09b1ab8c3af6b625c9530d3151537803_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743798198962619.png "1743798198962619.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bc2982aae50866a26c70d6fee30981db_MD5.png)
 
 
 
@@ -6325,10 +6325,10 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743798465659763.png "1743798465659763.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2fd0aecd4aa4d8131bce04ad35fbc855_MD5.png)
 
   
- ![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744118207935581.png "1744118207935581.png")
+ ![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2fb7114452269e238580406f43b9b2ed_MD5.png)
 
 
 
@@ -6390,7 +6390,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743802401886868.png "1743802401886868.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/09c4062627eddb1d267d6455b03edf31_MD5.png)
 
 
 
@@ -6407,7 +6407,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743802479872862.png "1743802479872862.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4b51988f23537d663dd1e4f369c73f93_MD5.png)
 
   
 
@@ -6415,7 +6415,7 @@ url地址：必填，跳转的url，例如：[https://d3.shopxo.vip/goods-110.ht
 
 在【"订单”----------->“订单管理”】里面，发货的时候可以选快递
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743802566146390.png "1743802566146390.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f7e1c59c0048f08f2302dd88da2f21cd_MD5.png)
 
   
 
@@ -6444,7 +6444,7 @@ icon图标：可上传
 
 ## 用途
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743802947449306.png "1743802947449306.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fab855221ea7e794d178930b33754992_MD5.png)
 
   
 
@@ -6484,17 +6484,17 @@ LOGO:可选
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743826377392938.png "1743826377392938.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1f788ea55851287c984ab471b9342d46_MD5.png)
 
   
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743826481308159.png "1743826481308159.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b6e4ec6249aa041ced8e9b12ae0b277b_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743826581896172.png "1743826581896172.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9e2c145116d39903aa5f5322bfc94544_MD5.png)
 
   
 
@@ -6545,25 +6545,25 @@ PC端，快捷导航包含在“顶部小导航里”，在【“站点”------
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1743989745503646.png "1743989745503646.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/359fa82929aa2ced0a50fc9562a1d69d_MD5.png)
 
   
 
 PC端，快捷导航的内容配置：【“网站”---->“快捷导航”】
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743803859651988.png "1743803859651988.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/404d0c0c8def8d17e8b51a69dcd70456_MD5.png)
 
   
 
 手机端，首页的悬浮的“服务”快捷导航的内容配置：【“网站”---->“快捷导航”】
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744764617118904.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e1c3dead63fed4ce68c4fa1b15ed6952_MD5.png)
 
   
 
 手机端首页悬浮的"服务"快捷导航开关控制：【“站点”------>"网站设置“------->"扩展"------>"快捷导航"----->"快捷导航状态"】
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744182794514154.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4c46af49325d3fd1b78993413274cbae_MD5.png)
 
   
 
@@ -6611,17 +6611,17 @@ PC端，快捷导航的内容配置：【“网站”---->“快捷导航”】
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1743990169324115.png "1743990169324115.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/037e8686d81a6905603b3cdd18097a21_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1743990989810763.png "1743990989810763.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/20eb080f9c889feb298b210a9becdde8_MD5.png)
 
   
 
 新增导航的时候，可以用到设计好的页面
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743805605794565.png "1743805605794565.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8228dd8c91b1028715294d9db220fdcc_MD5.png)
 
 
 
@@ -6640,11 +6640,11 @@ PC端，快捷导航的内容配置：【“网站”---->“快捷导航”】
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743806337595348.png "1743806337595348.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e98187d829a0d64ac903776400afe55c_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743806436103528.png "1743806436103528.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8fe275088dea76cd2e1d62b973fef894_MD5.png)
 
 
 
@@ -6669,7 +6669,7 @@ PC端，快捷导航的内容配置：【“网站”---->“快捷导航”】
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743806998476742.png "1743806998476742.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7635ec1e7a0e4bb157173b74d8c9c542_MD5.png)
 
   
 
@@ -6697,7 +6697,7 @@ SEO标题、SEO关键字、SEO描述：展示的SEO信息
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744080879510693.png "1744080879510693.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4a2aec4dfa3bd533a8827fed8974d04e_MD5.png)
 
   
 
@@ -6705,7 +6705,7 @@ SEO标题、SEO关键字、SEO描述：展示的SEO信息
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744081034893212.png "1744081034893212.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6145764efc3576a6579aa050d4368661_MD5.png)
 
 
 
@@ -6726,7 +6726,7 @@ SEO标题、SEO关键字、SEO描述：展示的SEO信息
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743807379760747.png "1743807379760747.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/327703f0d74fb6994d87190505c1a320_MD5.png)
 
 
 
@@ -6765,7 +6765,7 @@ SEO标题、SEO关键字、SEO描述：展示的SEO信息
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743815537544947.png "1743815537544947.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/521a6f1447643a4b50d57f772be78801_MD5.png)
 
 
 
@@ -6786,7 +6786,7 @@ SEO标题、SEO关键字、SEO描述：展示的SEO信息
 
 “新增”页面显示的是“商品封面”和“商品标题”，没有上传“商品封面”的商品，取商品的相册第一张。“商品封面”和“商品标题”在【“商品”------>"商品管理”---->“编辑”】中设置
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/17/1744863619871987.png "1744863619871987.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5f0c7010ada68930daf00a2b21b4bf5e_MD5.png)
 
   
 
@@ -6794,21 +6794,21 @@ SEO标题、SEO关键字、SEO描述：展示的SEO信息
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743816934527460.png "1743816934527460.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0e22442ae4bba6955965ef9a8ad0ef6b_MD5.png)
 
   
 
 新增按钮可更换商品的仓库，更换了商品仓库之后，要更新商品库存，否则商品页面会显示没货了
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743816971216126.png "1743816971216126.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8b370dfdb0600a561fbb159ab667551c_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743817123594226.png "1743817123594226.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2f7f1ddd9b47ca7f0f71542f8c25f936_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743824150470561.png "1743824150470561.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6b64cbaf77179979c20e5453862e5e7c_MD5.png)
 
   
 
@@ -6816,11 +6816,11 @@ SEO标题、SEO关键字、SEO描述：展示的SEO信息
 
 新增按钮也可直接新增仓库商品，新增了商品仓库之后，要更新商品库存，否则商品页面会显示没货了
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743817175875392.png "1743817175875392.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2f7f1ddd9b47ca7f0f71542f8c25f936_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743824169247647.png "1743824169247647.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6b64cbaf77179979c20e5453862e5e7c_MD5.png)
 
 
 
@@ -6855,7 +6855,7 @@ uniapp端地址以(#/)结尾、比如：
 |   |   |
 |---|---|
 |手机简洁模式为“是”|手机简洁模式为“否”|
-|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743843236104865.png "1743843236104865.png")|![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743843201969701.png "1743843201969701.png")|
+|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/137ba47d72d58e84a67a2147d1dc3185_MD5.jpg)|![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/aac3e472fecfac73af54136e272ea870_MD5.jpg)|
 
   
 
@@ -6867,7 +6867,7 @@ uniapp端地址以(#/)结尾、比如：
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744088130634859.png "1744088130634859.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c4d560953df942e9f70d139390bf84da_MD5.png)
 
   
 
@@ -6876,7 +6876,7 @@ uniapp端地址以(#/)结尾、比如：
 用户中心公告
 
   
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/25/1745587244795980.png "1745587244795980.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6bfa5d51eb6ffdaee0e100c7e8f82e85_MD5.png)
 
   
 
@@ -6892,7 +6892,7 @@ uniapp端地址以(#/)结尾、比如：
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744183303783404.png "1744183303783404.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/53eb57146e833d91dd9e82d006105d35_MD5.png)
 
   
 
@@ -6900,7 +6900,7 @@ uniapp端地址以(#/)结尾、比如：
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744088772880258.png "1744088772880258.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5cbad5590bf8ea4977141eb31644005b_MD5.png)
 
   
 
@@ -6908,7 +6908,7 @@ uniapp端地址以(#/)结尾、比如：
 
 手机端是否启用搜多框开关：【“手机”---->“基础配置”---->“APP/小程序”---->“基础配置”---->“是否启用搜索”】
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744087019569663.png "1744087019569663.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/272a4ef7f56e6476b6596bb2abb42125_MD5.png)
 
 固定顶部导航：固定顶部导航，开，则上下滑动页面时，顶部导航固定显示
 
@@ -6918,7 +6918,7 @@ uniapp端地址以(#/)结尾、比如：
 
 手机端是否启用用户中心头部小导航：【“手机”---->“基础配置”---->“APP/小程序”---->“基础配置”---->“是否启用用户中心头部小导航”】
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744086600103732.png "1744086600103732.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/35af2a31438f83258689542d42bd78b3_MD5.png)
 
   
 
@@ -6932,7 +6932,7 @@ uniapp端地址以(#/)结尾、比如：
 
 获取账户地址一键导入：“我的”---------“我的地址”-----------“导入系统地址”  
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744086849283445.png "1744086849283445.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/778a7b5b1335020b5abcccb1d4411313_MD5.png)
 
   
 
@@ -6944,7 +6944,7 @@ uniapp端地址以(#/)结尾、比如：
 
 不选择DIY模板则默认跟随统一的首页配置
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/05/1743851088936702.png "1743851088936702.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/838198d956847ab51fcc099686a60067_MD5.png)
 
   
 
@@ -6960,13 +6960,13 @@ uniapp端地址以(#/)结尾、比如：
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744089555985371.png "1744089555985371.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2c6dd710801977d4e89701fd8b4717ee_MD5.png)
 
   
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744089617828960.png "1744089617828960.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/98685a4a2742dc269988d2788b2226e9_MD5.png)
 
 
 
@@ -7029,7 +7029,7 @@ Web端
 
 客服电话（手机端“我的”界面的电话客服）：【“手机”---->“基础配置”---->“APP/小程序”---->“在线客服”---->“客服电话”】空则不显示
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685227974297.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/238e5269d7fc08131a8cba1ee55561c8_MD5.png)
 
 
 
@@ -7039,7 +7039,7 @@ Web端
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744007083622962.png "1744007083622962.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/82fe7493527cdbd3ba4d8d41f82db282_MD5.png)
 
 用户基础信息提示页面：可复选  
 
@@ -7085,13 +7085,13 @@ AppSecret：小程序密钥（小程序平台获取）
 
 ## 将APPID和 APPSecret拷贝到商城后台
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744636706217668.png "1744636706217668.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ede119cccbe22750cb1840d76556efdf_MD5.png)
 
   
 
 ## 将“微信小程序原始ID” 拷贝到商城后台（可选）
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744636354671973.png "1744636354671973.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/706098fa7118150c7eb6ceb034b4debc_MD5.png)
 
 
 
@@ -7131,7 +7131,7 @@ AppID: （小程序平台获取）
 
 ## 将APPID、应用公钥、应用私钥、支付宝公钥粘贴到商城后台
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744633558277587.png "1744633558277587.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5598bd65009235af3b182a00121ee8d4_MD5.png)
 
 
 
@@ -7157,7 +7157,7 @@ AppSecret:（小程序平台获取）
 
 ## 将APPID、APPKey 、APPSecret 拷贝到商城后台
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744681426655604.png "1744681426655604.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b0b7ff6e062b74b083f0e44915d63823_MD5.png)
 
 
 
@@ -7186,7 +7186,7 @@ AppSecret: （小程序平台获取）
 
 ## 将头条小程序的AppID 、AppSecret粘贴至商城后台
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744684058397579.png "1744684058397579.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bc6478e179b3ef533eb58fdac94b5d2b_MD5.png)
 
 
 
@@ -7214,7 +7214,7 @@ AppToken: （小程序平台获取）
 
 ## 将QQ开放平台的AppID、AppSecret、AppToken拷贝到商城后台
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744687739209515.png "1744687739209515.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/75e8010414f093e171330901130a1db0_MD5.png)
 
 
 
@@ -7239,7 +7239,7 @@ AppSecret: （小程序平台获取）
 
 ## 将AppID 和 AppSecret 拷贝到商城后台
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744629689192652.png "1744629689192652.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b59a385f14a8ed06946598d64d85a572_MD5.png)
 
 
 
@@ -7256,19 +7256,19 @@ AppSecret: （小程序平台获取）
 
 diy装修实时预览看效果，小程序端需要上线（预览页面会展示二维码），web/h5地址端配置  [参考教程 >>](https://store.shopxo.net/doc-index-detail-13.html?dcid=219)
 
-![QQ20250423-140216.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/23/1745388124877100.png "1745388124877100.png")
+![QQ20250423-140216.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/032ed3d43fef5170862c5af6d66a1390_MD5.png)
 
   
 
 **选购商店提供的DIY模板**
 
-![QQ20250423-140722.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/23/1745388131186609.png "1745388131186609.png")
+![QQ20250423-140722.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8b774939f9265613007a5888cbfae15e_MD5.png)
 
   
 
 **手机端首页使用DIY**
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744000042301726.png "1744000042301726.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ca72263eabef36fb5fd3abd000ff3876_MD5.png)
 
   
 
@@ -7280,7 +7280,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744078994205484.png "1744078994205484.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/31ffa0ae7448fab60f137b2c3d8cbb76_MD5.png)
 
 
 
@@ -7297,7 +7297,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744000705397144.png "1744000705397144.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d9a8d488e4ee2934757e705d0ee6cfc_MD5.png)
 
   
 
@@ -7354,7 +7354,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744003745450114.png "1744003745450114.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8ba1c47b3f7c1b9045409e0e35fc8750_MD5.png)
 
   
 
@@ -7413,13 +7413,13 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 文章分类：下拉框数据来源于【“文章”------>"文章分类“】  
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744007237893189.png "1744007237893189.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/229d1950811d63d9b6a65868d7e4ab07_MD5.png)
 
 跳转url地址：点击文章标题的时候，跳转的url  
 
 封面：
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744007698937177.png "1744007698937177.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/51c59d25bcb2c63100ab8584a4fd1def_MD5.png)
 
 是否启用：是否显示在【“网站”---->"导航管理“------->"中部导航“------>"新增”--->"文章“】的 “文章” 下拉列表中  
 
@@ -7429,9 +7429,9 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 首页推荐：打开，会在首页展示文章  
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/09/1744180580789380.png "1744180580789380.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/79e6424d3baa37b1f72c62cee3dc06e2_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744013659321292.png "1744013659321292.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fdd2eca515665219aad4a9567b4e3aa5_MD5.png)
 
   
 
@@ -7449,11 +7449,11 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744008724651840.png "1744008724651840.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/637044356ae2566283994611d3533498_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744008823815404.png "1744008823815404.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/921b4eb05d3817392266e6b1b6d09acc_MD5.png)
 
 
 
@@ -7472,7 +7472,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744008884935893.png "1744008884935893.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dee9a60f173bf0f6bea181926840bb4c_MD5.png)
 
   
 
@@ -7482,11 +7482,11 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744007237893189.png "1744007237893189.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/229d1950811d63d9b6a65868d7e4ab07_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744009138454816.png "1744009138454816.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7b9076dba3d0ef8beac8658e1a3a0455_MD5.png)
 
 
 
@@ -7496,7 +7496,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744082568497634.png "1744082568497634.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/602c3f5f9cba768711226671c2dfc836_MD5.png)
 
 
 
@@ -7518,7 +7518,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744083073343625.png "1744083073343625.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e5950cdc2736df3ef0b5e518df6fb938_MD5.png)
 
 
 
@@ -7532,19 +7532,19 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 用户提交退款申请，管理员审核，退款之后，就会有一条新的退款日志
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744083293926956.png "1744083293926956.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/93b1e0f1e97ccd5ef7401bb25391cbd2_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744083330670333.png "1744083330670333.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/077b27282f05f9de3a29c844e0bc889b_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744083401283270.png "1744083401283270.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ceeec16785cebf1e8adfec2b24fdea95_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744083459531125.png "1744083459531125.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/69e48b6e1c09dfbf0c6c45b1b0fda631_MD5.png)
 
 
 
@@ -7563,11 +7563,11 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744083616919544.png "1744083616919544.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0a120b0e43891f45febb29b83df5902e_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744083654744285.png "1744083654744285.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ef79b9d0e734773b7772ef3b4d70e171_MD5.png)
 
 
 
@@ -7582,11 +7582,11 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744083808939501.png "1744083808939501.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f368a76dd8188c5fdcf13934bcfba94b_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744083903995657.png "1744083903995657.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f3c21c4a532a16d3bd6f0e9a11d2b931_MD5.png)
 
 
 
@@ -7599,11 +7599,11 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744351589803822.png "1744351589803822.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3500f6b8e931844dfe6385d639c6c3be_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744084499471728.png "1744084499471728.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/af4b069ad33f529721d3392023d7089c_MD5.png)
 
 
 
@@ -7617,7 +7617,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744084534732486.png "1744084534732486.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5b1db9b32181e7aaad39365a2cf7adfa_MD5.png)
 
 
 
@@ -7632,7 +7632,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744012045393300.png "1744012045393300.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0f238fcf5c37830fe0651cc0ce335667_MD5.png)
 
 
 
@@ -7658,7 +7658,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/07/1744012146478238.png "1744012146478238.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8772efca95b8db23d46e797bedfdb124_MD5.png)
 
 
 
@@ -7687,7 +7687,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/08/1744084603399302.png "1744084603399302.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/76a6aa016e1fda94df21e7a8c0676e48_MD5.png)
 
 
 
@@ -7732,7 +7732,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 点击进入官网 [https://shopxo.net/](https://shopxo.net/)
 
-![QQ20250415-180655.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744712073499588.png "1744712073499588.png")
+![QQ20250415-180655.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/64d47cc793f4f8b9a2f42b0b18efe12d_MD5.png)
 
   
 
@@ -7746,7 +7746,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
   
 
-**![QQ20250415-180917.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744712113541886.png "1744712113541886.png")**
+**![QQ20250415-180917.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1409d17193e45f8a3a9fb8a4edfc16ba_MD5.png)**
 
   
 
@@ -7758,7 +7758,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 |   |   |
 |---|---|
-|![QQ20250415-181822.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744712260121716.png "1744712260121716.png")|![1744712242152861.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744712242152861.png)|
+|![QQ20250415-181822.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c09e74a1376f62867ca41ee320d01f11_MD5.png)|![1744712242152861.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b160473c101a10be496bfca9e600ad19_MD5.png)|
 
   
 
@@ -7790,7 +7790,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 同意点击下一步安装，则关闭退出
 
-![QQ20250415-195113.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744718411512980.png "1744718411512980.png")
+![QQ20250415-195113.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/228366b27a986c56a8e1f618f6842cd9_MD5.png)
 
   
 
@@ -7798,7 +7798,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 检测环境通过后点击进入下一步，如果环境不通过，则根据不通过的项调整环境支持
 
-****![QQ20250415-195248.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744718446305254.png "1744718446305254.png")****
+****![QQ20250415-195248.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/86bc84ce55af73d726d126dc3526ffde_MD5.png)****
 
 ********6. 数据库信息填写********
 
@@ -7816,7 +7816,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 > 
 > 填写的信息中不要包含【   '    "    \    <?php    <?    ?>    <    >    &   】类特殊符号
 
-********![QQ20250415-195914.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744718580164285.png "1744718580164285.png")********
+********![QQ20250415-195914.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a77af108d4f6c29a21bdeb9856cf9edf_MD5.png)********
 
 ************7. 系统安装成功************
 
@@ -7826,7 +7826,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 > 
 > 如果需要更改后台登录地址，可以在源码根目录 和 public 目录下 找到admin开头的文件和.php结尾的文件更改名即可
 
-************![QQ20250415-200119.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744718785699186.png "1744718785699186.png")************
+************![QQ20250415-200119.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0b1db2fe0fcc6b16b7c8fa41839d3dc3_MD5.png)************
 
 
 
@@ -7845,7 +7845,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 滚动鼠标到底部或者点击立即安装，根据自身服务器系统选择不同脚本，执行脚本即可搭建好环境（部分服务器运营商已提供宝塔面板预装服务）
 
-![QQ20250415-193353.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744719281630452.png "1744719281630452.png")![QQ20250415-193453.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744719287199684.png "1744719287199684.png")
+![QQ20250415-193353.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/82ad5bf40244e092d0b55fb1f9be4846_MD5.png)![QQ20250415-193453.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d2a6fca8668d70704abfe818ff7a29a6_MD5.png)
 
   
 
@@ -7863,19 +7863,19 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 左侧菜单  ->  软件商店  ->  一键部署   -> 应用搜索 shopxo ， 找到shopxo点击 一键部署
 
-![QQ20250415-193813.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744719531952694.png "1744719531952694.png")
+![QQ20250415-193813.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f794acf9a8d39ba194985a97952ef1d7_MD5.png)
 
   
 
 **5. 填写商城的域名或者ip**
 
-**![QQ20250415-194849.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744719579853581.png "1744719579853581.png")**
+**![QQ20250415-194849.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1f72c2b897bcaad7e307279e3b280a3d_MD5.png)**
 
   
 
 **6. 点击链接进入安装页面，开始安装系统**
 
-**![QQ20250415-194446.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744719592405325.png "1744719592405325.png")**
+**![QQ20250415-194446.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fbfb2630a024427e181e528b8279e906_MD5.png)**
 
   
 
@@ -7895,7 +7895,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 进入小皮官网 [https://www.xp.cn/](https://www.xp.cn/)
 
-![QQ20250415-203530.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744721328792853.png "1744721328792853.png")
+![QQ20250415-203530.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/39ed26c8428829b773a17929c620b0bb_MD5.png)
 
   
 
@@ -7903,7 +7903,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 根据自身服务器系统选择不同脚本，执行脚本即可搭建好环境
 
-![QQ20250415-203613.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744721338244456.png "1744721338244456.png")
+![QQ20250415-203613.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/62e517d9d6aaa14e0ac4737b9f72e7f4_MD5.png)
 
   
 
@@ -7911,7 +7911,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 登录进入小皮管理后台【左侧  ->  网站  ->  PHP站点  ->  添加网站  ->  选择模板市场】点击下一步
 
-**![QQ20250415-203835.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744721384887433.png "1744721384887433.png")**
+**![QQ20250415-203835.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/05cdfb177c5fcffbddfa20fd6ae069c9_MD5.png)**
 
   
 
@@ -7919,13 +7919,13 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 切换tab选择商城、选择ShopXO
 
-![QQ20250415-204006.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744721520566823.png "1744721520566823.png")
+![QQ20250415-204006.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/60777b4577ee9365cbcb569ce0ad1824_MD5.png)
 
   
 
 **5. 网站域名填写**
 
-![QQ20250415-204132.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744721564899830.png "1744721564899830.png")
+![QQ20250415-204132.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/016f354d9d4fe0be174ac919660c9bc6_MD5.png)
 
   
 
@@ -7939,7 +7939,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 > 
 > 点击【确认】后创建网站 开始去安装
 
-![QQ20250415-205053.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744721574705604.png "1744721574705604.png")
+![QQ20250415-205053.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5a3756a2fd07f25fde99492e3df271fd_MD5.png)
 
   
 
@@ -7962,7 +7962,7 @@ diy装修实时预览看效果，小程序端需要上线（预览页面会展�
 
 西部数码官网购买：[https://www.west.cn/active/freetc/?ReferenceID=934057](https://www.west.cn/active/freetc/?ReferenceID=934057)
 
-_![1627373143605248.jpg](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744722437952757.jpg "1744722437952757.jpg")_
+_![1627373143605248.jpg](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/73e782c676a35981e606e8abf0eb8216_MD5.jpg)_
 
   
 
@@ -7974,7 +7974,7 @@ _![1627373143605248.jpg](https://storecdn.shopxo.net/static/upload/images/plugin
 
   
 
-![1627373144745176.jpg](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744722607749482.jpg "1744722607749482.jpg")
+![1627373144745176.jpg](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3430cd25a22e33cbaded960e3eeeb588_MD5.jpg)
 
   
 
@@ -7982,9 +7982,9 @@ _![1627373143605248.jpg](https://storecdn.shopxo.net/static/upload/images/plugin
 
 主机管理  ->  预装软件  ->  点击预装软件进去
 
-![1627373146725438.jpg](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744722484189114.jpg "1744722484189114.jpg")
+![1627373146725438.jpg](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b4b2dd5faa2ef97d6e3c8736cfc09104_MD5.jpg)
 
-![1627373146293744.jpg](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744722668107956.jpg "1744722668107956.jpg")
+![1627373146293744.jpg](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3d2bfc036634abbe4aff7101e1afb2d3_MD5.jpg)
 
   
 
@@ -7994,9 +7994,9 @@ _![1627373143605248.jpg](https://storecdn.shopxo.net/static/upload/images/plugin
 > 
 > 确认php版本必须7.2.5版本起（可以在php版本中调整）
 
-![1627373147620115.jpg](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744722693569889.jpg "1744722693569889.jpg")
+![1627373147620115.jpg](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/882179a3e255aef6fd74cbc5c7faff96_MD5.jpg)
 
-![1627373148837378.jpg](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744722721928745.jpg "1744722721928745.jpg")
+![1627373148837378.jpg](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/11ffb1ed2d9cebc59f86bb81e4a32682_MD5.jpg)
 
   
 
@@ -8004,7 +8004,7 @@ _![1627373143605248.jpg](https://storecdn.shopxo.net/static/upload/images/plugin
 
 如果域名也在西部数码下注册的，那直接点击解析会自动解析到当前主机，或者手动到域名管理里面去解析到当前主机。
 
-![1627373148923903.jpg](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744722748893873.jpg "1744722748893873.jpg")
+![1627373148923903.jpg](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/295eb725891ac430b7e20f37d9b8573e_MD5.jpg)
 
   
 
@@ -8020,7 +8020,7 @@ _![1627373143605248.jpg](https://storecdn.shopxo.net/static/upload/images/plugin
 > 
 > 从虚拟机数据库中获取mysql数据库帐号密码和连接地址
 
-![1627373151509017.jpg](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744722770107386.jpg "1744722770107386.jpg")
+![1627373151509017.jpg](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c86e3b09a028341c4f97751cfbd50e2d_MD5.jpg)
 
   
 
@@ -8084,7 +8084,7 @@ curl "https://www.urlos.com/ai?ifm=shopxo&appId=104&ports=80,443&domains=www.te
 
 登录主机管理面板，打开 “服务 > 网站” 菜单，在右侧列表找到ShopXO服务，点击【更多】，在弹出菜单中选择“重启”：
 
-![1650793156716142.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744723449536482.png "1744723449536482.png")
+![1650793156716142.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/579480ac6537905689307de2a3d461cb_MD5.png)
 
   
 
@@ -8092,7 +8092,7 @@ curl "https://www.urlos.com/ai?ifm=shopxo&appId=104&ports=80,443&domains=www.te
 
 打开 “服务 > 网站” 菜单，在右侧列表找到ShopXO服务，点击【更多】按钮，在弹出菜单中选择“修改域名”，然后将老域名替换成新域名：
 
-![1650793169488944.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744723472556795.png "1744723472556795.png")
+![1650793169488944.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/44c461771db4e638e748079fe0fc5744_MD5.png)
 
   
 
@@ -8102,15 +8102,15 @@ curl "https://www.urlos.com/ai?ifm=shopxo&appId=104&ports=80,443&domains=www.te
 
 登录主机管理面板，打开 “服务 > 网站” 菜单，在右侧列表找到ShopXO服务，点击【文件管理】：
 
-![1650793193945569.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744723489840490.png "1744723489840490.png")
+![1650793193945569.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c35aaafe32aa5a6a008a1164adadfcd5_MD5.png)
 
   
 
 进入文件列表后，找到database-info.json文件，点击后门的【查看】：
 
-![1650793236135459.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744723504863733.png "1744723504863733.png")
+![1650793236135459.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e2dc2e580c5243da1edca02653e70ec2_MD5.png)
 
-![1650793236198848.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744723518346346.png "1744723518346346.png")
+![1650793236198848.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c43faaa23985b628d9c3c8fbef442967_MD5.png)
 
   
 
@@ -8118,13 +8118,13 @@ curl "https://www.urlos.com/ai?ifm=shopxo&appId=104&ports=80,443&domains=www.te
 
 登录主机管理面板，打开 “服务 > 数据库” 菜单，在右侧列表找到数据库服务，点击【文件管理】：
 
-![1650793264296473.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744723534200847.png "1744723534200847.png")
+![1650793264296473.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a46d3d8e7aef3e72640bad47a74f1b4d_MD5.png)
 
   
 
 在数据管理中，可以对数据进行备份、还原、迁入、迁出等操作：
 
-![1650793276643869.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744723541767248.png "1744723541767248.png")
+![1650793276643869.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c129e8d28b4edd4d3b2cdda1e87216e0_MD5.png)
 
   
 
@@ -8222,7 +8222,7 @@ curl "https://www.urlos.com/ai?ifm=shopxo&appId=104&ports=80,443&domains=www.te
 
 根据自己的操作系统选择正式版本下载
 
-**![QQ20250417-221737.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744986570412217.png "1744986570412217.png")**
+**![QQ20250417-221737.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/97cb063bbd4fcffb491eb17ed9643a5d_MD5.png)**
 
 ******HBuilderX安装后******
 
@@ -8230,13 +8230,13 @@ curl "https://www.urlos.com/ai?ifm=shopxo&appId=104&ports=80,443&domains=www.te
 
 也可以通过其他平台下载压缩包或者uniapp市场下载压缩包，将解压后的目录拖入到****HBuilderX****软件的左侧栏目中即可
 
-******![QQ20250417-222737.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744986794575816.png "1744986794575816.png")******
+******![QQ20250417-222737.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/33bbd8e4140cc080939e78cb5f59def4_MD5.png)******
 
 **一键导入、确认导入**
 
 选择vue2版本，项目名称也可以自己修改，导入存放的目录也可以自己更改，点击创建
 
-**![QQ20250417-223231.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744986934144287.png "1744986934144287.png")**
+**![QQ20250417-223231.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d016cf8440def76d289f51c0a756d4bc_MD5.png)**
 
 **修改接口地址**
 
@@ -8248,13 +8248,13 @@ App.vue 文件中【数据接口请求地址 和 静态资源地址】改成自�
 
 默认的名称和描述，也可以修改成自己的商城名称和介绍
 
-**![QQ20250417-224530.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744987049104454.png "1744987049104454.png")**
+**![QQ20250417-224530.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fb7e73a679dc51260bfa6e40dcd83dfd_MD5.png)**
 
 **配置文件中名称修改**
 
 点击左侧 pages.json 文件，内容中 navigationBarTitleText 的默认名称也改成自己的商城名称
 
-**![QQ20250417-225236.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744987297861113.png "1744987297861113.png")**
+**![QQ20250417-225236.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ed5449d9b4ad7dbaea35b657eeb2bc26_MD5.png)**
 
   
 
@@ -8262,29 +8262,29 @@ App.vue 文件中【数据接口请求地址 和 静态资源地址】改成自�
 
 左下角先绑定自己在uniapp平台注册的账户
 
-******![QQ20250417-230039.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744987367866101.png "1744987367866101.png")******
+******![QQ20250417-230039.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bcc9daf5544d277fcfc35ac201f86509_MD5.png)******
 
 **小程序打包需要配置appid**
 
 二级栏目选择【**微信小程序配置**】比如我们这里配置  微信小程序、其他小程序也均如此配置
 
-![QQ20250417-230335.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744987655624783.png "1744987655624783.png")
+![QQ20250417-230335.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ed46a0d3ccd964ec31b80ad47e2a75a6_MD5.png)
 
 ********web/h5打包需要配置********
 
 二级栏目选择********【**Web配置**】********默认名称和地图平台选择后配置为自己的地图密钥
 
-********![QQ20250417-231301.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744987716186755.png "1744987716186755.png")********
+********![QQ20250417-231301.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e19c4eb7300a6e5d2d1584b447c833c3_MD5.png)********
 
 点击左侧 template.h5.html 文件，内容中修改自己的【**网站地址，关键字，描述**】
 
-******![QQ20250417-231942.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744987821346892.png "1744987821346892.png")******
+******![QQ20250417-231942.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b7c6e0f10e664e6f1510de1893c76118_MD5.png)******
 
 **配置好后，开始打包**
 
 点击左侧 App.vue 文件后，顶部点击【**发行**】后选择需要打包的平台
 
-**********![QQ20250417-233005.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744988076499548.png "1744988076499548.png")**********
+**********![QQ20250417-233005.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1fd84a64a1f92b08930ddcfcf2e67b0d_MD5.png)**********
 
   
 
@@ -8292,7 +8292,7 @@ App.vue 文件中【数据接口请求地址 和 静态资源地址】改成自�
 
 弹窗里面也可以再次调整正确的小程序appid，其他小程序均这个流程
 
-********![QQ20250417-233447.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744988264449966.png "1744988264449966.png")********
+********![QQ20250417-233447.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f731078eb39344ef2a50bfd2bdbd640a_MD5.png)********
 
   
 
@@ -8304,7 +8304,7 @@ App.vue 文件中【数据接口请求地址 和 静态资源地址】改成自�
 > 
 > web/h5：则直接将编译好的【web 或 h5】目录放到服务器端根目录访问即可，public目录下面或者同级，然后域名加目录名称去访问即可
 
-********![QQ20250418-222046.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744988400775377.png "1744988400775377.png")********
+********![QQ20250418-222046.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/665b2d3571eacbc13850b3c139d1431d_MD5.png)********
 
   
 
@@ -8327,7 +8327,7 @@ App.vue 文件中【数据接口请求地址 和 静态资源地址】改成自�
 
 名称不需要修改，对包没有影响，域名也不需要填写，直接点击【**发行**】即可
 
-****![QQ20250417-233659.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744988297184815.png "1744988297184815.png")****
+****![QQ20250417-233659.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/232024b159b8ec386ec36fd064580db4_MD5.png)****
 
   
 
@@ -8339,7 +8339,7 @@ App.vue 文件中【数据接口请求地址 和 静态资源地址】改成自�
 
 上传 web这个目录到系统源码 public目录下，如果我在根目录设置的非public、那就上传至于public同级目录即可。
 
-![QQ20250421-130725.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/21/1745211883256390.png "1745211883256390.png")
+![QQ20250421-130725.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5d77a45740b70a87402b8504df489d9b_MD5.png)
 
   
 
@@ -8361,7 +8361,7 @@ location ~ \.php$ {
       include        fastcgi_params;
 }
 
-![QQ20250421-132306.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/21/1745212663957599.png "1745212663957599.png")
+![QQ20250421-132306.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/416db7f568a526e0a05b4f086468d4a1_MD5.png)
 
   
 
@@ -8393,7 +8393,7 @@ location ~ \.php$ {
 
 源码编译好的目录一般在导入的包位置 shopxo-uniapp/unpackage/dist/build/mp-weixin  导入 mp-weixin 这个目录即可
 
-![QQ20250418-222404.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744989583232476.png "1744989583232476.png")
+![QQ20250418-222404.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d62d570ec22d06cb6c245973e1b00491_MD5.png)
 
   
 
@@ -8401,7 +8401,7 @@ location ~ \.php$ {
 
 导入打开后，在微信小程序工具右上角 点击【**上传】**然后在弹窗中【**确认**】即可
 
-**![QQ20250418-222858.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744989651995590.png "1744989651995590.png")**
+**![QQ20250418-222858.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c7b23e62ea9bc09228502cdd5f08496b_MD5.png)**
 
 **进入微信小程序平台**
 
@@ -8411,7 +8411,7 @@ location ~ \.php$ {
 
 也可以生成体验版本真机查看效果，没问题后提交审核，生成体验默认首页地址 pages/index/index
 
-**![QQ20250418-220414.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744989772396891.png "1744989772396891.png")**
+**![QQ20250418-220414.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bfadd24859f9be424e7ac936e8ad69c3_MD5.png)**
 
 **配置接口地址**
 
@@ -8425,7 +8425,7 @@ location ~ \.php$ {
 
 ps：如果配置正确手机上还是看不见数据，微信小程序工具上可以看见，可能是 ssl证书安全性太低或者服务器ssl配置的不对
 
-****![QQ20250418-221005.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/18/1744989922600470.png "1744989922600470.png")****
+****![QQ20250418-221005.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/59f95f103c399e5607a5eb80d57aa949_MD5.png)****
 
   
 
@@ -8435,7 +8435,7 @@ ps：如果配置正确手机上还是看不见数据，微信小程序工具上
 
 将这两个密钥配置到商城后台左侧 手机 -> 微信小程序 里面即可
 
-![QQ20250419-203240.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/19/1745065668227550.png "1745065668227550.png")
+![QQ20250419-203240.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7c5b5d867a59ca12f7ee355c67844bc1_MD5.png)
 
 
 
@@ -8454,7 +8454,7 @@ ps：如果配置正确手机上还是看不见数据，微信小程序工具上
 
 源码编译好的目录一般在导入的包位置 shopxo-uniapp/unpackage/dist/build/mp-alipay  导入 mp-alipay 这个目录即可
 
-![QQ20250419-193104.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/19/1745064207694301.png "1745064207694301.png")
+![QQ20250419-193104.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/16c19e01afd83df0046120135d12be9f_MD5.png)
 
   
 
@@ -8464,7 +8464,7 @@ ps：如果配置正确手机上还是看不见数据，微信小程序工具上
 
 在支付宝小程序工具右上角 点击【**上传版本**】然后在弹窗中确认【**上传版本**】即可
 
-![QQ20250419-194048.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/19/1745064422644514.png "1745064422644514.png")
+![QQ20250419-194048.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d96019a81f5f6d5c4139dca17ebab18a_MD5.png)
 
   
 
@@ -8476,7 +8476,7 @@ ps：如果配置正确手机上还是看不见数据，微信小程序工具上
 
 也可以设为体验版本真机扫码查看效果，检查没问题后提交审核
 
-![QQ20250419-195221.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/19/1745064777967734.png "1745064777967734.png")
+![QQ20250419-195221.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cc4481c4af1cdd9a789e88b4ef8de0a1_MD5.png)
 
   
 
@@ -8494,7 +8494,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-**![QQ20250419-200117.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/19/1745064798808234.png "1745064798808234.png")**
+**![QQ20250419-200117.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a1912acf3d41d6a3ca6d3c605e662041_MD5.png)**
 
 **配置密钥**
 
@@ -8502,7 +8502,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 将这三个密钥配置到商城后台左侧 **手机 -> 支付宝小程序** 里面即可，还有小程序appid
 
-**![QQ20250419-200605.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/19/1745064811309367.png "1745064811309367.png")**
+**![QQ20250419-200605.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/89e5cdf7819b4163929edd3afb73424f_MD5.png)**
 
 
 
@@ -8513,7 +8513,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![WX20250528-133057.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/05/28/1748409798321149.png "1748409798321149.png")
+![WX20250528-133057.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c97222f28aad5a0ab737202a85bc71ab_MD5.png)
 
   
 
@@ -8521,13 +8521,13 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![WX20250528-135217.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/05/28/1748411082747650.png "1748411082747650.png")
+![WX20250528-135217.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f25f163def5fbcb2228132ef8cca44da_MD5.png)
 
   
 
 实名认证完成，就可以获得账号和UKEY。
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/05/28/1748420552354879.png "1748420552354879.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/56403f6caf96647cb88bd84c5175109d_MD5.png)
 
 
 
@@ -8542,31 +8542,31 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 点击“创建新应用”按钮，“应用类型”任意选一个
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744269613840526.png "1744269613840526.png")  
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/478979614431ca5e2ffbc60ec24af842_MD5.png)  
 
 - 点击“添加Key”按钮，填写“Key名称”，单选“Web端(JS API)”，勾选“阅读并同意”，点击“提交”按钮  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744333889860577.png "1744333889860577.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3779e56d600d2188e2e647aa97fcf1b6_MD5.png)
 
 - 复制“Key”和“安全密钥”到商城后台
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744334171847817.png "1744334171847817.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bf22612c9ac9fdcf184431f4836cf2ec_MD5.png)
 
   
 
 -  点击“添加Key”按钮，填写“Key名称”，单选“Web服务”，按需要填写“IP白名单”，勾选“阅读并同意”，点击“提交”按钮
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744334415954235.png "1744334415954235.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e03af33a2f67e2823aece430727eeb05_MD5.png)
 
   
 
 - 将Web服务的Key复制粘贴到商城后台“高德地图api密钥（服务端）”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744334814323574.png "1744334814323574.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1e1486ee251d4d36e4889e1be20c0ba9_MD5.png)
 
 
 
@@ -8579,28 +8579,28 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
       
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744269895862748.png "1744269895862748.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/da31e9f3cae3bd5b219204d203830d67_MD5.png)
 
   
 
 - 点击“控制台”  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744270025225334.png "1744270025225334.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5deafcbac6f3ce9d2e41e2cadad6c320_MD5.png)
 
   
 
 - 点击“创建应用”按钮  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744270451485545.png "1744270451485545.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/173686de2b6606c7af1a72f11649004b_MD5.png)
 
   
 
 - 填写“应用名称”，任意选择一个“应用类型”  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744270506368995.png "1744270506368995.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d067502a09360939b3211ec0df2fbf77_MD5.png)
 
   
 
@@ -8609,7 +8609,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
       
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744335152896979.png "1744335152896979.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9f22749672dd27bb625f8c43813bd426_MD5.png)
 
   
 
@@ -8618,7 +8618,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 将Key复制粘贴到商城后台“腾讯地图api密钥（服务端）”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744335566201600.png "1744335566201600.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c4b01fb1c0eeb87f7227b30e556fda64_MD5.png)
 
 
 
@@ -8629,28 +8629,28 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - [百度平台>>](https://lbsyun.baidu.com/apiconsole/userflow/authpersonal)注册账号
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744265103744980.png "1744265103744980.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7d4c7d24616ca91eafe7b228e1dc1553_MD5.png)
 
   
 
 - 点击“应用管理”按钮，点击“我的应用”，点击“创建应用”  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744265288122526.png "1744265288122526.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/04bc024090ad7f7134ded38f30acef04_MD5.png)
 
   
 
 - 填写“应用名称”，“应用类型”选择“浏览器端”  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744265397618886.png "1744265397618886.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3ab8832d14cc69f7f8765ce89e830e73_MD5.png)
 
   
 
 - 可配置白名单规则，可填“*”表示不限制  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744265508199265.png "1744265508199265.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eb0aff79661cb9c34fe443313b57cfe0_MD5.png)
 
   
 
@@ -8659,28 +8659,28 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744265727223942.png "1744265727223942.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eaaf889dec30f9ef87e26a4187eb8e4a_MD5.png)
 
   
 
 - 将复制的“访问应用（AK)” 粘贴到“百度地图api密钥（浏览器端）”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744265787241856.png "1744265787241856.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c8f7d1d6a5cfc5fbf35ecf4510b9353a_MD5.png)
 
   
 
 - 点击“创建应用”  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744266105927691.png "1744266105927691.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6268e575013dc8fdce45632360c2c122_MD5.png)
 
   
 
 - 填写“应用名称”，“应用类型”选择“服务端”，  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744266146609937.png "1744266146609937.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/155540c732da85396202cb298ae04841_MD5.png)
 
   
 
@@ -8689,21 +8689,21 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744266221931516.png "1744266221931516.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0376a738d7c00a9b4098ed9f70879c64_MD5.png)
 
   
 
 - 复制生成的“访问应用（AK）”  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744266341112456.png "1744266341112456.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f3f5a00a56502949a002c7958d0d344b_MD5.png)
 
 - 粘贴复制的“访问应用（AK）”到后台“百度地图api密钥（服务端）”  
     
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744266393452359.png "1744266393452359.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/17dbfd3be1a872773d0d9279ada687fb_MD5.png)
 
 
 
@@ -8716,7 +8716,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![WX20250401-092410.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743470322317869.png "1743470322317869.png")
+![WX20250401-092410.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/486e96fccf130bb068231e8e35ba4aec_MD5.png)
 
   
 
@@ -8724,15 +8724,15 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![WX20250401-093318.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743471166780282.png "1743471166780282.png")
+![WX20250401-093318.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ee64160429045c5700d1e247948d1d11_MD5.png)
 
   
 
-![WX20250401-161645.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743495095341733.png "1743495095341733.png")
+![WX20250401-161645.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4e1f089d61a8e870da9db9afc6e5d091_MD5.png)
 
   
 
-![WX20250401-094329.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743471489121535.png "1743471489121535.png")
+![WX20250401-094329.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bae2863d9f629b02b919c499bebc7df4_MD5.png)
 
   
 
@@ -8740,7 +8740,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![WX20250401-100903.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743473023204882.png "1743473023204882.png")
+![WX20250401-100903.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4378f41f64554da4e2b173116dbdcb8f_MD5.png)
 
   
 
@@ -8755,7 +8755,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![WX20250401-103303.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743474557548512.png "1743474557548512.png")
+![WX20250401-103303.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e9d9d121e7a97ed00cd4931dd674eb62_MD5.png)
 
   
 
@@ -8763,11 +8763,11 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![WX20250401-104000.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743474871851159.png "1743474871851159.png")
+![WX20250401-104000.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ab37b5bddfdcf293cec3aa4b813ebaab_MD5.png)
 
   
 
-![WX20250401-110711.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743476504609479.png "1743476504609479.png")
+![WX20250401-110711.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b2e6c9cd057004ed7ecc850d0905d109_MD5.png)
 
   
 
@@ -8775,7 +8775,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![WX20250401-104808.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743475357572572.png "1743475357572572.png")
+![WX20250401-104808.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3340c63a4923800a46affaad7ecd5788_MD5.png)
 
   
 
@@ -8792,7 +8792,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![1627569812167930.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743475493840903.png "1743475493840903.png")
+![1627569812167930.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f8b44345d51bd117ac7465b3ed0f57f5_MD5.jpg)
 
   
 
@@ -8800,7 +8800,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![1627569813543343.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743475524426679.png "1743475524426679.png")
+![1627569813543343.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/50dd67a95922e30763bae42818072a1e_MD5.jpg)
 
   
 
@@ -8808,7 +8808,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![1627569813560483.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743475570947299.png "1743475570947299.png")
+![1627569813560483.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f0b7c002ab70477b816d1c234ddf3501_MD5.jpg)
 
   
 
@@ -8816,7 +8816,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![WX20250401-105557.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743475827421577.png "1743475827421577.png")
+![WX20250401-105557.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/30b6481ecb2695b9a0a513355fcecb94_MD5.png)
 
 注意：此条连接[企业云邮箱POP\SMTP\IMAP地址和端口信息](https://help.aliyun.com/document_detail/36576.html)，请不要根据此项设置进行端口配置！
 
@@ -8824,7 +8824,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 正确的SMTP服务地址  
 
-![WX20250401-105801.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/01/1743475955163102.png "1743475955163102.png")
+![WX20250401-105801.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2b4fdba7f00c65053e5784436f0e47c8_MD5.png)
 
 注意：ECS 基于安全考虑，目前已禁用 25 端口。  
 如果您的发送程序部署在阿里云 ECS 上，建议您不勾选 SSL 时，使用 80 端口；勾选 SSL 时，使用 465 端口。云虚拟主机服务器同上
@@ -8844,7 +8844,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 点击账户按钮下面的“AccessKey", 创建Accesskey
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744282126796940.png "1744282126796940.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/32d50a1cbaff88b14c2427391b95711e_MD5.png)
 
   
 
@@ -8853,7 +8853,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 点击“创建使用云账号AccessKey”  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744282201512595.png "1744282201512595.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/40235c44d95099a427665fc1ff361dc7_MD5.png)
 
   
 
@@ -8862,14 +8862,14 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744282433936573.png "1744282433936573.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d5a7ca73ed35b7eccd7b82bcd03bf2b5_MD5.png)
 
   
 
 - 保存AccessKey ID和AccessKey Secret，点击“我已保存”，单击“确定”按钮，并复制AccessKey ID和AccessKey Secret
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744282810222772.png "1744282810222772.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/19d1be15e6199efc7273f7d91bf3fe62_MD5.png)
 
   
 
@@ -8878,7 +8878,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 粘贴AccessKey Secret到商城后台的“短信KeySecret”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744286276550979.png "1744286276550979.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/51ef810b8bfbcb8514271780b6ae6175_MD5.png)
 
   
 
@@ -8889,7 +8889,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744287342108242.png "1744287342108242.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4de57bd365cde286ebca3baf59fe8d95_MD5.png)
 
   
 
@@ -8898,24 +8898,24 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - [短信服务页面>>](https://dysms.console.aliyun.com/domestic/text/template), 点击“国内消息”按钮，点击“资质管理”页签，点击“新增资质”按钮
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744337318696666.png "1744337318696666.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9132a012e8b4fddd8f0dfa183798fba6_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744283604121157.png "1744283604121157.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3fcfeb8992402aaf6ff05b7414b19607_MD5.png)
 
   
 
 - 填写新增资质的相关信息，等待审核
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744337398906372.png "1744337398906372.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a5cd7790d6c021edb106fb3cc07dbcce_MD5.png)
 
   
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744283676618399.png "1744283676618399.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ec4c9e1866a844de6c5bfbc7a6e6d891_MD5.png)
 
   
 
@@ -8926,44 +8926,44 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744283994134740.png "1744283994134740.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9d59ef41f03e760ae516a8709356da22_MD5.png)
 
   
 
 - 点击“添加签名”  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744284048799761.png "1744284048799761.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bbf148b22155f2cbd64301f5ce5e6a89_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744284200651219.png "1744284200651219.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/75149df5f604c535551f46abaa6919aa_MD5.png)
 
   
 
 - 填写“签名”，选择已经审核通过的“资质信息”，填写其他信息
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744284600828409.png "1744284600828409.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/86354ccd410bd7c1958fdfd5f589e222_MD5.png)
 
   
 
 - 点击提交，等待审核  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744284706964783.png "1744284706964783.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/374820e8624185377d139559f3024856_MD5.png)
 
   
 
   
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744284810426963.png "1744284810426963.png")  
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9bd1b1a052e67ea965087c5c43a99d32_MD5.png)  
 
 - 审核通过后，将短信签名粘贴到后台“短信签名”
     
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744337750761858.png "1744337750761858.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ea7fa7db063e3c52a42199de623b9e72_MD5.png)
 
   
 
@@ -8972,25 +8972,25 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - [短信服务页面>>](https://dysms.console.aliyun.com/domestic/text/template)，点击“国内消息”，点击“模板管理”页签，点击“添加模板”按钮
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744284921446329.png "1744284921446329.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/931997556fb8498f86e0befec9bbb32a_MD5.png)
 
   
 
 - 选择“模板类型”，选择“关联签名”（使用已经审核通过的签名），填写模板名称、模板内容（若需使用变量，使用${变量名})、场景说明  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744285305634748.png "1744285305634748.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7c6c3b712acaa9d17947d7d1cb42e62a_MD5.png)
 
   
 
 - 点击“添加”按钮，等待审核  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744285361895843.png "1744285361895843.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/68c61d3d6e92162719c87958d8a01b46_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744285481200232.png "1744285481200232.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a049fd430fcfb66fdf8d93a828a659c1_MD5.png)
 
   
 
@@ -8999,7 +8999,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/10/1744286727282252.png "1744286727282252.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7deca2cac1fa8d2e2b2622cce8ceda63_MD5.png)
 
 
 
@@ -9015,7 +9015,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 注册登录[华为云平台>>](https://auth.huaweicloud.com/authui/login.html?#/login)，完成企业实名认证
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744458234689951.png "1744458234689951.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7a4fa39f38c93c167425fc3a3d6a1eb1_MD5.png)
 
   
 
@@ -9041,12 +9041,12 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 在页面右上角单击“新增资质”。
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744458862270286.png "1744458862270286.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a36b5749ca0f72c3b0866aea95788da1_MD5.png)
 
 - 进入“新增资质”页面。
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744458899924799.png "1744458899924799.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7358e39f8a432f0e88d82aa804155e78_MD5.png)
 
 - 资质申请用途选择为“自用”，参考下面表格填写并上传相关资料。
     
@@ -9068,7 +9068,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 |管理员信息|身份证人像面照片|请上传身份证人像面照片。<br><br>- 上传的文件必须为JPG、PNG、GIF或JPEG格式的图片，每张图片不大于2MB。<br>    <br>- 上传时文件名中不能包含空格和"#'$%&*/\|<>&{}[];?!符号。<br>    <br>- 文件名长度不大于64位。|
 |身份证国徽面照片|请上传身份证国徽面照片。<br><br>- 上传的文件必须为JPG、PNG、GIF或JPEG格式的图片，每张图片不大于2MB。<br>    <br>- 上传时文件名中不能包含空格和"#'$%&*/\|<>&{}[];?!符号。<br>    <br>- 文件名长度不大于64位。|
 |手持身份证照片，请展示出身份证人像面|请上传手持身份证人像面照片，需确保身份证上所有信息清晰完整。<br><br>- 上传的文件必须为JPG、PNG、GIF或JPEG格式的图片，每张图片不大于2MB。<br>    <br>- 上传时文件名中不能包含空格和"#'$%&*/\|<>&{}[];?!符号。<br>    <br>- 文件名长度不大于64位。|
-|姓名|请填写资质管理员姓名。<br><br>![](https://res-static.hc-cdn.cn/aem/content/dam/cloudbu-site/archive/china/zh-cn/support/resource/framework/v3/images/support-doc-revision-note.svg)说明：<br><br>- 管理员必须为短信签名所属公司的法人或经办人。<br>    <br>- 身份证正反面图片和手持身份证图片人员信息需保持一致。|
+|姓名|请填写资质管理员姓名。<br><br>![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/02e6170f9db3ed596485cfc278d5ea11_MD5.svg)说明：<br><br>- 管理员必须为短信签名所属公司的法人或经办人。<br>    <br>- 身份证正反面图片和手持身份证图片人员信息需保持一致。|
 |身份证号|请填写资质管理员身份证号码。|
 |手机号码|输入手机号码获取验证码。<br><br>请确保手机号码为本次实名的管理员所属。|
 |邮箱|请填写邮箱地址。|
@@ -9078,7 +9078,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
       
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744459010409612.png "1744459010409612.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/11c4925d531ed762c2e047b54367bcd8_MD5.png)
 
   
 
@@ -9091,11 +9091,11 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 单击页面右上角的“添加应用”，根据图后面的表格开始添加应用。
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744460011634912.png "1744460011634912.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fa74a376ec3bb8befdea7104110e1463_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744460080396994.png "1744460080396994.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d05e9778cbff46bde2841d0fe91f1461_MD5.png)
 
   
 
@@ -9107,7 +9107,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 |IP白名单|请根据业务需要配置，单个应用限配置100个IP，用逗号分隔。IP白名单配置生效约有10~15分钟的时延，用户配置成功后，方可与消息&短信服务建立连接。|
 |接收上行短信回复时间|短信平台接收到用户发送的上行短信的UTC时间。填入上行短信接收地址后才可选择。选择“需要”，调用[接收上行短信API>>](https://support.huaweicloud.com/api-msgsms/sms_05_0004.html)同时增加字段“createTime”，消息&短信服务可以通过填入的上行短信接收地址，通知业务方用户回复短信的时间。|
 |测试签名和模板|选择“需要”时，系统会自动创建关联的测试签名和测试模板，方便快速调测。<br><br>测试签名和模板有效期为1个月，到期将自动清除。|
-|企业项目|用于设置应用所属的企业项目。需开通企业项目，才有下拉选项。开通企业项目后，若无具体企业项目要求，可选择默认企业项目“default”。[点此了解企业管理](https://support.huaweicloud.com/usermanual-em/zh-cn_topic_0123692049.html)<br><br>![](https://res-static.hc-cdn.cn/aem/content/dam/cloudbu-site/archive/china/zh-cn/support/resource/framework/v3/images/support-doc-revision-note.svg) 说明：<br><br>企业项目类型分商用生产项目和测试类项目。商用生产项目供生产环境部署资源的企业项目使用，资源按大客户商务优惠（若有）进行批价。测试类项目供测试企业项目使用，测试资源按官网价格进行批价，不使用大客户商务优惠进行批价。请根据业务需求进行选择，误选可能导致有商务优惠的客户无法进行优惠批价。|
+|企业项目|用于设置应用所属的企业项目。需开通企业项目，才有下拉选项。开通企业项目后，若无具体企业项目要求，可选择默认企业项目“default”。[点此了解企业管理](https://support.huaweicloud.com/usermanual-em/zh-cn_topic_0123692049.html)<br><br>![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/02e6170f9db3ed596485cfc278d5ea11_MD5.svg) 说明：<br><br>企业项目类型分商用生产项目和测试类项目。商用生产项目供生产环境部署资源的企业项目使用，资源按大客户商务优惠（若有）进行批价。测试类项目供测试企业项目使用，测试资源按官网价格进行批价，不使用大客户商务优惠进行批价。请根据业务需求进行选择，误选可能导致有商务优惠的客户无法进行优惠批价。|
 |推送AKSK鉴权|支持业务方接收状态报告/上行短信/批量状态报告时开启/关闭AKSK鉴权。开启后平台的推送会带有用于鉴权的字段，可根据该字段对平台发送的HTTP消息鉴权，具体请参考[推送AKSK验证>>](https://support.huaweicloud.com/api-msgsms/sms_05_0064.html)。<br><br>当开启推送AKSK鉴权功能时，必须配置推送AK和推送SK。配置后生效时间大概需要5分钟左右。关闭推送AKSK鉴权功能后，若需要重新开启，则需要重新设置AKSK。<br><br>注意：<br><br>修改推送AKSK后生效时间需要5分钟，期间可能会导致状态报告/上行短信推送验证失败，请谨慎操作！|
 |推送AK|用户自定义。只能由英文字母和数字组成。|
 |推送SK|用户自定义。需要包含大小写字母、数字和特殊字符（`~!@#$%^&*()-_=+\\|[{}];:'",<.>/?和空格）。口令和账号不能一样。|
@@ -9119,11 +9119,11 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
       
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744460200754471.png "1744460200754471.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/34bbce8df003f053efa1f9dd12fb2bab_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744460325536520.png "1744460325536520.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/80286bdaaa6789e784d6d7e107493a0d_MD5.png)
 
   
 
@@ -9136,9 +9136,9 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744460465325387.png "1744460465325387.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4ef56aa089f946d0c567a1264dcd56d1_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744460558760972.png "1744460558760972.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/71cb2609be476996623d800a3a7c0408_MD5.png)
 
   
 
@@ -9192,7 +9192,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744460911414762.png "1744460911414762.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d0668c7f2e047f99f97517b044d86ec1_MD5.png)
 
   
 
@@ -9201,7 +9201,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 登录[短信控制台](https://console.huaweicloud.com/msgsms/#/msgSms/taskManage)，在左侧导航树中选择“国内短信 > 模板管理”，进入模板管理页面。
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744461085304750.png "1744461085304750.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4a0c481f7d8f5f16f66d89dd14ad1403_MD5.png)
 
   
 
@@ -9210,7 +9210,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 方法一：单击页面右上角“添加模板”，根据下面表格填写，单次创建单个模板。完成后单击“确定”。
 
-![](https://res-static.hc-cdn.cn/aem/content/dam/cloudbu-site/archive/china/zh-cn/support/resource/framework/v3/images/support-doc-revision-note.svg)说明：
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/02e6170f9db3ed596485cfc278d5ea11_MD5.svg)说明：
 
 请按顺序依次选择“模板类型 > 所属应用 > 所属签名”。如果选择所属签名提示“暂无数据”，请先选择模板类型和所属应用。
 
@@ -9221,14 +9221,14 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 1. 单击页面右上角“下载导入模板”下载导入模板Excel表格，单次可创建多个模板。
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744461961387836.png "1744461961387836.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/45a105f1f489165eef5020d7693f892b_MD5.png)
 
 1. 单击页面右上角“批量导入”，导入填写好的表格。
     
 2. 模板导入成功，控制台出现待审核的模板数据；模板因填入格式不正确导入失败，弹出提示“下载失败数据”，需修改表格内容重新导入。
     
 
-![](https://res-static.hc-cdn.cn/aem/content/dam/cloudbu-site/archive/china/zh-cn/support/resource/framework/v3/images/support-doc-revision-note.svg)说明：
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/02e6170f9db3ed596485cfc278d5ea11_MD5.svg)说明：
 
 表格中带*的参数为必填项，请规范填写表格，以免批量上传失败。单次导入数据不能超过50条。
 
@@ -9244,14 +9244,14 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744461777468785.png "1744461777468785.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1f8689ea2c5b647e207645f5b790e33e_MD5.png)
 
   
 
 - 等待审核结果  
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744461850196766.png "1744461850196766.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f4949a130cf1cd39b09c6feff0170946_MD5.png)
 
   
 
@@ -9260,18 +9260,18 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 【”应用“----->“应用管理“】安装“短信”插件，并启用它
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744452813309608.png "1744452813309608.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3a56500f540939b540a793a5e8603474_MD5.png)
 
   
 
 - 打开编辑页面（点击“设置”按钮------>点击“编辑按钮”）
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744452363372772.png "1744452363372772.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cf1755a9ae9285fd531db42b46d8c44f_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744452398163493.png "1744452398163493.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2c66d24b914dc147b82013808b7af88d_MD5.png)
 
   
 
@@ -9284,26 +9284,26 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744462416785544.png "1744462416785544.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ba2c16818f05e19feda164d46e327873_MD5.png)
 
   
 
 - 将华为云平台申请应用时得到的“APP接入地址”、“Application Key”、“Application Secret” 分别拷贝到网站后台
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744463369422541.png "1744463369422541.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4614a33315acf69b578d9a37a1a6008b_MD5.png)
 
   
 
 - 将华为云平台申请签名时得到的“签名”和“签名通道”分别拷贝到商城后台
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744463658702483.png "1744463658702483.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6a7d0196d069f28708f7a536813ea259_MD5.png)
 
 - 将华为云平台申请模板时得到的“模板ID”拷贝到商城后台
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744463826654185.png "1744463826654185.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/67ed5ec436f22bd639d687bd18ce04e2_MD5.png)
 
 
 
@@ -9318,7 +9318,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 注册登录[腾讯云平台>>](https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Fact%2Fpro%2Fcsms%3FfromSource%3Dgwzcw.5676763.5676763.5676763%26utm_medium%3Dcpc%26utm_id%3Dgwzcw.5676763.5676763.5676763%26bd_vid%3D9377217835027178096)，完成实名认证
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744361533551108.png "1744361533551108.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/281afb73f61095897fd1d8c384ceef6a_MD5.png)
 
   
 
@@ -9327,7 +9327,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 登录 “[短信控制台>>](https://console.cloud.tencent.com/smsv2)”，勾选"我已阅读并同意 腾讯云短信 服务协议”，单击开始接入即可开通
     
 
-![61504c86cedd407fe078177845fd38d2.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744361963553900.png "1744361963553900.png")
+![61504c86cedd407fe078177845fd38d2.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/29c3f64114fb9eab523e6a9ed8b84f1b_MD5.png)
 
   
 
@@ -9338,7 +9338,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 在 [概览页](https://console.cloud.tencent.com/smsv2) 页面，单击“概览”，单击“新增资质”，单击“创建资质”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744363776763854.png "1744363776763854.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8969a33835fd2f0211181444a22f75e5_MD5.png)
 
   
 
@@ -9347,7 +9347,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
       
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744363454413176.png "1744363454413176.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5fb14f390b8afb0ee6eded12719cea97_MD5.png)
 
   
 
@@ -9363,14 +9363,14 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
       
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744363882667779.png "1744363882667779.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e894aa0d6840953cd0e2e797b8784f69_MD5.png)
 
   
 
 - 填写相关信息，点击“提交”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744364508320798.png "1744364508320798.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d4860b756492b55ce47e050f0e8c7faa_MD5.png)
 
 - 等待签名审核，当状态变为“可用（正常）”时，表示短信签名已在腾讯云平台审核通过
     
@@ -9388,14 +9388,14 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 在 [概览页](https://console.cloud.tencent.com/smsv2) 页面，单击“概览”，单击“创建短信正文模板”，单击“创建模板”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744364893406558.png "1744364893406558.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6dda48d4f9c0f50aa33394081541548a_MD5.png)
 
   
 
 - 填写相关信息，单击“确定”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744364992561888.png "1744364992561888.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eaece16eebaf0df2b5f1b7415e1c66bb_MD5.png)
 
   
 
@@ -9411,33 +9411,33 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 【”应用“----->“应用管理“】安装“短信”插件，并启用它
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744452813309608.png "1744452813309608.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3a56500f540939b540a793a5e8603474_MD5.png)
 
   
 
 - 打开编辑页面（点击“设置”按钮------>点击“编辑按钮”）
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744452363372772.png "1744452363372772.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cf1755a9ae9285fd531db42b46d8c44f_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744452398163493.png "1744452398163493.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2c66d24b914dc147b82013808b7af88d_MD5.png)
 
   
 
 - 腾讯云平台 应用管理 -> 应用里表里面申请的密钥填写到商城后台短信插件里面，分别是：“SDKAppID”，“AppKey”
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/06/11/1749631471628649.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e463b23b04c243184a2aea5cd66f3c01_MD5.png)
 
   
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/06/11/1749631472267455.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/86b60e955e5e73bdd795d492e38645cd_MD5.png)
 
   
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/06/11/1749631472147294.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/094812628bd9e628f50db85b3115cfd0_MD5.png)
 
   
 
@@ -9446,13 +9446,13 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 粘贴在腾讯云平台申请通过的“签名ID” 或 “签名名称”，根据实际要求填写对应的内容
     
 
-![QQ20250611-164513.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/06/11/1749631418701772.png "1749631418701772.png")
+![QQ20250611-164513.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bbc0bf116a802d734c0356a2cddfadeb_MD5.png)
 
   
 
 粘贴在腾讯云平台申请通过的“模板ID”到“系统基础短信模板的内容”
 
-![QQ20250611-164712.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/06/11/1749631504806069.png "1749631504806069.png")
+![QQ20250611-164712.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/741830cafce8b7c448e6d2c3a60ec020_MD5.png)
 
 
 
@@ -9462,7 +9462,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 注册登录[百度平台>>](https://cloud.baidu.com/product/sms.html)
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744338815636822.png "1744338815636822.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c129d7ecdc8d0055c3d4cf6e289525cc_MD5.png)
 
   
 
@@ -9475,14 +9475,14 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 ## 购买短信
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744342509597224.png "1744342509597224.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7966ea1b82bd8f4be557dd7f554e1845_MD5.png)
 
 ## 获取Access Key  和 Secret Key
 
 - 登录[短信控制台>>](https://console.bce.baidu.com/smsv3/)，点击右上角”获取AK/SK”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744341553685488.png "1744341553685488.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/229665400f75b62c157f41b36a2e5f98_MD5.png)
 
   
 
@@ -9491,7 +9491,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744341662113276.png "1744341662113276.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/05f494f7dbeea10b59512319e76fee57_MD5.png)
 
   
 
@@ -9500,7 +9500,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 登录[短信控制台>>](https://console.bce.baidu.com/smsv3/)
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744339245922627.png "1744339245922627.png")[](https://console.bce.baidu.com/smsv3/)  
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/871d2596111d8ed60069e7990b9e0890_MD5.png)[](https://console.bce.baidu.com/smsv3/)  
 
   
 
@@ -9509,14 +9509,14 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744339318641166.png "1744339318641166.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7c6a7724f234531735429b5aa2d71100_MD5.png)
 
   
 
 - 点击“申请新短信签名”按钮
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744339436214523.png "1744339436214523.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dbb875960499f6e107e87fade954a0c9_MD5.png)
 
   
 
@@ -9527,40 +9527,40 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
       
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744339667696961.png "1744339667696961.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/029a4f611808270e253841b0cb059672_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744339764526309.png "1744339764526309.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cdd2ec6c910bc3a7e58a3b0df8949620_MD5.png)
 
   
 
 - 将签名粘贴到商城后台“短信签名”
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744340534300522.png "1744340534300522.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fdeb4a45206f826d37cec476645194dd_MD5.png)
 
 ## 申请模板(参考官方文档 [模板管理>>](https://cloud.baidu.com/doc/SMS/s/6kbrf78ks))
 
 - 登录[短信控制台>>](https://console.bce.baidu.com/smsv3/)
     
 
-[![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744339245922627.png "1744339245922627.png")](https://console.bce.baidu.com/smsv3/)
+[![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/871d2596111d8ed60069e7990b9e0890_MD5.png)](https://console.bce.baidu.com/smsv3/)
 
   
 
 - 点击左侧“国内短信”，点击“模板管理”，点击“创建模板”，等待审核
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744340105589471.png "1744340105589471.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7b30f629fd25287d82a87574d3cde092_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744340238686720.png "1744340238686720.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/72439fc0e947c2cb7d26036071ddf323_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/11/1744340281709472.png "1744340281709472.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a69cc53e50adc27dfb7ddbcabcc31484_MD5.png)
 
   
 
@@ -9569,18 +9569,18 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 【”应用“----->“应用管理“】安装“短信”插件，并启用它
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744452813309608.png "1744452813309608.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3a56500f540939b540a793a5e8603474_MD5.png)
 
   
 
 - 打开编辑页面（点击“设置”按钮------>点击“编辑按钮”）
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744452363372772.png "1744452363372772.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cf1755a9ae9285fd531db42b46d8c44f_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744452398163493.png "1744452398163493.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2c66d24b914dc147b82013808b7af88d_MD5.png)
 
   
 
@@ -9595,7 +9595,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 将百度云平台申请通过的“签名ID”粘贴到商城后台
     
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/12/1744456997494628.png "1744456997494628.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f4bd2ebf60cf92514655daee70576e67_MD5.png)
 
   
 
@@ -9622,21 +9622,21 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 ## 登录[微信公众号平台>>](https://mp.weixin.qq.com/)获取APPID
 
-![1627642767266249.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744800471757848.png "1744800471757848.png")
+![1627642767266249.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7d2c9ab382aa737b59ecdd39480ae697_MD5.jpg)
 
   
 
-![1627642768621616.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744800599980309.png "1744800599980309.png")
+![1627642768621616.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9bdc4a7cbe0c83aff8e0e1195a4c4fc3_MD5.jpg)
 
   
 
 ## 微信小程序后台获取APPID
 
-![1627642768187731.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744800639248527.png "1744800639248527.png")
+![1627642768187731.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2e695a7922127118ec25aaebb7ee7d97_MD5.jpg)
 
   
 
-![1627642768204787.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744800665819396.png "1744800665819396.png")
+![1627642768204787.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ee8c01b7a50fdd2ce78b923366e06f32_MD5.jpg)
 
   
 
@@ -9654,7 +9654,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 > 
 > H5支付：手机浏览器打开网站使用微信支付（非微信APP里面打开网站支付）
 
-![QQ20250423-113735.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/23/1745380373708575.png "1745380373708575.png")
+![QQ20250423-113735.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7a85567bba203568447e10f4af17486b_MD5.png)
 
   
 
@@ -9664,7 +9664,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 > 
 > H5支付配置：按照提示添加好网站的域名
 
-![QQ20250423-115026.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/23/1745380539446503.png "1745380539446503.png")
+![QQ20250423-115026.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1464552250340c4134ee5d2bef99026e_MD5.png)
 
   
 
@@ -9672,7 +9672,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 按照提示添加appid后，在到小程序或者公众号的后台，左侧 微信支付里面去确认绑定即可
 
-![QQ20250423-115312.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/23/1745380669534641.png "1745380669534641.png")
+![QQ20250423-115312.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/04c6e357f5a15b4ab34c122a3af01878_MD5.png)
 
   
 
@@ -9680,17 +9680,17 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 账户中心 -> API安全  
 
-![QQ20250423-112533.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/23/1745380320610236.png "1745380320610236.png")
+![QQ20250423-112533.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f721575c15a24300d91ab608c131de0f_MD5.png)
 
   
 
 按照提示配置生成证书（如果网站需要在后台直接操作用户的订单原路退回，需要配置证书，则可以不配置）
 
-![1627642768755266.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744800711489748.png "1744800711489748.png")
+![1627642768755266.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/be206989e13681ae450b69456e9717c9_MD5.jpg)
 
   
 
-![1627642768242893.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744800738899183.png "1744800738899183.png")
+![1627642768242893.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4554bb8a03cdca3008739679b237ff6b_MD5.jpg)
 
   
 
@@ -9704,15 +9704,15 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 ## 将API证书等信息填写到后台
 
-![1627642769291963.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744800789518493.png "1744800789518493.png")
+![1627642769291963.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/94048b446029e27816af8ac932c4fcc2_MD5.jpg)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744597399367537.png "1744597399367537.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a3995800b499e7fa5665b256189b0ca6_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744597426246822.png "1744597426246822.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3e84561e2d03553898f5810462323295_MD5.png)
 
   
 
@@ -9728,11 +9728,11 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 > 
 > 两个证书：如果需要商城后台审核售后订单直接原路退回金额需要配置，则可以不配置。
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744597484147402.png "1744597484147402.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c92ce3b674fe28a4a9978ead5eed60ae_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744597537541118.png "1744597537541118.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/43e7013997463ceefc678e24a87449ba_MD5.png)
 
   
 
@@ -9746,27 +9746,27 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744597870901496.png "1744597870901496.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fe4bdf05ba1de1414548605e932a0858_MD5.png)
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744597963892264.png "1744597963892264.png")
-
-  
-
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744598022788967.png "1744598022788967.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1ffe5175ed3f9880f4890145f10eed8c_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744598070553607.png "1744598070553607.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6a132cc4353dc4ee0bb8f40a0d5a937c_MD5.png)
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744598102902259.png "1744598102902259.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d74befd7590ce93064422b3e724a4c5d_MD5.png)
+
+  
+
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/10c491de249a8f51d93c15b0f0d6bc3e_MD5.png)
 
   
 
 根据前面步骤得到的信息填写下面图片中内容
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744598188281296.png "1744598188281296.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b4e401a43b9e906ea11cd18f3f4191e6_MD5.png)
 
   
 
@@ -9775,7 +9775,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 [参照官方教程 >>](https://pay.weixin.qq.com/static/pay_setting/appid_protocol.shtml)
 
   
-![1627642770963249.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744800861501752.png "1744800861501752.png")到[微信商户>>](https://pay.weixin.qq.com/index.php/extend/pay_setting/add_ma)查询自己的公众号和小程序APPID点击下一步，然后到公众号/小程序后台的微信支付确定授权完成绑定即可
+![1627642770963249.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/831bfc69185f5fade6b4d5b58b851f5a_MD5.jpg)到[微信商户>>](https://pay.weixin.qq.com/index.php/extend/pay_setting/add_ma)查询自己的公众号和小程序APPID点击下一步，然后到公众号/小程序后台的微信支付确定授权完成绑定即可
 
   
 
@@ -9792,7 +9792,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 点击 创建网页应用，或者点击已经创建好的应用进去
 
-![QQ20250416-173031.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744795505398670.png "1744795505398670.png")
+![QQ20250416-173031.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/faee7fb8651daac1656fccb7c8ef6367_MD5.png)
 
 **设置公钥（再获取支付宝公钥）用于接口签名使用，第一次操作可能需要短信验证码**
 
@@ -9812,7 +9812,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![QQ20250416-171912.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744795002834301.png "1744795002834301.png")
+![QQ20250416-171912.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/753b126969a061f7041ef2961c7504c1_MD5.png)
 
   
 
@@ -9820,7 +9820,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 点击去  [支付宝产品中心 >>](https://b.alipay.com/page/product-workspace/all-product)   开通对应的权限，这边就可以看见了
 
-![QQ20250416-172051.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/16/1744795024101554.png "1744795024101554.png")
+![QQ20250416-172051.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0333769736781f0b925864b7618a0fb9_MD5.png)
 
   
 
@@ -9830,7 +9830,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744596122778531.png "1744596122778531.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c3ba9e0b7aaab0ad17bbd3d6cec55303_MD5.png)
 
   
 
@@ -9839,7 +9839,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744596147170160.png "1744596147170160.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3d6141daca06eca42af96c3be2736619_MD5.png)
 
   
 
@@ -9848,7 +9848,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744633968717891.png "1744633968717891.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bc7f3c32e0502fe768a54224967500d0_MD5.png)
 
   
 
@@ -9869,7 +9869,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 在微信公众平台官网首页（[mp.weixin.qq.com](https://mp.weixin.qq.com/)）点击右上角的“立即注册”按钮。
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630116162232.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/56b895c941543999cde8099e909fb161_MD5.png)
 
 #### [](https://developers.weixin.qq.com/miniprogram/introduction/#%E9%80%89%E6%8B%A9%E6%B3%A8%E5%86%8C%E7%9A%84%E8%B4%A6%E5%8F%B7%E7%B1%BB%E5%9E%8B)选择注册的账号类型
 
@@ -9889,7 +9889,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 ##### [](https://developers.weixin.qq.com/miniprogram/introduction/#%E9%80%89%E6%8B%A9%E4%B8%BB%E4%BD%93%E7%B1%BB%E5%9E%8B)选择主体类型
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630116732132.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b42212de03b361cc496525b5f86a80b6_MD5.png)
 
 主体类型说明如下：
 
@@ -9912,25 +9912,25 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 方式二：通过微信认证验证主体身份，需支付300元认证费。认证通过前，小程序部分功能暂无法使用。
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630116224180.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b1f887a3d5005aa0724383b11da353f2_MD5.png)
 
 - 政府、媒体、其他组织类型账号，必须通过微信认证验证主体身份。认证通过前，小程序部分功能暂无法使用。
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630116362973.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8c8ff10a8f6e374ce8b1cfa86b4a06a0_MD5.png)
 
 - 微信认证入口：登录小程序 - 设置 - 微信认证详情
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630116625157.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/21d176e6281e5a7ef3fd1461a74cf7c3_MD5.png)
 
 ##### [](https://developers.weixin.qq.com/miniprogram/introduction/#%E5%A1%AB%E5%86%99%E7%AE%A1%E7%90%86%E5%91%98%E4%BF%A1%E6%81%AF)填写管理员信息
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630117188108.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/12f9d13b5680654c50efac81bdb1fd33_MD5.png)
 
 ##### [](https://developers.weixin.qq.com/miniprogram/introduction/#%E7%A1%AE%E8%AE%A4%E4%B8%BB%E4%BD%93%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%8F%AF%E5%8F%98%E6%9B%B4)确认主体信息不可变更
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630117239867.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1615e6a5a537a7b2bd01c41c6fdb7dd6_MD5.png)
 
 ##### [](https://developers.weixin.qq.com/miniprogram/introduction/#%E7%82%B9%E5%87%BB%E7%A1%AE%E8%AE%A4%E5%AE%8C%E6%88%90%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B)点击确认完成注册流程
 
@@ -9938,7 +9938,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 **注意：请在10天内完成汇款，否则将注册失败。**
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630117233224.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/20359bc2049c058b92adab989f28f56a_MD5.png)
 
 选择通过微信认证验证主体身份的用户，完成注册流程后请尽快进行微信认证，认证完成之前部分功能暂不可使用。
 
@@ -9948,7 +9948,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 完成注册后，在微信公众平台官网首页（[mp.weixin.qq.com](https://mp.weixin.qq.com/)）的登录入口直接登录。
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630223436233.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/56b895c941543999cde8099e909fb161_MD5.png)
 
 #### [](https://developers.weixin.qq.com/miniprogram/introduction/#%E5%AE%8C%E5%96%84%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BF%A1%E6%81%AF)完善小程序信息
 
@@ -9956,9 +9956,9 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 选择对公打款的用户，完成汇款验证后，可以补充小程序名称信息，上传小程序头像，填写小程序介绍并选择服务范围。
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630223770715.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8d65fb1903ec2ef9a7d40583e1c03e39_MD5.png)
 
-选择通过微信认证验证主体身份的用户，需先完成微信认证后，才可以补充小程序名称信息，上传小程序头像，填写小程序介绍并选择服务范围。 ![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744630223718360.png)
+选择通过微信认证验证主体身份的用户，需先完成微信认证后，才可以补充小程序名称信息，上传小程序头像，填写小程序介绍并选择服务范围。 ![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5373135a5530a0e34c48ad2fc93e4d13_MD5.png)
 
 ## 开发前准备
 
@@ -9974,19 +9974,19 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 已认证已发布非个人的小程序最多可绑定90个项目成员，90个体验成员。
 
-![](https://res.wx.qq.com/op_res/1fcFu3RFaktW-_9piduEBLjLf_5qiXIMIS8djTtFd775ju3hZldW99x38zZSfPhGTZSZ67gzSVU_uVDzRennLg)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4fa10bb0ca914055b410475df12646e4_MD5.jpg)
 
 ##### [](https://developers.weixin.qq.com/miniprogram/introduction/#%E8%8E%B7%E5%8F%96AppID)获取AppID和AppSecret
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744636510531754.png "1744636510531754.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bf1700949d37408f6aeabdb29ea02d2a_MD5.png)
 
 ##### 获取微信小程序原始ID
 
 账号设置 --> 基本设置 ---> 账号信息里面
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744636159712625.png "1744636159712625.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/139709fa985121939b86f366448a5bd8_MD5.png)
 
 
 
@@ -10006,21 +10006,21 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 如果没有支付宝账号，可以使用手机号注册成为开发者。
     
 
-![](https://yuque.antfin.com/images/lark/0/2023/png/19756585/1684141208416-0eeba6aa-4104-43cb-90e1-9a6bed29881f.png)  
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/601ef2a6755e5e2520b1326cdba6a5b4_MD5.png)  
 
   
 
 ## 创建小程序  
 
-1. 登录 [开放平台控制台](https://openhome.alipay.com/mini/dev/list)，点击页面左上角 **创建小程序**，进入 **创建小程序** 页面。![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744612211325749.png)
+1. 登录 [开放平台控制台](https://openhome.alipay.com/mini/dev/list)，点击页面左上角 **创建小程序**，进入 **创建小程序** 页面。![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/25dc79e7758bb0070b477acc604f2255_MD5.png)
     
 2. 在 **创建小程序** 页面，填写 **小****程序名称**，小程序名称设置详情可查看 [小程序名称设置规范](https://rulecenter.alipay.com/gateway/details?docId=134000935)。  
-    ![image (4).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744612279729154.png "1744612279729154.png")  
+    ![image (4).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0cc708813d5cd38c71dd95e9aaf002d3_MD5.png)  
     
 3. 在 **绑定商家账号** 输入框，输入商家支付宝账号/商户号，点击 **查找**，确认账号后发起 **创建**。  
-    ![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744612211962765.png)
+    ![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4d780fc5ef2751a940305111f2aee65c_MD5.png)
     
-4. 发起创建申请后，邀请商家账号点击链接或扫描二维码确认待办。创建中的小程序可在 [控制台](https://openhome.alipay.com/mini/dev/list) > **创建小程序** 旁点击进入。![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744612212708774.png)  
+4. 发起创建申请后，邀请商家账号点击链接或扫描二维码确认待办。创建中的小程序可在 [控制台](https://openhome.alipay.com/mini/dev/list) > **创建小程序** 旁点击进入。![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f05f5ef497b8d3ad782f3089bad86f13_MD5.png)  
     **注意**：如果是以下情况，小程序可以直接创建成功，不需要商家账号确认。
     
 
@@ -10030,7 +10030,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
     
 
 1. 创建成功后，即可在控制台小程序列表看到此应用，并进行开发。  
-    ![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744612212233283.png)  
+    ![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5593d30c9a60cb64d0e353bfc53b5463_MD5.png)  
     **说明**：
     
 
@@ -10051,7 +10051,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 小程序 APPID 相当于小程序的身份证号，请登录开放平台控制台在 **小程序** 中具体小程序名称下获取所需小程序 APPID，后续可用于 OpenAPI 调用等操作。
 
-![查看 appid.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744612684169706.png "1744612684169706.png")
+![查看 appid.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7d04f2a5275a9c8b1ba580839473f3ae_MD5.png)
 
   
 
@@ -10065,7 +10065,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 1. 登录 [开放平台控制台](https://openhome.alipay.com/develop/manage)，选择某个应用，点击 **详情**，进入 应用详情页 > **开发设置** > **开发信息** > **接口加签方式（密钥/证书）**> **设置。**
     
-    ![image (6).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744631209109554.png "1744631209109554.png")  
+    ![image (6).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/96685574aef932792b734f0e59e6e40d_MD5.png)  
     
 2. 阅读接口加签方式注意事项，然后点击 **确认** 进入配置流程。
     
@@ -10073,12 +10073,12 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 ### 密钥配置流程
 
 1. 设置加签方式，选择 **密钥** > **下一步**。  
-    ![image (7).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744631236330818.png "1744631236330818.png")  
+    ![image (7).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/55a2fd49cf74a54d2a1e7b6b45d4c854_MD5.png)  
     
 2. 生成密钥文件。
     
 
-![image (8).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744631429155530.png "1744631429155530.png")
+![image (8).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/77255e29d9c1d509f45b656c100fea98_MD5.png)
 
 1. 下载并安装 [支付宝开放平台密钥工具](https://opendocs.alipay.com/common/02kipk)。
     
@@ -10121,7 +10121,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 说明：支付宝开放平台不会保存您的应用私钥。如果您是通过 支付宝开放平台密钥工具 生成的密钥或CSR文件，可以打开密钥工具 > 生成密钥 > 打开文件位置，再根据生成的文件日期找到对应的密钥。如果应用私钥丢失或泄露，需要重新配置。
 
- ![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744633385808664.png "1744633385808664.png")
+ ![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/da4eb2440de1e3c356a273d1d8c8cd15_MD5.png)
 
 
 
@@ -10137,13 +10137,13 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![](https://sf1-cdn-tos.douyinstatic.com/obj/microapp/frontend/docs/images/%E6%B3%A8%E5%86%8C%E5%85%A5%E5%8F%A3-6861396568993170.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4f1ed3b03616e1c93fb71e257f3f697c_MD5.png)
 
   
 
 ## 入驻开发者平台
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744682372191795.png "1744682372191795.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1f41b8c2f1c22fec1f773fead6dd174c_MD5.png)
 
 - 登录开发者平台
     
@@ -10152,16 +10152,16 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/d6d029b582c749a79e4547846853eb29~tplv-goo7wpa0wc-quality:q75.image)  
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6317981d7a4b4b324d5fb09579a76b53_MD5.png) 
 
   
 
 - 登录成功后，在首页或前往「账号中心」认证企业身份，填写主体资质信息并通过平台审核。
     
 
-![previewImag](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/9fe94c1dfffb430391df6c929d61c902~tplv-goo7wpa0wc-image.image)
+![previewImag](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ad016a7f478525afb923f5137f32274d_MD5.png)
 
-![](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/215ece4fc6f1493a9944c443c7f164ce~tplv-goo7wpa0wc-quality:q75.image)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4e973c2506c331df6cb1fc92f765991b_MD5.png)
 
   
 
@@ -10170,7 +10170,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/cf33e4427487443cabf3240b4cfb546f~tplv-goo7wpa0wc-quality:q75.image)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fb0375320c049a993e94a0bba59b3a7c_MD5.png)
 
   
 
@@ -10183,7 +10183,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 登录[抖音开放平台](https://developer.open-douyin.com/)，在右上角点击「控制台」，在控制台中点击「小程序」，然后点击「创建小程序」
     
 
-![](https://sf1-cdn-tos.douyinstatic.com/obj/microapp/frontend/docs/images/img1685520869377)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a8b76cfca4194661380574661e002cf7_MD5.png)
 
   
 
@@ -10199,7 +10199,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 如果品牌传播度不高，小程序名称应该简单易懂，且易被记住小程序创建后，由抖音开放平台进行审核。审核通过后，控制台会展示新建的小程序。
     
 
-![](https://sf1-cdn-tos.douyinstatic.com/obj/microapp/frontend/docs/images/img1685520869213)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6c03c7b3fdf06ffaf3be5c127d997986_MD5.png)
 
   
 
@@ -10208,7 +10208,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 在抖音开放平台获取小程序的 AppID，以备在 IDE 中创建小程序时使用。
     
 
-![](https://sf1-cdn-tos.douyinstatic.com/obj/microapp/frontend/docs/images/img1685520869281)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/44c37fe69cc0a6ce45d0bee9f869f774_MD5.png)
 
   
 
@@ -10217,7 +10217,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - [控制台](https://developer.open-douyin.com/console?type=1) > 小程序详情 > 开发 >开发配置
     
 
-![](https://p9-developer-sign.bytemaimg.com/obj/developer-inner/open_admin/1730884724329/blob?x-expires=4884484724&x-signature=xd89dyJ0vLwjZhcD2mIXh4oAlTQ%3D)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0ecc8c863808f5f06bb1328d9e0c4cda_MD5.png)
 
 
 
@@ -10234,7 +10234,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
   
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744617698472241.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/79f272d252a5d9e4531c2a29598ac2a5_MD5.png)
 
   
 
@@ -10254,15 +10254,15 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 一个邮箱可以对应多个小程序（已注册过的邮箱新增小程序见下方详述）
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744617742385822.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a590deeda66dff43cf4be92e29c9f322_MD5.png)
 
 已注册邮箱创建新的小程序
 
 如开发者已使用某邮箱创建过小程序，需要创建其他小程序：可使用邮箱密码、快手APP扫码登录等登录方式，登录后进入小程序后台，点击左上角用户名，进入我的应用页面，点击右上角创建应用，创建新的小程序 。
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744617742810760.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/edd2c77f1e3482c3c90f7e60efc4a757_MD5.png)
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744617742586150.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/aa9560efe185101ea657768d9c5c7dad_MD5.png)
 
   
 
@@ -10275,7 +10275,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 3. 审核要求请参考[注册信息审核规范 (opens new window)](https://open.kuaishou.com/docs/operate/reviewSpecification/review/registerReview.html)。
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744617857429466.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/90dad34d80f0ef1c536b62c60b27eb0d_MD5.png)
 
 ## 登录
 
@@ -10299,7 +10299,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 3. 小程序基础信息规范请阅读参考[具体运营规范](https://open.kuaishou.com/docs/operate/specification/operateSpecification.html)及[基础信息审核规范](https://open.kuaishou.com/docs/operate/reviewSpecification/review.html)。
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744617962416991.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/704a1dadb6c01151e664d439b13e855c_MD5.png)
 
 ### 添加/修改服务类目
 
@@ -10308,7 +10308,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 2. 【服务类目】栏请如实填写，注意开发者选择的服务类目需与所提供的服务一致，必须保证用户在小程序服务类目所对应的页面中能使用该服务类目。
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744617962228456.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bd942b99a53e35d276c9fb2b3ebf7622_MD5.png)
 
   
 
@@ -10316,7 +10316,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 在【开发】-【开发者设置】中可以查看开发者ID和小程序ID信息。  
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/17/1744874124670238.png "1744874124670238.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cb88b5a28bb87ab57b0095f97cc023d3_MD5.png)
 
 
 
@@ -10334,7 +10334,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - #### 打开[QQ开放平台>>](https://q.qq.com/#/)，点击「立即注册」
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685874206668.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/314dff1d738f4ada92168ef40299589a_MD5.png)
 
 提示：服务的三个类目，将鼠标放上去，将会有相关应用的文档及对应便捷入口，在注册前可先阅读相关文档
 
@@ -10342,14 +10342,14 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 选择企业
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685874938424.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f8af2af18689592b1b725eebd8cd2449_MD5.png)
 
 
 
 - 填写邮箱
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685875663963.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9f59d4af2e6b1c359ff789500d1d70a3_MD5.png)
 
 提示：之前已经注册过的邮箱不需再注册，直接去登陆界面登陆即可
 
@@ -10357,7 +10357,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 -  激活邮箱
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685875471986.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/67abb7c3be3235dafbeed55ad7cdc39d_MD5.xml)
 
 提示：如未收到邮件，请检查垃圾箱或者点击重新发送进行尝试
 
@@ -10366,7 +10366,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 上传工商信息
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685876831465.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d8086450a9c7d0066accb72ce7747bf6_MD5.png)
 
 提示：请务必确认上传的营业执照与填写的主体信息保持一致，账号注册完毕，后续还存在其他主体认证步骤，信息不一致否则会导致后续步骤出现问题
 
@@ -10374,7 +10374,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 -  绑定管理员
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685876650207.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/01bfb10d6b00818c1695d87b59ad26c6_MD5.png)
 
 提示：姓名和身份证号码务必与手机号码对应运营商实名登记的信息一致，否则会提示错误
 
@@ -10389,7 +10389,7 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 - 入口：点击页面提示条上的「查看详情」，即可进入详情页面查看进度
     
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744685876512383.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1ee3cc8f6d0ce1bc78beda3942c21958_MD5.xml)
 
 资质审核详细流程
 
@@ -10419,11 +10419,11 @@ ps：如果配置正确手机上还是看不见数据，支付宝小程序工具
 
 ##### 打开[QQ开放平台>>](https://q.qq.com/#/)，点击「创建小程序」
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744686375553206.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/510230c8c935047081648f3863cbff00_MD5.png)
 
 ###### [#](https://q.qq.com/wiki/#_4-1-2-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%B5%84%E6%96%99%E5%A1%AB%E5%86%99%E9%A1%B5%E9%9D%A2)小程序资料填写页面
 
-![](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744686375114762.png)
+![](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e1b8561d9dd3ad41bbac1cd856c70dae_MD5.png)
 
 提示: 所有 QQ 小程序必须遵守[《QQ 小程序运营规范》](https://q.qq.com/wiki/business/) ，开发者可参考相关文档了解详细审核标准。
 
@@ -10455,7 +10455,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
 在[QQ开放平台>>](https://q.qq.com/#/) 首页上可以看到
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744686952276776.png "1744686952276776.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/785b6792b23aed908a17243a7e84c0ba_MD5.png)
 
   
 
@@ -10482,7 +10482,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
 登录[QQ开放平台>>](https://q.qq.com/#/),【“开发”------>“开发设置”】
 
-![小程序开发者工具崩溃 out of memery_小程序开发_13](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744687567337807)
+![小程序开发者工具崩溃 out of memery_小程序开发_13](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c690678856af0f1c85b27d545adcbc63_MD5.webp)
 
   
 
@@ -10509,7 +10509,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
   
 
-![下载.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744633015789447.png "1744633015789447.png")
+![下载.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/487d43a10a99c95911f26004b671a787_MD5.png)
 
 ## 主体认证
 
@@ -10526,7 +10526,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 > - 当前支持一个主体对应多个账号，但需要每个账号分别进行真实性认证。
 >     
 
-![下载 (1).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744636915841489.png "1744636915841489.png")
+![下载 (1).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c163543a5a0fa3f9035a02edad2d94b9_MD5.png)
 
   
 
@@ -10535,14 +10535,14 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 - 填写企业信息：
     
 
-![下载 (2).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637038382770.png "1744637038382770.png")
+![下载 (2).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d532b95c27967e49aeb9411cd02cee15_MD5.png)
 
   
 
 - 填写运营者信息：
     
 
-![下载 (3).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637077213499.png "1744637077213499.png")
+![下载 (3).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cc8bbde15e2d247d66a021cb8a28e860_MD5.png)
 
   
 
@@ -10553,7 +10553,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
 每个账号有 5 次提交审核机会，如 5 次审核均未通过，将不能再次提交。
 
-![下载 (4).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637164639860.png "1744637164639860.png")
+![下载 (4).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a9765317847443f7808159153ee74dd4_MD5.png)
 
 审核通过：将直接进入到小程序开发者后台创建小程序，[完善基本信息](https://smartprogram.baidu.com/docs/introduction/register_consummate/)也可以进行[真实性认证](https://smartprogram.baidu.com/docs/introduction/authenticity/)。  
 审核被拒绝：请参考拒绝原因点击返回修改后重新提交主体认证信息，如有疑问请咨询客服。
@@ -10564,7 +10564,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
 真实性认证入口：[登录智能小程序平台](https://smartprogram.baidu.com/developer/index.html)，单击顶部导航『管理中心』进入小程序管理界面，如下图所示：
 
-![下载 (5).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637311841343.png "1744637311841343.png")
+![下载 (5).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dd8acad49b7f3a01bb05eb14b07097ad_MD5.png)
 
   
 
@@ -10584,21 +10584,21 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 - 单击“对公验证”，进入对公打款页面。
     
 
-![下载 (6).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637401454957.png "1744637401454957.png")  
+![下载 (6).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0ac4d6bafdfa41cae805c96de689599c_MD5.png)  
 
   
 
 - 对公打款：填写企业对公银行开户信息。
     
 
-![下载 (7).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637469612921.png "1744637469612921.png")
+![下载 (7).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/26e58775120e5bf384d2155d25204f4e_MD5.png)
 
   
 
 - 登录查询银行对公账户回填正确的打款金额进行验证。
     
 
-![下载 (8).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637524305787.png "1744637524305787.png")真实性认证打款有 3 次验证的机会，界面会有倒数次数的提示，超过 3 次填写错误账户会被冻结，请开发者谨慎操作。
+![下载 (8).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/14fabf55b5d9c2e0786d9111d143bcf6_MD5.png)真实性认证打款有 3 次验证的机会，界面会有倒数次数的提示，超过 3 次填写错误账户会被冻结，请开发者谨慎操作。
 
   
 
@@ -10606,17 +10606,17 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
   
 
-![下载 (9).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637602847559.png "1744637602847559.png")
+![下载 (9).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/da556ec2303dbfe01150e25f571347f4_MD5.png)
 
   
 
 ##### 法人人脸识别
 
-[![下载 (10).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637631537984.png "1744637631537984.png")](https://smartprogram.baidu.com/docs/introduction/authenticity_verification/#%E8%AF%81%E7%85%A7%E9%AA%8C%E8%AF%81)
+[![下载 (10).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/efb7c22b3db270dc945593818d2772c8_MD5.png)](https://smartprogram.baidu.com/docs/introduction/authenticity_verification/#%E8%AF%81%E7%85%A7%E9%AA%8C%E8%AF%81)
 
   
 
-![下载 (11).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744637663250616.png "1744637663250616.png")
+![下载 (11).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/99476d213d533df4f31c08f47e45ce7d_MD5.png)
 
   
 
@@ -10628,7 +10628,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
   
 
-![下载 (12).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744638203321998.png "1744638203321998.png")
+![下载 (12).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5bdf49cd0b41c3a3b7408db146e3f3d2_MD5.png)
 
 填写智能小程序名称、上传头像、简介、标签并选择服务范围。
 
@@ -10636,19 +10636,19 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
   
 
-![下载 (13).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/14/1744638281219733.png "1744638281219733.png")
+![下载 (13).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f02aa017ef5c2fee15d32392459d783f_MD5.png)
 
   
 
-![下载 (14).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744679442268913.png "1744679442268913.png")
+![下载 (14).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/58d3fc6611edc0c3d0a4d1b82f1c576a_MD5.png)
 
   
 
-![下载 (15).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744679472224641.png "1744679472224641.png")
+![下载 (15).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dacba6bd0a77036fec35be88f8054486_MD5.png)
 
 如果选择为特殊行业，还需根据界面提示提交相应资质，审核预计需要 2 个工作日完成，在此期间不会影响您进行小程序开发。
 
-![下载 (16).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744679498657951.png "1744679498657951.png")
+![下载 (16).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ed5d52e3c86855678a3bea2d8fe2770d_MD5.png)
 
   
 
@@ -10656,7 +10656,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
 请根据界面提示上传所需资质文件，有可参考平台运营规范 - [服务类目](https://smartprogram.baidu.com/docs/operations/catagory/)提前准备相关资质文件。
 
-![下载 (17).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744679575919572.png "1744679575919572.png")
+![下载 (17).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/944f73939cf1a9fdf73d45600284910a_MD5.png)
 
   
 
@@ -10674,18 +10674,18 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
     
 
   
-![下载 (18).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744679747318995.png "1744679747318995.png")
+![下载 (18).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/68aa6fedbd66a4c75259019f32ea5645_MD5.png)
 
   
 
-![下载 (19).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744679766962531.png "1744679766962531.png")
+![下载 (19).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4d52702b271a932590fce3c45038d1f9_MD5.png)
 
   
 
 小程序名称审核通过。
 
   
-![下载 (20).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744679814386813.png "1744679814386813.png")
+![下载 (20).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/714a99fa8718bbbe314fc45d038e7866_MD5.png)
 
 备案资料
 
@@ -10702,11 +10702,11 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 - 进入百度智能小程序平台，系统管理员登陆平台账号，进入小程序备案管理页面（路径：管理-基础设置-备案管理），点击 开始备案 按钮进入备案系统。
     
 
-![下载 (22).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744680326553294.png "1744680326553294.png")
+![下载 (22).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/51ddfd1f93ee54122469e6794daa9249_MD5.png)
 
   
 
-![下载 (23).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744680345480735.png "1744680345480735.png")
+![下载 (23).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1152001a5a2e9d13ba53a7d9b56f804d_MD5.png)
 
   
 
@@ -10714,7 +10714,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
     
 
   
-![下载 (24).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744680404786508.png "1744680404786508.png")
+![下载 (24).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e172e611177d1a6f7641ed6de66ecba3_MD5.png)
 
   
 
@@ -10722,7 +10722,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
     
 
   
-![下载 (25).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744680441626977.png "1744680441626977.png")
+![下载 (25).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ceded919fc098488b21bb19501e285ff_MD5.png)
 
   
 
@@ -10731,17 +10731,17 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 按照页面引导填写备案资料、上传材料，小程序负责人需进行人脸核验，确认提交备案资料。  
 提交成功 1~2 个工作日后，您可以进入百度智能云备案系统查询百度智能云初审结果。
 
-![下载 (26).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744680474254132.png "1744680474254132.png")
+![下载 (26).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2b80d35a724bc883ffc51fc538e7471d_MD5.png)
 
 在百度智能云审核完成并提交管局审核后，将会收到工信部发送的短信验证码，您需要在收到短信的24小时内及时登录备案所在省份的通信管理局网站完成短信核验，超时未完成短信核验，备案将会被自动退回。
 
-![下载 (27).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744680505483627.png "1744680505483627.png")
+![下载 (27).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a92acd8d389d558556ae9ddbc48db0e6_MD5.png)
 
   
 
 完成短信核验后，等待通信管理局审核，可以进入百度智能云备案系统查询百度智能云初审结果。
 
-![下载 (28).png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744680534564704.png "1744680534564704.png")
+![下载 (28).png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4b1fced6aa6aa3f85a70c11a4672c215_MD5.png)
 
 
 ## 小程序隐私政策填写说明
@@ -10750,7 +10750,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
 入口：登录小程序开发者平台，进入对应小程序后台 -> 基础设置 -> 小程序隐私政策，点击 去完善。配置内容可查看下方「隐私政策内容填写」
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744680892358528.png "1744680892358528.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e12528df4dbf024d7555ba8bfe54d2c8_MD5.png)
 
 ### 隐私政策内容填写
 
@@ -10760,7 +10760,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
 ##### 用户信息及用途设置：
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/15/1744680953266655.png "1744680953266655.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/598ed7c7b659957ddff9234e695504cc_MD5.png)
 
 ##### 用户隐私信息及接口对应关系：
 
@@ -10797,7 +10797,7 @@ tips: 1、后续上线支持修改名称 2、此步骤不意味着抢占名字�
 
   
 
-![image.png](https://storecdn.shopxo.net/static/upload/images/plugins_doc/doc/13/2025/04/17/1744873969642665.png "1744873969642665.png")
+![image.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7158fe76538eb374706f64c76cc516fc_MD5.png)
 
 
 
