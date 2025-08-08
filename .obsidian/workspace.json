@@ -176,8 +176,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "19f57b5d4f1541f9",
+  "active": "25ad79425d152323",
   "lastOpenFiles": [
+    "docs/ERP/index.md",
+    "docs/ERP/Dolibarr.md",
+    "docs/ERP",
     "docs/电商系统/ShopXO.md",
     "未命名.md",
     "assets/未命名",
@@ -206,13 +209,11 @@
     "docs/网盘/OpenList.md",
     "undefined.md",
     "docs/邮件服务器/Brevo.md",
-    "docs/ERP/Dolibarr.md",
     "docs/Cloudflare",
     "Clippings/“进销存”插件配置 - 进销存使用教程.md",
     "Clippings/Teambition  OpenList 文档.md",
     "Clippings/Seafile  OpenList 文档.md",
     "夸克网盘  TV  Open  OpenList 文档.md",
-    "Clippings",
     "Clippings/阿里云盘 Open  OpenList 文档.md",
     "Clippings/115 开放平台  OpenList 文档.md",
     "Clippings/renmu123obsidian-image-auto-upload-plugin auto upload image with picgo.md",
