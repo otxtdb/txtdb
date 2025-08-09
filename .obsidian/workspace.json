@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b04518270e465468",
@@ -181,7 +182,7 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "f471feebb9c14962",
+  "active": "25ad79425d152323",
   "lastOpenFiles": [
     "docs/电商系统/ShopXO.md",
     "docs/电商系统/index.md",
