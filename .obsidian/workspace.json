@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/电商系统/ShopXO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ShopXO"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b04518270e465468",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
-                "followCursor": false,
+                "file": "docs/电商系统/ShopXO.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "ShopXO 的大纲"
             }
           },
           {
@@ -182,8 +183,8 @@
   },
   "active": "25ad79425d152323",
   "lastOpenFiles": [
-    "docs/电商系统/ShopXO.md",
     "README.md",
+    "docs/电商系统/ShopXO.md",
     "docs/电商系统/index.md",
     "_txtdbpic/7158fe76538eb374706f64c76cc516fc_MD5.png",
     "_txtdbpic/9d26028b039999b55721d158f82ff79d_MD5.png",
