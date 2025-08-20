@@ -1,7 +1,6 @@
 
 # 自动检测网站变化 — 实时监控网页更改
 
-[](https://github.com/dgtlmoon/changedetection.io#detect-website-changes-automatically--monitor-web-page-changes-in-real-time)
 
 监控网站更新 — 通过 Discord、邮件、Slack、Telegram、Webhook 等多种方式接收通知。
 
@@ -10,8 +9,6 @@
 适用于监控价格变动、内容编辑、条件变化等多种情况。
 
 ### 使用视觉选择工具针对网页的特定部分进行监控。
-
-[](https://github.com/dgtlmoon/changedetection.io#target-specific-parts-of-the-webpage-using-the-visual-selector-tool)
 
 在连接到 [playwright 内容抓取器](https://github.com/dgtlmoon/changedetection.io/wiki/Playwright-content-fetcher) （作为订阅服务的一部分提供）时可用
 
