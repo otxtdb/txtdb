@@ -16,13 +16,10 @@
 
 ### 轻松查看发生了哪些变化，逐词、逐行或逐个字符进行检查。
 
-[](https://github.com/dgtlmoon/changedetection.io#easily-see-what-changed-examine-by-word-line-or-individual-character)
-
 [![Self-hosted web page change monitoring context difference](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/756b88ba25a0991ee462a67d3a6d9144_MD5.png)](https://changedetection.io/?src=github)
 
 ### 执行交互式浏览器操作
 
-[](https://github.com/dgtlmoon/changedetection.io#perform-interactive-browser-steps)
 
 填写文本框，点击按钮等，设置你的网站变化检测场景。
 
@@ -34,7 +31,6 @@
 
 ### 超赞的补货和价格变动通知
 
-[](https://github.com/dgtlmoon/changedetection.io#awesome-restock-and-price-change-notifications)
 
 启用 _"单个产品页面的补货和价格检测"_ 选项，以激活最佳的产品价格监控方式。这将提取 HTML 页面中的元数据，并提供多种选项来跟踪产品的价格。
 
@@ -48,7 +44,6 @@
 
 ### 示例应用场景
 
-[](https://github.com/dgtlmoon/changedetection.io#example-use-cases)
 
 - 产品和服务价格发生变化
 - 缺货通知和重新上架通知
@@ -80,7 +75,6 @@ _需要支持 JavaScript 的 Chrome 运行器吗？我们支持通过 WebDriver 
 
 #### 主要功能
 
-[](https://github.com/dgtlmoon/changedetection.io#key-features)
 
 - 支持多种触发过滤器，如“文本触发”，“通过选择器移除文本”，“忽略文本”，“提取文本”，还可以使用正则表达式！
 - 使用 xPath 1 和 xPath 2 选择目标元素，使用 CSS 选择器，轻松使用 JSONPath 或 jq 监控复杂 JSON 数据
@@ -99,15 +93,11 @@ _需要支持 JavaScript 的 Chrome 运行器吗？我们支持通过 WebDriver 
 
 ### 条件网页变更
 
-[](https://github.com/dgtlmoon/changedetection.io#conditional-web-page-changes)
-
 轻松配置条件动作，例如，仅在价格高于或低于预设金额时触发，或当网页包含（或不包含）某个关键词时触发。
 
 [![Conditional web page changes](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c239c65a0adc8579ef7c624340dc0576_MD5.png)](https://github.com/dgtlmoon/changedetection.io/blob/master/docs/web-page-change-conditions.png)
 
 ### 在任何时区安排网页监控，在每周的特定日子和特定时间限制监控。
-
-[](https://github.com/dgtlmoon/changedetection.io#schedule-web-page-watches-in-any-timezone-limit-by-day-of-week-and-time)
 
 轻松设置重新检查的时间表，例如，您可以将网页变更检测限制在工作时间内运行。或者，根据时区（例如，您希望在上午9点检查某个外国国家的最新新闻头条）。
 
@@ -117,7 +107,6 @@ _需要支持 JavaScript 的 Chrome 运行器吗？我们支持通过 WebDriver 
 
 ### 我们有一个 Chrome 扩展！
 
-[](https://github.com/dgtlmoon/changedetection.io#we-have-a-chrome-extension)
 
 只需安装扩展，点击“同步”即可将其与您现有的 changedetection.io 安装连接起来，轻松将当前网页添加到 changedetection.io 工具中。
 
@@ -127,11 +116,9 @@ _需要支持 JavaScript 的 Chrome 运行器吗？我们支持通过 WebDriver 
 
 ## 安装
 
-[](https://github.com/dgtlmoon/changedetection.io#installation)
 
 ### Docker
 
-[](https://github.com/dgtlmoon/changedetection.io#docker)
 
 使用 Docker Compose，只需克隆此仓库并...
 
@@ -151,13 +138,11 @@ $ docker run -d --restart always -p "127.0.0.1:5000:5000" -v datastore-volume:/d
 
 ### Windows
 
-[](https://github.com/dgtlmoon/changedetection.io#windows)
 
 请参阅维基上的安装说明 [https://github.com/dgtlmoon/changedetection.io/wiki/Microsoft-Windows](https://github.com/dgtlmoon/changedetection.io/wiki/Microsoft-Windows)
 
 ### Python Pip
 
-[](https://github.com/dgtlmoon/changedetection.io#python-pip)
 
 查看我们的 pypi 页面 [https://pypi.org/project/changedetection.io/](https://pypi.org/project/changedetection.io/)
 
@@ -172,11 +157,9 @@ _现在每个站点都可以配置使用快速内置 HTTP 获取器，或者使�
 
 ## 更新 changedetection.io
 
-[](https://github.com/dgtlmoon/changedetection.io#updating-changedetectionio)
 
 ### Docker
 
-[](https://github.com/dgtlmoon/changedetection.io#docker-1)
 
 ```
 docker pull dgtlmoon/changedetection.io
@@ -187,8 +170,6 @@ docker run -d --restart always -p "127.0.0.1:5000:5000" -v datastore-volume:/dat
 
 ### docker compose
 
-[](https://github.com/dgtlmoon/changedetection.io#docker-compose)
-
 ```shell
 docker compose pull && docker compose up -d
 ```
@@ -197,13 +178,11 @@ docker compose pull && docker compose up -d
 
 ## 过滤器
 
-[](https://github.com/dgtlmoon/changedetection.io#filters)
 
 XPath(1.0), JSONPath, jq 和 CSS 支持已内置！您可以根据需要进行详细设置，并使用各种 XPath 元素查询创建工具导出的 XPath。我们支持 LXML 的 ``re:test``、``re:match`` 和 ``re:replace``。
 
 ## 通知设置
 
-[](https://github.com/dgtlmoon/changedetection.io#notifications)
 
 ChangeDetection.io 通过 [apprise](https://github.com/caronc/apprise) 库在检测到网页变更时支持大量通知（包括电子邮件、Office365、自定义 API 等）。只需在“编辑”标签页中设置一个或多个通知 URL。
 
@@ -228,9 +207,9 @@ syslog://
 
 现在您还可以自定义通知内容，并使用 [Jinja2 模板](https://jinja.palletsprojects.com/en/3.0.x/templates/)来设置标题和正文！
 
-## JSON API �监控
+## JSON API 监控
 
-[](https://github.com/dgtlmoon/changedetection.io#json-api-monitoring)
+
 
 使用 JSONPath 或 jq 来过滤、解析和重新结构化 JSON 以检测变化和监控 JSON API 中的数据。
 
@@ -242,7 +221,6 @@ syslog://
 
 ### JSONPath 或 jq？
 
-[](https://github.com/dgtlmoon/changedetection.io#jsonpath-or-jq)
 
 对于更复杂的 JSON 数据解析、过滤和修改，推荐使用 jq，因为它内置了操作符和函数。请参阅[文档](https://stedolan.github.io/jq/manual/)以获取更多关于 jq 的详细信息。
 
@@ -251,8 +229,6 @@ jq 的一大优势是你可以使用逻辑来过滤 JSON 数据，例如只显�
 请参阅维基 [https://github.com/dgtlmoon/changedetection.io/wiki/JSON-Selector-Filter-help](https://github.com/dgtlmoon/changedetection.io/wiki/JSON-Selector-Filter-help) 以获取更多信息和示例
 
 ### 解析嵌入在 HTML 中的 JSON！
-
-[](https://github.com/dgtlmoon/changedetection.io#parse-json-embedded-in-html)
 
 启用 ``json:`` 或 ``jq:`` 过滤器后，你甚至可以自动提取并解析 HTML 页面中的嵌入 JSON！这非常适合基于 JSON 构建内容的网站，比如许多电商平台。
 
@@ -285,19 +261,16 @@ jq 的一大优势是你可以使用逻辑来过滤 JSON 数据，例如只显�
 
 ## 代理配置
 
-[](https://github.com/dgtlmoon/changedetection.io#proxy-configuration)
 
 请参阅维基 [https://github.com/dgtlmoon/changedetection.io/wiki/Proxy-configuration](https://github.com/dgtlmoon/changedetection.io/wiki/Proxy-configuration)，我们还支持在可能的情况下使用 [Bright Data 代理服务](https://github.com/dgtlmoon/changedetection.io/wiki/Proxy-configuration#brightdata-proxy-support) 和 [Oxylabs 代理服务](https://oxylabs.go2cloud.org/SH2d) 。
 
 ## 支持树莓派吗？
 
-[](https://github.com/dgtlmoon/changedetection.io#raspberry-pi-support)
 
 支持树莓派和 Linux/arm/v6、Linux/arm/v7、arm64 设备！请参阅维基 [以获取详细信息](https://github.com/dgtlmoon/changedetection.io/wiki/Fetching-pages-with-WebDriver)
 
 ## Import support  
 
-[](https://github.com/dgtlmoon/changedetection.io#import-support)
 
 Easily [import your list of websites to watch for changes in Excel .xslx file format](https://changedetection.io/tutorial/how-import-your-website-change-detection-lists-excel), or paste in lists of website URLs as plaintext.  
 
@@ -305,13 +278,10 @@ Excel import is recommended - that way you can better organise tags/groups of we
 
 ## API 支持
 
-[](https://github.com/dgtlmoon/changedetection.io#api-support)
-
 支持通过我们的 API 管理监控的网站列表 [via our API](https://changedetection.io/docs/api_v1/index.html)
 
 ## 支持我们
 
-[](https://github.com/dgtlmoon/changedetection.io#support-us)
 
 你使用 changedetection.io 赚钱了吗？它是否帮你节省了时间和金钱？它是否让你的生活更轻松，更不那么压力山大？请记住，我们编写这款软件的时候本可以去做实际的有偿工作，我们同样需要买食物和支付房租，就像你一样。
 
@@ -319,19 +289,16 @@ Excel import is recommended - that way you can better organise tags/groups of we
 
 ## 商业支持
 
-[](https://github.com/dgtlmoon/changedetection.io#commercial-support)
 
 我提供商业支持，这款软件被网络安全、航空航天、数据科学和数据记者等专业人士依赖，如果你有任何咨询需求，请联系 [dgtlmoon@gmail.com](mailto:dgtlmoon@gmail.com)，我很乐意与你的组织合作，进一步探索 changedetection.io 的可能性。
 
 ## 商业授权
 
-[](https://github.com/dgtlmoon/changedetection.io#commercial-licencing)
 
 如果您将此软件部分或全部作为任何商业安排的一部分进行销售，您必须遵守我们在代码仓库中找到的 COMMERCIAL_LICENCE.md，敬请联系 [dgtlmoon@gmail.com](mailto:dgtlmoon@gmail.com) 和 [contact@changedetection.io](mailto:contact@changedetection.io) 。
 
 ## 第三方授权
 
-[](https://github.com/dgtlmoon/changedetection.io#third-party-licenses)
 
 changedetectionio.html_tools.elementpath_tostring: 版权所有 (c) 2018-2021，SISSA（国际高级研究大学），授权使用 [MIT 许可证](https://github.com/sissaschool/elementpath/blob/master/LICENSE)
 
@@ -354,13 +321,11 @@ Another-header: another-value
 
 ### 全球范围内的监控
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Adding-headers-from-an-external-file#global-for-all-watches)
 
 `/datastore/headers.txt`
 
 ### 在一个单一的监视中
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Adding-headers-from-an-external-file#on-a-single-watch)
 
 `/datastore/d4e929f1-d467-491f-94e9-139537b9bd91/headers.txt`
 
@@ -368,7 +333,6 @@ Another-header: another-value
 
 ### 对于任何标签
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Adding-headers-from-an-external-file#for-any-group-tag)
 
 如果您的标签是类似 ``Favorite`` 的形式，则
 
@@ -379,7 +343,6 @@ Another-header: another-value
 
 # Changedetection.io API
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/API-Reference#changedetectionio-api)
 
 使用我们的 RESTful API 从其他系统驱动 changedetection.io。
 
@@ -417,8 +380,6 @@ Another-header: another-value
 
 # 技术
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Community-watch-list#technology)
-
 |网站|添加日期|[共享链接](https://github.com/dgtlmoon/changedetection.io/wiki/Sharing-a-Watch)|评论|
 |---|---|---|---|
 |[Github 变化检测社区观察列表](https://github.com/dgtlmoon/changedetection.io/wiki/Community-watch-list)|2022-07-30|[github](https://changedetection.io/share/X6acmml4VZUa)|监控此页面新增内容|
@@ -432,8 +393,6 @@ Another-header: another-value
 |[检查 NUC 固件版本](https://www.intel.com/content/www/us/en/download/16873)|2022-09-01|[Intel](https://changedetection.io/share/xoAaEY1940Ia)|检查最新 NUC 固件版本|
 
 # 游戏
-
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Community-watch-list#gaming)
 
 |站点|添加日期|[共享链接](https://github.com/dgtlmoon/changedetection.io/wiki/Sharing-a-Watch)|评论|
 |---|---|---|---|
@@ -497,7 +456,6 @@ The BASE_URL 设置目前用于发送通知时，您可以使用 `{base_url}` 
 
 # 使用 xpath 从 ``<A>`` 标签中选择/提取 just the HREF。
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/CSS-Selector-help#selectextract-just-the-href-from-a-tag-using-xpath)
 
 如果需要
 
@@ -511,7 +469,6 @@ filter: ``//h3/parent::a//@href``
 
 # 仅使用 XPath 过滤器选择所有 img "src"标签
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/CSS-Selector-help#select-all-img-src-tag-only-with-xpath-filter)
 
 ```
 //img//@src
@@ -519,7 +476,6 @@ filter: ``//h3/parent::a//@href``
 
 # 仅选择某事物的第一个实例
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/CSS-Selector-help#select-just-the-first-instance-of-something)
 
 ```
 xpath:(//h3[contains(@class, 'PagePromo-title')])[1]
@@ -529,7 +485,6 @@ xpath:(//h3[contains(@class, 'PagePromo-title')])[1]
 
 # 通过 data- 属性选择
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/CSS-Selector-help#select-by-data--source)
 
 ```
 <div data-test-id="productSizeList"...
@@ -539,7 +494,6 @@ xpath:(//h3[contains(@class, 'PagePromo-title')])[1]
 
 # xPath 和非拉丁文本出现乱码
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/CSS-Selector-help#xpath-and-non-latin-text-getting-garbled)
 
 xPath: 类型过滤器和非 UTF-8 不兼容，如果你看到文本出现乱码，例如 “Нема планираних искључења.” 变成了 `Ð�ÐµÐ¼Ð° Ð¿Ð»Ð°Ð½Ð¸Ñ�Ð°Ð½Ð¸Ñ Ð¸Ñ�ÐºÑ�Ñ�Ñ�ÐµÑ�Ð°.` ，你应该将 xPath 过滤器转换为 CSS [https://extendsclass.com/xpath-to-css.html](https://extendsclass.com/xpath-to-css.html)
 
@@ -555,13 +509,11 @@ xPath: 类型过滤器和非 UTF-8 不兼容，如果你看到文本出现乱码
 
 ## 使用案例
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Detecting-changes-in-HTML-page-sources#use-case)
 
 例如，类似于的网上商店的 HTML 响应包含以 JSON 格式的产品列表，然后由客户端的 JS 处理以生成最终的标记。可以使用启用了 JS 的来处理此类网页，但检查页面源代码会更高效。
 
 ## 方法
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Detecting-changes-in-HTML-page-sources#approach)
 
 - 在常规选项卡中，在目标 URL 前添加 ``source:``（示例： `source:https://www.campuspoint.de/mobile/notebooks/lenovo/thinkpad-t-serie/thinkpad-t14s.html` ）
 - 在请求选项卡中，选择“基本快速纯文本/HTTP 客户端”获取方法
@@ -599,7 +551,6 @@ xPath: 类型过滤器和非 UTF-8 不兼容，如果你看到文本出现乱码
 
 ### 如何检测图片变化？
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Detecting-changes-in-images#how-to-detect-when-the-image-changes)
 
 使用 **`source:`** luke...
 
@@ -677,7 +628,6 @@ WebDriver 接口的 URL 由 `WEBDRIVER_URL` 环境变量设置（默认为 `h
 
 ### Raspberry Pi 注意事项
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Fetching-pages-with-WebDriver#raspberry-pi-notes)
 
 已知在 RaspberryPi-4 上可用，请使用 `seleniarm/standalone-chromium:4.0.0-20211213` 作为 `image:`。请注意，目前仅支持 Raspbian OS 的 64 位版本。
 
@@ -685,7 +635,6 @@ WebDriver 接口的 URL 由 `WEBDRIVER_URL` 环境变量设置（默认为 `h
 
 # Microsoft Windows - 使用 ChromeDriver（无需 Docker）
 
-[](https://github.com/dgtlmoon/changedetection.io/wiki/Fetching-pages-with-WebDriver#microsoft-windows---running-chromedriver-natively-without-docker)
 
 你需要安装 WebDriver/ChromeDriver，它会“监听”来自 changedetection.py 的指令，并驱动浏览器获取结果。
 
