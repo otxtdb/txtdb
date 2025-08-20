@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13269e303881cd09",
+        "id": "b0f78558da8687d2",
         "type": "tabs",
         "children": [
           {
-            "id": "4701c099081f5f83",
+            "id": "47e641277443788b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/电商系统/ShopXO.md",
+                "file": "docs/跟踪/changedetection.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ShopXO 的大纲"
+              "title": "changedetection 的大纲"
             }
           },
           {
@@ -180,23 +180,24 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4701c099081f5f83",
+  "active": "25ad79425d152323",
   "lastOpenFiles": [
+    "_txtdbpic/58422e28a2cf5ad1624c4625824eafc1_MD5.png",
+    "_txtdbpic/9183f8168c1f5496cb23ec0675957974_MD5.png",
+    "_txtdbpic/c239c65a0adc8579ef7c624340dc0576_MD5.png",
+    "_txtdbpic/8621040c9cf6bb801ebf9f47a1be034b_MD5.png",
+    "_txtdbpic/f7b834852b62a60e940d647304c5d33a_MD5.png",
+    "_txtdbpic/ebc90beae1269332b7ea761a02743808_MD5.gif",
+    "_txtdbpic/756b88ba25a0991ee462a67d3a6d9144_MD5.png",
+    "_txtdbpic/a4b5ee91dd1d66f89450f1eff39d7c0b_MD5.png",
+    "_txtdbpic/38700b6296a8feb0fe494a687f170aad_MD5.png",
+    "_txtdbpic/38a6fe0b419bab5fbdefa21f735d1002_MD5.gif",
+    "_txtdbpic/355decb73e1631e045d5050bc420a98c_MD5.png",
     "docs/跟踪/changedetection.md",
     "docs/跟踪",
     "docs/电商系统/ShopXO.md",
     "README.md",
     "docs/电商系统/index.md",
-    "_txtdbpic/7158fe76538eb374706f64c76cc516fc_MD5.png",
-    "_txtdbpic/9d26028b039999b55721d158f82ff79d_MD5.png",
-    "_txtdbpic/39f553087d9e1731be7bb670827264f7_MD5.png",
-    "_txtdbpic/537032506cf4eebf178b4ba77fd6d411_MD5.png",
-    "_txtdbpic/91d43b1ffde528d610e634f640c583ca_MD5.png",
-    "_txtdbpic/8f77a3124cf475b7f2eab7480322a1fa_MD5.png",
-    "_txtdbpic/f050552afa3e0f6e02a8f89bc0dceda4_MD5.png",
-    "_txtdbpic/3f421c0a57a844ce513a629d72584191_MD5.png",
-    "_txtdbpic/58fa0cf5a4cbdd3738780d306823e2f3_MD5.png",
-    "_txtdbpic/271c450cfb3540db86ec83eae42bebcd_MD5.png",
     "_txtdbpic/1ee3cc8f6d0ce1bc78beda3942c21958_MD5.xml",
     "_txtdbpic/67abb7c3be3235dafbeed55ad7cdc39d_MD5.xml",
     "docs/Cloudflare/Cloudflare 邮件路由.md",
@@ -227,7 +228,6 @@
     "Clippings/renmu123obsidian-image-auto-upload-plugin auto upload image with picgo.md",
     "Clippings/阿里云盘 Open  OpenList 文档 6.md",
     "Clippings/阿里云盘 Open  OpenList 文档 5.md",
-    "Clippings/阿里云盘 Open  OpenList 文档 4.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
