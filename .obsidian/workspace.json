@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数据分析/KNIME.md",
+                "file": "docs/AICG/Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KNIME"
+              "title": "Stable Diffusion"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +183,11 @@
   },
   "active": "c2fa8a33eb4df4b1",
   "lastOpenFiles": [
-    "docs/工具/PowerToys.md",
+    "docs/AICG/ComfyUI.md",
+    "docs/AICG/Stable Diffusion.md",
     "docs/数据分析/KNIME.md",
+    "docs/AICG",
+    "docs/工具/PowerToys.md",
     "docs/数据分析",
     "docs/终端/Cmder.md",
     "docs/工具",
@@ -216,7 +219,6 @@
     "docs/邮件服务器",
     "docs/网盘/OpenList.md",
     "docs/网盘/Nextcloud.md",
-    "docs/网盘",
     "网盘/OpenList.md",
     "网盘/Nextcloud.md",
     "docs/ERP/index.md",
@@ -227,8 +229,6 @@
     "Clippings/Teambition  OpenList 文档.md",
     "Clippings/Seafile  OpenList 文档.md",
     "夸克网盘  TV  Open  OpenList 文档.md",
-    "Clippings/阿里云盘 Open  OpenList 文档.md",
-    "Clippings/115 开放平台  OpenList 文档.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
