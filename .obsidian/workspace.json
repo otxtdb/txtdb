@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7d9f9cc088d9b03",
+        "id": "ec4d9fc2ddb5f5e9",
         "type": "tabs",
         "children": [
           {
-            "id": "7791d6b220966962",
+            "id": "1a0982fef40c8d61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/管理面板/1Panel.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1Panel"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/管理面板/1Panel.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1Panel 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -181,8 +176,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "25ad79425d152323",
+  "active": "1a0982fef40c8d61",
   "lastOpenFiles": [
+    "docs/管理面板/1Panel.md",
     "docs/Chrome插件/Distill Web Monitor.md",
     "docs/AICG/Stable Diffusion.md",
     "docs/AICG/ComfyUI.md",
@@ -228,7 +224,6 @@
     "Clippings/“进销存”插件配置 - 进销存使用教程.md",
     "Clippings/Teambition  OpenList 文档.md",
     "Clippings/Seafile  OpenList 文档.md",
-    "夸克网盘  TV  Open  OpenList 文档.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
