@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1f689f826668e02",
+        "id": "e7d9f9cc088d9b03",
         "type": "tabs",
         "children": [
           {
-            "id": "c2fa8a33eb4df4b1",
+            "id": "7791d6b220966962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AICG/Stable Diffusion.md",
+                "file": "docs/管理面板/1Panel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stable Diffusion"
+              "title": "1Panel"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/跟踪/changedetection.md",
+                "file": "docs/管理面板/1Panel.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "changedetection 的大纲"
+              "title": "1Panel 的大纲"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +181,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c2fa8a33eb4df4b1",
+  "active": "25ad79425d152323",
   "lastOpenFiles": [
-    "docs/AICG/ComfyUI.md",
+    "docs/Chrome插件/Distill Web Monitor.md",
     "docs/AICG/Stable Diffusion.md",
+    "docs/AICG/ComfyUI.md",
     "docs/数据分析/KNIME.md",
     "docs/AICG",
     "docs/工具/PowerToys.md",
@@ -193,7 +194,6 @@
     "docs/工具",
     "docs/终端",
     "docs/电商系统/ShopXO.md",
-    "docs/Chrome插件/Distill Web Monitor.md",
     "docs/Chrome插件",
     "docs/跟踪/changedetection.md",
     "_txtdbpic/58422e28a2cf5ad1624c4625824eafc1_MD5.png",
