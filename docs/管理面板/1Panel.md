@@ -2,7 +2,7 @@
 
 1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。
 
-![UI展示](_txtdbpic/e4056605920c339d32cd15f2f7039c8e_MD5.png)
+![UI展示](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e4056605920c339d32cd15f2f7039c8e_MD5.png)
 
 ## 1 产品优势[⚓︎](https://1panel.cn/docs/v2/#1)
 
@@ -80,7 +80,7 @@ http://目标服务器 IP 地址:目标端口/安全入口
 
 登录 1Panel Web 控制台，在页面右下角点击 **【检查更新】** 进行在线升级。
 
-![img.png](_txtdbpic/53035faf7322a6e03130ba89357d917b_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/53035faf7322a6e03130ba89357d917b_MD5.png)
 
 
 
@@ -283,17 +283,17 @@ mv 1panel-migrator-linux-amd64 /usr/local/bin/1panel-migrator
 
 （3）点击执行备份，查看备份结果。
 
-![img.png](_txtdbpic/44ed8308d3d0bd094e9396dd2d9c30f3_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/44ed8308d3d0bd094e9396dd2d9c30f3_MD5.png)
 
 （4）打开需要升级的从节点，通过安装好的 1panel-migrator 执行升级命令 `1panel-migrator promote` 。
 
-![img.png](_txtdbpic/a54ea410dc82787cd6cf021d5bb4a788_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a54ea410dc82787cd6cf021d5bb4a788_MD5.png)
 
 ## 3 主节点 -> 从节点[⚓︎](https://1panel.cn/docs/v2/installation/master_migrate/#3-)
 
 打开需要降级的主节点，通过安装好的 1panel-migrator 执行降级命令 `1panel-migrator demote`。
 
-![img.png](_txtdbpic/18c77375e191ca0e913baaa7dfdfdeac_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/18c77375e191ca0e913baaa7dfdfdeac_MD5.png)
 
 
 
@@ -394,7 +394,7 @@ Commands:
 
 添加自己想要的应用，1Panel 应用商店还支持本地应用。制作教程可参考：[提交自定义应用教程](https://github.com/1Panel-dev/appstore/wiki/如何提交自己想要的应用)，也可以参考论坛文章：[1Panel 本地应用创建技巧及第三方应用库举例](https://bbs.fit2cloud.com/t/topic/640/)。
 
-![img.png](_txtdbpic/409aac7f06f406aa15f5208d2ad7c006_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/409aac7f06f406aa15f5208d2ad7c006_MD5.png)
 
 
 
@@ -412,17 +412,17 @@ Commands:
 
 （1）点击【安装】按钮进入应用详情页面。
 
-![img.png](_txtdbpic/8b391cf760c9d64d9bc35bc78e13c25e_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8b391cf760c9d64d9bc35bc78e13c25e_MD5.png)
 
 （2）填写数据库、端口等参数。
 
-![img.png](_txtdbpic/518593fac58d95820d25f17eb2419095_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/518593fac58d95820d25f17eb2419095_MD5.png)
 
 （3）配置高级设置选项，例如是否暴露外部端口、资源限制以及编辑 compose文件等。最后，点击【确认】按钮，将弹出应用安装日志界面，等待应用安装完成。
 
-![img.png](_txtdbpic/4a8ed7e551453714702660f81be721bc_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4a8ed7e551453714702660f81be721bc_MD5.png)
 
-![img.png](_txtdbpic/1bfb79b39d30414cd548b4b17c36ebc4_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1bfb79b39d30414cd548b4b17c36ebc4_MD5.png)
 
 
 
@@ -434,19 +434,19 @@ Commands:
 
 进入已安装列表，用户可以对应用进行同步、升级、重启、启动、停止、删除、备份和恢复等操作。
 
-![img.png](_txtdbpic/240b0e9d06f45b6198439fe4a790e87a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/240b0e9d06f45b6198439fe4a790e87a_MD5.png)
 
 ## 1 同步[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/installed/#1)
 
 点击【同步】按钮，可自动更新应用状态，确保与当前系统状态保持一致。
 
-![img.png](_txtdbpic/77c9baa42474598974d0d77bdf0bf53d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/77c9baa42474598974d0d77bdf0bf53d_MD5.png)
 
 ## 2 重建[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/installed/#2)
 
 点击【重建】按钮，系统会删除现有的应用实例，并基于当前的设置和配置重新安装和启动应用。
 
-![img.png](_txtdbpic/e9714ea56965da59d2fa8642be8610fe_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e9714ea56965da59d2fa8642be8610fe_MD5.png)
 
 提示
 
@@ -454,7 +454,7 @@ Commands:
 
 ## 3 启动 / 停止 / 重启[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/installed/#3)
 
-![img.png](_txtdbpic/81bb95d55bf3deb25e472c049404aeb6_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/81bb95d55bf3deb25e472c049404aeb6_MD5.png)
 
 ## 4 卸载[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/installed/#4)
 
@@ -463,45 +463,45 @@ Commands:
 - 强制删除：会忽略删除过程中产生的错误并最终删除元数据
 - 删除备份：删除备份列表中的备份文件
 
-![img.png](_txtdbpic/c5b6f1f3cff0a02944447fce7d5ef2b7_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c5b6f1f3cff0a02944447fce7d5ef2b7_MD5.png)
 
 ## 5 应用详情[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/installed/#5)
 
 点击【参数】按钮，可以查看并修改应用的相关参数。
 
-![img.png](_txtdbpic/a05171a97c1b54083773534cc3b22ed0_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a05171a97c1b54083773534cc3b22ed0_MD5.png)
 
 点击参数页面右上角的【编辑】按钮，可以对部分应用参数及应用高级设置进行修改，具体支持修改的参数与应用定义有关。
 
-![img.png](_txtdbpic/c640715dfb685a012154f28e90ad7a6a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c640715dfb685a012154f28e90ad7a6a_MD5.png)
 
 ## 6 备份 / 恢复[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/installed/#6)
 
 点击【备份】按钮，进入备份列表。
 
-![img.png](_txtdbpic/7f2ca8cfbfa9e4c7236e73a146232c7a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7f2ca8cfbfa9e4c7236e73a146232c7a_MD5.png)
 
 点击【备份】按钮可立即备份当前应用。若需恢复应用，点击备份列表中的【恢复】按钮，将根据选定的备份恢复应用到相应状态。
 
-![img.png](_txtdbpic/146a5ce5d935ed028b83a229334324ca_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/146a5ce5d935ed028b83a229334324ca_MD5.png)
 
 也可将备份文件下载后，通过导入备份功能上传备份文件并进行恢复。
 
-![img.png](_txtdbpic/1ac8e60ebfbeb173f4d9925471a97da0_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1ac8e60ebfbeb173f4d9925471a97da0_MD5.png)
 
 ## 7 升级[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/installed/#7)
 
 进入【可升级】页面，可查看当前支持升级的应用。
 
-![img.png](_txtdbpic/1c37c3022aac80889799b239ec6e7ee6_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1c37c3022aac80889799b239ec6e7ee6_MD5.png)
 
 点击应用卡片上的【忽略升级】按钮，可以不再显示该应用的升级提示。可以通过点击列表上方的【查看忽略应用】查看所有已忽略升级的应用并取消忽略。
 
-![img.png](_txtdbpic/2e95b3078d47f9a9ccada3749633b34a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2e95b3078d47f9a9ccada3749633b34a_MD5.png)
 
 点击【升级】按钮后，选择目标版本。可选择在升级前备份应用、自动拉取最新镜像、以及自定义修改 compose.yml 文件等。最后点击【确认】按钮，等待升级完成。
 
-![img.png](_txtdbpic/8f34a10706ace4733f134b889284f838_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8f34a10706ace4733f134b889284f838_MD5.png)
 
 
 
@@ -513,7 +513,7 @@ Commands:
 
 在应用商店设置页面，用户可以修改卸载、升级应用时的默认操作。
 
-![img.png](_txtdbpic/4ecc3493538201c57863f5e4234ad86b_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4ecc3493538201c57863f5e4234ad86b_MD5.png)
 
 
 
@@ -528,7 +528,7 @@ Commands:
 - 面板提供了全面的管理选项，支持域名绑定、SSL 证书配置、HTTPS 启用、伪静态设置、重定向、防盗链等功能
 - 此外，用户还可以通过 1Panel 实现网站数据的自动备份与恢复，确保数据安全。通过这些功能，1Panel 帮助用户轻松管理服务器上的各类网站
 
-![img.png](_txtdbpic/0a6a90bed6d69e29e21afa9be97152c2_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0a6a90bed6d69e29e21afa9be97152c2_MD5.png)
 
 
 
@@ -554,7 +554,7 @@ Commands:
 - **启用 HTTPS**：开启 HTTPS 并选择 SSL 证书
 - **备注**：填写对该站点作用的描述
 
-![img.png](_txtdbpic/4778961a2caca5bbaa56b2fc44c942a5_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4778961a2caca5bbaa56b2fc44c942a5_MD5.png)
 
 ## 2 运行环境[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_create/#2)
 
@@ -567,7 +567,7 @@ Commands:
 - **启用 HTTPS**：开启 HTTPS 并选择 SSL 证书
 - **备注**：提供该站点的功能描述
 
-![img.png](_txtdbpic/0adfd31e391d9898a893847d8aa6471e_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0adfd31e391d9898a893847d8aa6471e_MD5.png)
 
 ## 3 反向代理[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_create/#3)
 
@@ -582,7 +582,7 @@ Commands:
 - **启用 HTTPS**：开启 HTTPS 并选择 SSL 证书
 - **备注**：描述该站点的功能或用途
 
-![img.png](_txtdbpic/2d91afa36440171d625037273915d378_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2d91afa36440171d625037273915d378_MD5.png)
 
 ## 4 静态网站[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_create/#4)
 
@@ -597,7 +597,7 @@ Commands:
 - **启用 HTTPS**：开启 HTTPS 并选择 SSL 证书
 - **备注**：简要描述该站点的功能或用途
 
-![img.png](_txtdbpic/ffc495e9241ef15f1d7d6f22c3f2f3c5_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ffc495e9241ef15f1d7d6f22c3f2f3c5_MD5.png)
 
 ## 5 子网站[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_create/#5)
 
@@ -613,7 +613,7 @@ Commands:
 - **启用 HTTPS**：开启 HTTPS 并选择 SSL 证书
 - **备注**：简要描述该站点的功能或用途
 
-![img.png](_txtdbpic/83fbdf8001e7a5803eccf022c309be6b_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/83fbdf8001e7a5803eccf022c309be6b_MD5.png)
 
 
 
@@ -629,47 +629,47 @@ Commands:
 
 域名设置页面允许用户管理网站的域名和端口配置。
 
-![img.png](_txtdbpic/f2ae1dde96f692e02be6e07aa14f53bf_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f2ae1dde96f692e02be6e07aa14f53bf_MD5.png)
 
 ## 2 网站目录[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#2)
 
 网站目录页面支持查看网站的根目录，设置运行目录，以及配置运行用户和用户组等选项。
 
-![img.png](_txtdbpic/bde1008348bcf5c69086ba40f705baa6_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bde1008348bcf5c69086ba40f705baa6_MD5.png)
 
 ## 3 默认文档[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#3)
 
 配置默认文档，以便在用户访问网站根目录时自动加载指定的文件。
 
-![img_1.png](_txtdbpic/5bd29864a637f00c44ba042ff4dd1774_MD5.png)
+![img_1.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5bd29864a637f00c44ba042ff4dd1774_MD5.png)
 
 ## 4 流量限制[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#4)
 
 允许用户配置流量限制，通过选择不同的限制方案，控制网站的带宽和访问流量。
 
-![img.png](_txtdbpic/963321565377719d92bdf0c6961dceda_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/963321565377719d92bdf0c6961dceda_MD5.png)
 
 ## 5 反向代理[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#5)
 
 反向代理功能允许将网站请求转发到后端服务器，以实现负载均衡、安全控制和内容分发。
 
-![img.png](_txtdbpic/479ab373e4fa4908c47100c322d38fff_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/479ab373e4fa4908c47100c322d38fff_MD5.png)
 
 用户也可以在当前页面开启并配置反向代理缓存规则，或者清除当前缓存。
 
-![img.png](_txtdbpic/0ae8d238216a09f8e992333c184878c0_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0ae8d238216a09f8e992333c184878c0_MD5.png)
 
 ## 6 负载均衡[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#6)
 
 创建负载均衡规则，用于将当前网站请求转发到多个后端服务。当前页面仅创建负载均衡规则，使用负载均衡规则需要在创建反向代理时使用 `http://<负载均衡名称>`。
 
-![img.png](_txtdbpic/cf2172c6d1a7a77e41d30f1ea2f83e94_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cf2172c6d1a7a77e41d30f1ea2f83e94_MD5.png)
 
 ## 7 密码访问[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#7)
 
 密码访问功能允许用户为网站设置访问密码，以增强网站的安全性，限制未经授权的访问。支持创建全局配置或按路径配置。
 
-![img.png](_txtdbpic/e1bb9f9bcda1a8371ad852dd2e25498f_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e1bb9f9bcda1a8371ad852dd2e25498f_MD5.png)
 
 ## 8 HTTPS[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#8-https)
 
@@ -703,49 +703,49 @@ Commands:
 
 通过以上配置，用户可以有效提升网站的安全性和访问性能。
 
-![img.png](_txtdbpic/49f9041b95664eac504fcd6486a12882_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/49f9041b95664eac504fcd6486a12882_MD5.png)
 
 ## 9 真实 IP[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#9-ip)
 
 配置客户端 IP 获取方式及可信的 IP 来源，OpenResty 会分析 HTTP Header 中的 IP 信息，准确识别并记录访客的真实 IP 地址，包括在访问日志中。
 
-![img.png](_txtdbpic/bfeb60aaa755649d3e1d2a6872d147df_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bfeb60aaa755649d3e1d2a6872d147df_MD5.png)
 
 ## 10 伪静态[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#10)
 
 伪静态功能通过将动态 URL 转换为更友好的静态 URL，提高网站的可读性和搜索引擎优化效果。
 
-![img.png](_txtdbpic/eae27b4002f46aefa808b5e10ba7836c_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eae27b4002f46aefa808b5e10ba7836c_MD5.png)
 
 ## 11 防盗链[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#11)
 
 防盗链功能通过验证请求来源，阻止非授权用户直接链接和下载网站资源，以保护网站内容安全。
 
-![img.png](_txtdbpic/2c9ab8ac658c6bd6e3be33c22415187e_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2c9ab8ac658c6bd6e3be33c22415187e_MD5.png)
 
 ## 12 重定向[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#12)
 
 重定向功能允许将访问特定URL的请求自动转发到另一个URL，以实现链接管理和流量引导。
 
-![img.png](_txtdbpic/f3efd3c7aa903ba5fdfee66c067cde8a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f3efd3c7aa903ba5fdfee66c067cde8a_MD5.png)
 
 ## 13 PHP[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#13-php)
 
 静态页面类型的网站可以在此选择 PHP 运行环境切换为 PHP 类型网站，PHP 类型的网站可以切换不同的 PHP 运行环境。
 
-![img.png](_txtdbpic/116ba297b42daaf617ff6b72ca920f00_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/116ba297b42daaf617ff6b72ca920f00_MD5.png)
 
 ## 14 资源[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#14)
 
 将当前网站与某一个数据库进行关联，备份网站时将同时备份关联的数据库。切换其他数据库会导致以前的备份无法恢复。
 
-![img.png](_txtdbpic/ba49bc453b1dce9a35d827c62da0e79d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ba49bc453b1dce9a35d827c62da0e79d_MD5.png)
 
 ## 15 其他[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_basic/#15)
 
 支持更改主域名、切换分组以及更新备注信息等操作。
 
-![img.png](_txtdbpic/31c7a9468c1c5ebf803d5e8082ff0647_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/31c7a9468c1c5ebf803d5e8082ff0647_MD5.png)
 
 
 
@@ -765,20 +765,20 @@ Commands:
 - 下载日志文件
 - 清空日志内容
 
-![img.png](_txtdbpic/35f1b9f9a4367818372135c64d66755e_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/35f1b9f9a4367818372135c64d66755e_MD5.png)
 
 ## 2 配置文件[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_other/#2)
 
 - 查看并修改目标网站的 OpenResty 配置文件设置
 - PHP 运行环境网站还支持修改 FPM 和 PHP 配置文件
 
-![img.png](_txtdbpic/0b80a56de350c332a65e4919883fb24d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0b80a56de350c332a65e4919883fb24d_MD5.png)
 
 ## 3 默认站点[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_other/#3)
 
 设置默认站点功能允许用户在未匹配到任何域名时，将请求自动定向到指定的默认网站。
 
-![img.png](_txtdbpic/dc2251acb28e0e9eec88904946fbd7f2_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dc2251acb28e0e9eec88904946fbd7f2_MD5.png)
 
 ## 4 默认页面[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_other/#4)
 
@@ -790,19 +790,19 @@ Commands:
 - **PHP 网站默认页**
 - **网站停用页**
 
-![img.png](_txtdbpic/f8b500ebf812b925dd2cc9425015c5ab_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f8b500ebf812b925dd2cc9425015c5ab_MD5.png)
 
 ## 5 开启 / 停止网站[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_other/#5)
 
 点击列表中的【已启动】或【已停止】按钮，可以切换网站的运行状态。
 
-![img.png](_txtdbpic/899c5c1dbc71c816fec69f64060b20b6_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/899c5c1dbc71c816fec69f64060b20b6_MD5.png)
 
 ## 6 设置过期时间[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_other/#6)
 
 设置网站过期时间后，系统将在到期时自动停止该站点，以确保资源的有效管理和使用。
 
-![img.png](_txtdbpic/350806a2180acfa6537c9f0d13f25d31_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/350806a2180acfa6537c9f0d13f25d31_MD5.png)
 
 ## 7 删除网站[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_config_other/#7)
 
@@ -812,7 +812,7 @@ Commands:
 - **删除应用**：可在删除网站时一并删除与之相关的 1Panel 应用
 - **删除备份**：在删除网站的同时，也会删除其备份
 
-![img.png](_txtdbpic/b3c9f13f42c4e41e87f83d0a80d0e29d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b3c9f13f42c4e41e87f83d0a80d0e29d_MD5.png)
 
 
 
@@ -828,17 +828,17 @@ Commands:
 
 ## 1 创建分组[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_group/#1)
 
-![img.png](_txtdbpic/4e307da975a304c224c89f146c3dd80d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4e307da975a304c224c89f146c3dd80d_MD5.png)
 
 ## 2 默认分组[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_group/#2)
 
 设置网站默认分组后，创建新网站时会自动将其归入该分组。
 
-![img.png](_txtdbpic/710e50c1a2e3d3c1ba2242548e9e8f90_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/710e50c1a2e3d3c1ba2242548e9e8f90_MD5.png)
 
 ## 3 修改/删除分组[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_group/#3)
 
-![img.png](_txtdbpic/d615c5968a70086e16af1e5b69ac91c9_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d615c5968a70086e16af1e5b69ac91c9_MD5.png)
 
 
 
@@ -854,25 +854,25 @@ Commands:
 
 点击网站列表【更多】操作中的【备份列表】选项后，系统将在默认备份目录下生成网站的备份文件。
 
-![img.png](_txtdbpic/b5b2a3ae245312dfaed6ce3a9ea8f1ea_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b5b2a3ae245312dfaed6ce3a9ea8f1ea_MD5.png)
 
 ## 2 网站恢复[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_backup/#2)
 
 在备份列表中选择目标备份记录，然后点击【恢复】按钮以进行恢复操作。
 
-![img.png](_txtdbpic/bbb88fbbd5634e80ee653668be2f303d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bbb88fbbd5634e80ee653668be2f303d_MD5.png)
 
 ## 3 备份下载[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_backup/#3)
 
 支持将网站备份记录下载到本地，下载后可在上传备份页面使用该文件。
 
-![img.png](_txtdbpic/9358ea8184d9b1728b4cb83f5fc7c50b_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9358ea8184d9b1728b4cb83f5fc7c50b_MD5.png)
 
 ## 4 导入备份[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/website_backup/#4)
 
 选择网站备份文件并进行上传。
 
-![img.png](_txtdbpic/425fb1a02e7d8a3b4c88b2748e83fb40_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/425fb1a02e7d8a3b4c88b2748e83fb40_MD5.png)
 
 
 
@@ -888,13 +888,13 @@ Commands:
 
 可以通过按钮停止、启动或重启来管理 OpenResty 应用。
 
-![img.png](_txtdbpic/945830c0f89235ba613e453a96d4382c_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/945830c0f89235ba613e453a96d4382c_MD5.png)
 
 ## 2 重载[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/openresty/#2)
 
 允许用户在无需停机的情况下快速应用配置更改，确保网站服务的高可用性。
 
-![img.png](_txtdbpic/e6316a6aae94440bff74155017f5ce50_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e6316a6aae94440bff74155017f5ce50_MD5.png)
 
 ## 3 设置[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/openresty/#3)
 
@@ -902,26 +902,26 @@ Commands:
 
 查看当前网站状态，包括活动连接数、总连接数、总握手次数、总请求数、请求数、响应数及驻留进程等信息。
 
-![img.png](_txtdbpic/c31b65f5c3965c6165b2cda73abfb4c6_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c31b65f5c3965c6165b2cda73abfb4c6_MD5.png)
 
 ### 3.2 配置修改[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/openresty/#32)
 
 - 配置 OpenResty 的配置文件
 - 点击【默认配置】按钮可将配置文件恢复到默认状态
 
-![img.png](_txtdbpic/d4cf915f9df58e5b5fddc61d9bfa3df6_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d4cf915f9df58e5b5fddc61d9bfa3df6_MD5.png)
 
 ### 3.3 性能调整[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/openresty/#33)
 
 调整 OpenResty 的相关配置参数。
 
-![img.png](_txtdbpic/dbd6c7cb3a5fa1fe15a9e04e618e8423_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dbd6c7cb3a5fa1fe15a9e04e618e8423_MD5.png)
 
 ### 3.4 日志[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/openresty/#34)
 
 查看 OpenResty 日志，支持实时追踪、下载、清空等操作，并可按指定时间段和行数筛选日志。
 
-![img.png](_txtdbpic/3390b587f0e3f345dff2c821a1761114_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3390b587f0e3f345dff2c821a1761114_MD5.png)
 
 ### 3.5 模块[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/openresty/#35)
 
@@ -937,7 +937,7 @@ Commands:
 参数类似 --add-module=/tmp/nginx-rtmp-module （必须是 /tmp）
 脚本参考 unzip -o /tmp/nginx-rtmp-module.zip -d /tmp （必须是 /tmp）
 
-![img.png](_txtdbpic/a93be753ef5ce14e798d5a4c3df83501_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a93be753ef5ce14e798d5a4c3df83501_MD5.png)
 
 
 
@@ -949,7 +949,7 @@ Commands:
 
 管理证书相关，包括申请证书、续约证书、ACME 账户管理，DNS账户管理等。
 
-![首页](_txtdbpic/d419ca5a1376aee914c9faf4341134b8_MD5.png)
+![首页](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d419ca5a1376aee914c9faf4341134b8_MD5.png)
 
 
 
@@ -962,7 +962,7 @@ Commands:
 - 已经创建 Acme 账户
 - 如果是 DNS 验证模式，需要提前准备DNS账号
 
-![img.png](_txtdbpic/f4b49a8e845e748eb3f9e936214bd3a2_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f4b49a8e845e748eb3f9e936214bd3a2_MD5.png)
 
 ### 2 DNS 账号模式申请证书[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/certificate_create/#2-dns)
 
@@ -994,7 +994,7 @@ Commands:
 
 点击证书列表上方的【上传证书】按钮，用户可以将已有的 SSL 证书上传至 1Panel 中，用于网站的 HTTPS 访问。
 
-![img.png](_txtdbpic/c666dff4cc3f52e6ffd94f8b9293ec88_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c666dff4cc3f52e6ffd94f8b9293ec88_MD5.png)
 
 上传证书时，用户需要提供证书文件和私钥文件。证书文件和私钥文件需要使用 PEM 格式。
 
@@ -1014,13 +1014,13 @@ Commands:
 
 1Panel 默认创建了名为 `1Panel` 的证书颁发机构，如果没有特殊要求，用户可以使用该颁发机构快速创建自签证书。
 
-![img.png](_txtdbpic/2442564503843ac422a32d68bacef518_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2442564503843ac422a32d68bacef518_MD5.png)
 
 ## 2 签发证书[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/certificate_self_sign/#2)
 
 在证书颁发机构列表中，点击【签发证书】按钮，弹出签发证书页面。在该页面中可以创建自签证书。
 
-![img.png](_txtdbpic/7ecae158c51334da5f2a8323d4ecea59_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7ecae158c51334da5f2a8323d4ecea59_MD5.png)
 
 
 
@@ -1034,7 +1034,7 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 用户也可以点击证书列表中的【申请】按钮，手动触发证书续签操作。
 
-![img.png](_txtdbpic/190eff412f1fd1e1ed6de30704bb7d09_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/190eff412f1fd1e1ed6de30704bb7d09_MD5.png)
 
 
 
@@ -1052,7 +1052,7 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 创建 Acme 账户时填写的邮箱可以用于接收证书相关通知。
 
-![img.png](_txtdbpic/b44e13bbbc43917a71b1c3d8c040ea3c_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b44e13bbbc43917a71b1c3d8c040ea3c_MD5.png)
 
 
 
@@ -1084,7 +1084,7 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 - 火山引擎
 - DNSPod（即将废弃）
 
-![img.png](_txtdbpic/e26f56455d88da26a9e5385c930fb6be_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e26f56455d88da26a9e5385c930fb6be_MD5.png)
 
 说明
 
@@ -1104,7 +1104,7 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 - 1Panel 支持维护 5.x、7.x 和 8.x 三个大版本，用户可以根据自己的需求选择合适的版本
 
-![img.png](_txtdbpic/a891adebd6af6caaf6244de2d96e1df1_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a891adebd6af6caaf6244de2d96e1df1_MD5.png)
 
 ### 1.1.创建 本地 PHP 运行环境[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/php/#11-php)
 
@@ -1112,26 +1112,26 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 - 需要先在服务器上安装 php-fpm。
 
-![img.png](_txtdbpic/8b034915c1289a47d12d3e7964a76086_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8b034915c1289a47d12d3e7964a76086_MD5.png)
 
 **1Panel 离线版**
 
 - 可以从其他 1Panel 服务器拷贝 /opt/1panel/runtime/php/[php_name] 目录和镜像，并上传到离线版 1Panel 服务器，并使用 docker compose up 命令启动，记住映射的端口
 - 创建运行环境网站，选择刚刚创建的 PHP 运行环境，修改端口为刚才启动的端口
 
-![img.png](_txtdbpic/5ea5ac671139d9ca87bba1fae55890b2_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5ea5ac671139d9ca87bba1fae55890b2_MD5.png)
 
 ## 2 管理 PHP 扩展[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/php/#2-php)
 
 点击 PHP 运行环境列表中的【扩展】按钮，可以查看当前 PHP 运行环境已加载的扩展，同时支持安装、卸载扩展。
 
-![img.png](_txtdbpic/380887feace8aea63f04f3a743ca32f5_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/380887feace8aea63f04f3a743ca32f5_MD5.png)
 
 ## 3 修改 PHP 配置[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/php/#3-php)
 
 点击 PHP 运行环境列表中的【更多】操作中的【配置】选项，可以查看并修改当前 PHP 运行环境的配置。
 
-![img.png](_txtdbpic/b0f470d3bfdae07504a3607b21bb69d1_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b0f470d3bfdae07504a3607b21bb69d1_MD5.png)
 
 ## 4 配置进程守护[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/php/#4)
 
@@ -1139,7 +1139,7 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 适用于 PHP 应用需要额外的常驻进程的场景。
 
-![img.png](_txtdbpic/123c1a3259f3f621e8dd26273bcbec9d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/123c1a3259f3f621e8dd26273bcbec9d_MD5.png)
 
 ## 5 PHP 扩展列表[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/php/#5-php)
 
@@ -1298,25 +1298,25 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 目前支持 12.x、14.x 16.x 和 18.x 四个大版本，用户可以根据自己的需求选择合适的版本。
 
-![runtime_node_create.png](_txtdbpic/701f0e31f1a761252f5e1209cd94daf7_MD5.png)
+![runtime_node_create.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/701f0e31f1a761252f5e1209cd94daf7_MD5.png)
 
 ## 2 操作 Node 运行环境[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/node/#2-node)
 
 在列表页面，可以查看 Node 运行环境安装的模块，对 Node 运行环境进行停止、启动、重启、编辑、删除、模块管理和查看日志等操作。
 
-![runtime_node_list.png](_txtdbpic/3c4bdc5d12b927ce3ca29b00769d0af4_MD5.png)
+![runtime_node_list.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3c4bdc5d12b927ce3ca29b00769d0af4_MD5.png)
 
 ## 3 日志查看[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/node/#3)
 
 点击【查看】日志按钮，可以查看 Node 运行环境的运行日志。
 
-![runtime_node_log.png](_txtdbpic/acf6d6dcd471ed1f7ce0717f0f63ea6f_MD5.png)
+![runtime_node_log.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/acf6d6dcd471ed1f7ce0717f0f63ea6f_MD5.png)
 
 ## 4 模块管理[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/node/#4)
 
 点击模块按钮，可以对 Node 运行环境的模块进行管理。
 
-![runtime_node_module.png](_txtdbpic/7281ce9b51f773356f364402e22aa3b9_MD5.png)
+![runtime_node_module.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7281ce9b51f773356f364402e22aa3b9_MD5.png)
 
 
 
@@ -1332,19 +1332,19 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 - 目前支持 Java 1.8、11、17、18、21、22 大版本，用户可以根据自己的需求选择合适的版本
 
-![runtime_java_create.png](_txtdbpic/56d4d17b7a55f2663da24434a7b5b072_MD5.png)
+![runtime_java_create.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/56d4d17b7a55f2663da24434a7b5b072_MD5.png)
 
 ## 2 操作 Java 运行环境[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/java/#2-java)
 
 - 在列表页面，可以对 Java 运行环境进行停止、启动、重启、编辑、删除和查看日志等操作
 
-![runtime_java_list.png](_txtdbpic/1a338428488186a9efabcc06622ba7b7_MD5.png)
+![runtime_java_list.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1a338428488186a9efabcc06622ba7b7_MD5.png)
 
 ## 3 日志查看[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/java/#3)
 
 点击【查看】日志按钮，可以查看 Java 运行环境的运行日志。
 
-![runtime_java_log.png](_txtdbpic/9c3c01ae2a2beac214aa898cfd9d892d_MD5.png)
+![runtime_java_log.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9c3c01ae2a2beac214aa898cfd9d892d_MD5.png)
 
 
 
@@ -1358,13 +1358,13 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 点击创建运行环境按钮，选择 Golang 版本和运行目录等信息。 - 目前支持 Golang 1.21、1.22、1.23、1.24 版本，用户可以根据自己的需求选择合适的版本
 
-![runtime_golang_create.png](_txtdbpic/322f8c25e5e08fa5d59e0f8e5a83cae4_MD5.png)
+![runtime_golang_create.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/322f8c25e5e08fa5d59e0f8e5a83cae4_MD5.png)
 
 ## 2 操作 Golang 运行环境[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/golang/#2-golang)
 
 - 在列表页面，可以对 Golang 运行环境进行停止、启动、重启、编辑、删除和查看日志等操作
 
-![runtime_golang_list.png](_txtdbpic/9e45ba7a48d4101eff92fddb934af112_MD5.png)
+![runtime_golang_list.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9e45ba7a48d4101eff92fddb934af112_MD5.png)
 
 
 
@@ -1380,13 +1380,13 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 - 目前支持 Python 3.10、3.11、3.12、3.13 版本，用户可以根据自己的需求选择合适的版本
 
-![runtime_python_create.png](_txtdbpic/cfa54528e4d7a69960c0ba7eb15d9bc1_MD5.png)
+![runtime_python_create.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cfa54528e4d7a69960c0ba7eb15d9bc1_MD5.png)
 
 ## 2 操作 Python 运行环境[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/python/#2-python)
 
 - 在列表页面，可以对 Python 运行环境进行停止、启动、重启、编辑、删除和查看日志等操作
 
-![runtime_python_list.png](_txtdbpic/0dfb6d2943680143dcaddd5296361666_MD5.png)
+![runtime_python_list.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0dfb6d2943680143dcaddd5296361666_MD5.png)
 
 
 
@@ -1401,13 +1401,13 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 - 目前支持 .NET 9.0、8.0、6.0 版本，用户可以根据自己的需求选择合适的版本
 - 目前使用的是 mcr.microsoft.com/dotnet/aspnet 镜像，需要先把代码编译成 .dll 文件，然后放到运行目录中
 
-![runtime_net_create.png](_txtdbpic/082276c7b218f0b8b9f90ab7566e85dd_MD5.png)
+![runtime_net_create.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/082276c7b218f0b8b9f90ab7566e85dd_MD5.png)
 
 ## 2 操作 .NET 运行环境[⚓︎](https://1panel.cn/docs/v2/user_manual/websites/dotnet/#2-net)
 
 - 在列表页面，可以对 .NET 运行环境进行停止、启动、重启、编辑、删除和查看日志等操作
 
-![runtime_net_list.png](_txtdbpic/e1a63f0b5a2e1c9daae5bbabdaaafe80_MD5.png)
+![runtime_net_list.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e1a63f0b5a2e1c9daae5bbabdaaafe80_MD5.png)
 
 
 
@@ -1423,31 +1423,31 @@ DNS 账号、HTTP 方式申请的证书支持自动续签，1Panel 会自动在�
 
 要使用模型管理功能，需要先在应用商店中安装 Ollama 应用。Ollama 安装完成后可以在该页面查看 Ollama 应用状态，并进行启动、停止及重启等操作。
 
-![img.png](_txtdbpic/b894a3084f69c9ab9ed265c2a2cd9cfc_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b894a3084f69c9ab9ed265c2a2cd9cfc_MD5.png)
 
 ### 2 添加模型[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/model/#2)
 
 点击添加模型，输入模型名称点击添加按钮即可从 [Ollama 官方仓库](https://ollama.com/search)拉取对应模型。
 
-![img.png](_txtdbpic/173183c3f84db070916df5c0d83b231d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/173183c3f84db070916df5c0d83b231d_MD5.png)
 
 ### 3 运行模型[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/model/#3)
 
 点击某个模型所在行的【运行】操作，即可在当前页面打开在线终端与该模型进行对话。
 
-![img.png](_txtdbpic/96dddac367f627635d4862eac7b65ae4_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/96dddac367f627635d4862eac7b65ae4_MD5.png)
 
 ### 4 AI 代理增强[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/model/#4-ai)
 
 通过该功能可以为 Ollama 应用配置反向代理，从而支持域名、HTTPS、IP 白名单等配置，增强使用大模型时的安全性。
 
-![img.png](_txtdbpic/e5529f1bf82e5288da2f35b26f52e901_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e5529f1bf82e5288da2f35b26f52e901_MD5.png)
 
 ### 5 查看连接信息[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/model/#5)
 
 点击列表上方的【连接信息】按钮，即可查看 Ollama 应用的连接信息。
 
-![img.png](_txtdbpic/47733a9aa168f738313c96f03f6679d5_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/47733a9aa168f738313c96f03f6679d5_MD5.png)
 
 > 应用商店部署的 Ollama 采用容器化方式运行，不同的场景需要根据页面提示选择对应的连接信息。
 
@@ -1487,7 +1487,7 @@ TensorRT LLM 是 NVIDIA 推出的全面开源库，用于在 NVIDIA GPU 上加�
 - **环境变量**：为 TensorRT LLM 容器配置环境变量。
 - **挂载**：为 TensorRT LLM 容器挂载额外的目录，可以挂载服务器上的本地目录到容器中，从而可以在容器中访问服务器上的本地目录。
 
-![img.png](_txtdbpic/a9e9668bca494448689a5831c76db5c2_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a9e9668bca494448689a5831c76db5c2_MD5.png)
 
 ### 2 查看模型日志[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/model/#2_1)
 
@@ -1511,7 +1511,7 @@ MCP（Model Context Protocol，模型上下文协议） 是由人工智能企业
 
 然而在实际操作过程中，搭建 MCP Server 需要手动配置大量依赖，部署门槛较高，许多用户难以上手。为了解决这个问题，1Panel v1.10.29 LTS 版本推出了原生的 MCP Server 管理功能，该功能通过容器化方式实现一键部署 MCP Server，能够极大简化搭建流程。
 
-![img.png](_txtdbpic/b272db28676f533e4a91ad14d29325c6_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b272db28676f533e4a91ad14d29325c6_MD5.png)
 
 ## 2 创建 MCP Server[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/mcp/#2-mcp-server)
 
@@ -1522,17 +1522,17 @@ MCP（Model Context Protocol，模型上下文协议） 是由人工智能企业
 
 ### 2.1 npx 命令启动[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/mcp/#21-npx)
 
-![img.png](_txtdbpic/213af5cc78221a4c4ed47cf3e40c2026_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/213af5cc78221a4c4ed47cf3e40c2026_MD5.png)
 
 ### 2.2 二进制方式运行[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/mcp/#22)
 
-![img.png](_txtdbpic/1a89bf7b1004e60a570e09d89590958e_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1a89bf7b1004e60a570e09d89590958e_MD5.png)
 
 ## 3 获取配置信息[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/mcp/#3)
 
 MCP Server部署成功后，1Panel会为每个MCP Server实例自动生成客户端配置信息，包括端口、地址、SSE路径等。点击“配置”按钮，即可快速获取该MCP Server的客户端配置信息。 用户只需要复制客户端配置信息并粘贴至MCP客户端，即可开始使用拥有MCP加成的AI助手。这种方式无需手动查找或配置环境变量，实现了从部署到使用的无缝衔接。
 
-![img.png](_txtdbpic/759f6159b83b5f83719fda30b300101e_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/759f6159b83b5f83719fda30b300101e_MD5.png)
 
 ## 4 统一域名与SSE路径[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/mcp/#4-sse)
 
@@ -1540,7 +1540,7 @@ MCP Server部署成功后，1Panel会为每个MCP Server实例自动生成客户
 
 这种方式不仅简化了公网访问的配置逻辑，也让运维操作更加集中统一。尤其是在大规模部署和企业内部网络的场景下，统一绑定网站域名能够避免暴露过多端口，减少安全风险，进一步提升部署的灵活性、安全性和可维护性。
 
-![img.png](_txtdbpic/1f7b78610ad2fc20a2c0a528a2221b25_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1f7b78610ad2fc20a2c0a528a2221b25_MD5.png)
 
 ## 5 白名单访问限制[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/mcp/#5)
 
@@ -1577,7 +1577,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 在 GPU 监控页面，可以查看到驱动版本，显卡型号以及显卡的使用率、温度、功耗等基础指标，还可以查看到目前正在使用显卡的进程信息。
 
-![img.png](_txtdbpic/bceeaa3eebbeb514845d3fcf44b130ea_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bceeaa3eebbeb514845d3fcf44b130ea_MD5.png)
 
 ## 3 使用 GPU[⚓︎](https://1panel.cn/docs/v2/user_manual/ai/gpu/#3-gpu)
 
@@ -1585,7 +1585,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 > 在应用商店安装应用时，勾选高级设置中的 `GPU 加速` 即可让该应用获得 GPU 支持。
 
-![img.png](_txtdbpic/a9ac7d3c36a0b1d7a6cfd208d7fd9ce5_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a9ac7d3c36a0b1d7a6cfd208d7fd9ce5_MD5.png)
 
 
 
@@ -1605,21 +1605,21 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 除应用商店安装的本地数据库以外，还可以添加已存在的数据库服务地址。点击列表上方的【远程服务器】按钮，即可进入远程服务器管理页面。
 
-![img.png](_txtdbpic/ea700cedccd2f69403bc597ace410489_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ea700cedccd2f69403bc597ace410489_MD5.png)
 
-![img.png](_txtdbpic/b5ee8f81c2d6626eae60dd77ab4956d1_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b5ee8f81c2d6626eae60dd77ab4956d1_MD5.png)
 
 ### 1.3 切换数据库实例[⚓︎](https://1panel.cn/docs/v2/user_manual/databases/mysql/#13)
 
 点击数据库列表上方的下拉菜单，即可在不同的数据库实例间进行切换，管理不同数据库实例下的数据库及设置等。
 
-![img.png](_txtdbpic/c0fd9b1bfd8fc1118b8b331fa96f09f9_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c0fd9b1bfd8fc1118b8b331fa96f09f9_MD5.png)
 
 ## 2 创建数据库[⚓︎](https://1panel.cn/docs/v2/user_manual/databases/mysql/#2)
 
 创建一个新的数据库，首先输入数据库名称，选择编码格式，输入密码，设置访问权限，即可成功创建一个数据库。
 
-![img.png](_txtdbpic/b9cbfa81bed3267c12f6a1c895c26186_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b9cbfa81bed3267c12f6a1c895c26186_MD5.png)
 
 - 数据库名：新建数据库的名称，选择编码格式，默认为 UTF-8 格式
 - 用户名：访问该数据库的用户名
@@ -1630,7 +1630,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 点击列表上方的【连接信息】按钮，即可查看数据库的地址、端口及 root 密码等连接信息，同时可以在这里修改数据库 root 密码。
 
-![img.png](_txtdbpic/230b37a9525d186a0747fd2059cff961_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/230b37a9525d186a0747fd2059cff961_MD5.png)
 
 注意
 
@@ -1653,7 +1653,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 点击备份列表按钮，选择备份，即可备份当前数据库文件。
 
-![img.png](_txtdbpic/a6f54b6070d029ccaa366372c385505d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a6f54b6070d029ccaa366372c385505d_MD5.png)
 
 - 默认数据库路径为 /opt/1panel/backup/database/mysql
 - 备份使用 mysqldump 方式
@@ -1662,7 +1662,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 点击导入备份按钮，可以选择本地上传，或选择已备份的文件还原。
 
-![img.png](_txtdbpic/dcf21fc63a7da4d65416e1300ac83d71_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dcf21fc63a7da4d65416e1300ac83d71_MD5.png)
 
 - 如从上传文件恢复，则需要保证上传文件压缩包内存在 test.sql 文件，否则无法正确导入
 - 导入的 sql 文件格式必须符合标准，若你使用 phpmyadmin 导出的 sql 文件，可能会缺少版本 编码等信息，导致无法通过 mysqldump 正确导入
@@ -1672,7 +1672,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 点击操作列的【权限】按钮，可以修改指定数据库的访问权限，目前支持配置为所有人可访问或指定 IP 可访问。
 
-![img.png](_txtdbpic/4c61c6a0d4827142c260d247a09de219_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4c61c6a0d4827142c260d247a09de219_MD5.png)
 
 - 所有人：任何人都可以远程连接至数据库
 - IP 地址：仅限指定的 IP 访问，多个 IP 使用英文逗号分隔
@@ -1687,7 +1687,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 点击状态栏设置按钮，即可进入数据库具体设置界面，具体包括配置修改、当前状态、性能调整、端口、日志、慢日志。 其中配置界面可对数据库配置进行手动调整。
 
-![img.png](_txtdbpic/f50fa8a691d6c9e4b524376eb37184fa_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f50fa8a691d6c9e4b524376eb37184fa_MD5.png)
 
 - 系统 MySQL 使用 Docker 安装，配置文件默认挂载在 /opt/1panel/apps/mysql/[数据库名称]/conf/my.cnf
 - **注意事项：** 错误的数据库配置将导致 MySQL 服务不可用，请谨慎修改
@@ -1697,13 +1697,13 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 当数据库查询缓慢时，可在数据库设置界面，点击当前状态按钮，查看当前数据库包括缓存命中数、索引命中数等各个常用指标的状态，通过这些状态对数据库进行性能优化。
 
-![img.png](_txtdbpic/87da6728bdb13c16dd7d6b53b84906d4_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/87da6728bdb13c16dd7d6b53b84906d4_MD5.png)
 
 ## 12 性能调整[⚓︎](https://1panel.cn/docs/v2/user_manual/databases/mysql/#12_1)
 
 系统支持表单方式直接调整数据库性能相关参数名，如索引缓冲区、连接数等，并且预设常用的优化方案，用户可根据系统环境，直接选择优化方案。
 
-![img.png](_txtdbpic/85d150b952a3d9e71e1f41f14896d029_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/85d150b952a3d9e71e1f41f14896d029_MD5.png)
 
 ## 13 端口[⚓︎](https://1panel.cn/docs/v2/user_manual/databases/mysql/#13_1)
 
@@ -1714,7 +1714,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 - 系统 MySQL 使用 Docker 安装，本处产生日志为对应 MySQL 容器产生的日志。支持时间段筛选、追踪及下载操作
 - 设置界面还支持查看 MySQL 产生的慢日志
 
-![img.png](_txtdbpic/baa9adfbadad50b241360f7f114b3ef9_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/baa9adfbadad50b241360f7f114b3ef9_MD5.png)
 
 
 
@@ -1734,21 +1734,21 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 除应用商店安装的本地数据库以外，还可以添加已存在的数据库服务地址。点击列表上方的【远程服务器】按钮，即可进入远程服务器管理页面。
 
-![img.png](_txtdbpic/f87cdf81d2fa07c24201852abc5cdf6a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f87cdf81d2fa07c24201852abc5cdf6a_MD5.png)
 
-![img.png](_txtdbpic/5353e59559c9a15dd72a7bcffeff19ef_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5353e59559c9a15dd72a7bcffeff19ef_MD5.png)
 
 ### 1.3 切换数据库实例[⚓︎](https://1panel.cn/docs/v2/user_manual/databases/postgresql/#13)
 
 点击数据库列表上方的下拉菜单，即可在不同的数据库实例间进行切换，管理不同数据库实例下的数据库及设置等。
 
-![img.png](_txtdbpic/1727343675ef8d61f87e8bd2f3cd0da9_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1727343675ef8d61f87e8bd2f3cd0da9_MD5.png)
 
 ## 2 创建数据库[⚓︎](https://1panel.cn/docs/v2/user_manual/databases/postgresql/#2)
 
 创建一个新的数据库，输入数据库名称、用户名、密码，设置访问权限，即可成功创建一个数据库。
 
-![img.png](_txtdbpic/f6d432b36a46c872bf5dcc63473bb52d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f6d432b36a46c872bf5dcc63473bb52d_MD5.png)
 
 - 数据库名：新建数据库的名称
 - 用户名：访问该数据库的用户名
@@ -1759,7 +1759,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 点击列表上方的【连接信息】按钮，即可查看数据库的地址、端口及管理员用户名和密码等连接信息，同时可以在这里修改管理员用户密码。
 
-![img.png](_txtdbpic/aecbdf9b7365aaa13387bc05a9a4eff6_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/aecbdf9b7365aaa13387bc05a9a4eff6_MD5.png)
 
 注意
 
@@ -1777,7 +1777,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 点击备份列表按钮，选择备份，即可备份当前数据库文件。
 
-![img.png](_txtdbpic/550a6e066f059f6a55b263dd77a05dc0_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/550a6e066f059f6a55b263dd77a05dc0_MD5.png)
 
 - 默认数据库路径为 /opt/1panel/backup/database/postgresql
 - 备份使用 pg_dump 方式
@@ -1786,7 +1786,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 点击导入备份按钮，可以选择本地上传，或选择已备份的文件还原。
 
-![img.png](_txtdbpic/d03d7b32be395c39eaf9788cf5fdbf21_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d03d7b32be395c39eaf9788cf5fdbf21_MD5.png)
 
 - 如从上传文件恢复，则需要保证上传文件压缩包内存在 test.sql 文件，否则无法正确导入。
 
@@ -1803,7 +1803,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 点击状态栏设置按钮，即可进入数据库具体设置界面，具体包括配置修改、端口、日志查看。 其中配置界面可对数据库配置进行手动调整。
 
-![img.png](_txtdbpic/14272a895a2879081bec7af79070d58b_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/14272a895a2879081bec7af79070d58b_MD5.png)
 
 - 系统 PostgreSQL 使用 Docker 安装，配置文件默认挂载在 /opt/1panel/apps/postgresql/[数据库名称]/data/postgresql.cnf
 - **注意事项：** 错误的数据库配置将导致 PostgreSQL 服务不可用，请谨慎修改
@@ -1816,7 +1816,7 @@ chmod +x NVIDIA-Linux-x86_64-570.86.15.run
 
 - 系统 PostgreSQL 使用 Docker 安装，本处产生日志为对应 PostgreSQL 容器产生的日志。支持时间段筛选、追踪及下载操作
 
-![img.png](_txtdbpic/01fbc138a916ec021754afccd4d4e019_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/01fbc138a916ec021754afccd4d4e019_MD5.png)
 
 
 
@@ -1838,7 +1838,7 @@ WEB 图形化界面管理 redis 数据库的管理工具，工具使用方法详
 
 点击状态栏设置按钮，即可进入 Redis 具体设置界面，具体包括配置修改、当前状态、性能调整、端口、持久化。 其中配置界面可对 Redis 配置进行手动调整。
 
-![img.png](_txtdbpic/5537731c03b6a146640984478c87ebef_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5537731c03b6a146640984478c87ebef_MD5.png)
 
 - 系统 Redis 使用 Docker 安装，配置文件默认挂载在 /opt/1panel/apps/redis/[数据库名称]/conf/redis.conf
 
@@ -1848,13 +1848,13 @@ WEB 图形化界面管理 redis 数据库的管理工具，工具使用方法详
 
 当 Redis 查询缓慢时，可在设置界面，点击当前状态按钮，查看当前数据库包括内存分配、查询命中率等各个常用指标的状态，通过这些状态对 Redis 进行性能优化。
 
-![img.png](_txtdbpic/36deaaa382782382599bd72f82b2aed4_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/36deaaa382782382599bd72f82b2aed4_MD5.png)
 
 ## 5 性能调整[⚓︎](https://1panel.cn/docs/v2/user_manual/databases/redis/#5)
 
 系统支持表单方式直接调整 Redis 相关参数，具体包括：超时时间、最大连接数、最大内存数。
 
-![img.png](_txtdbpic/85de7d3cae793de57d2e43999de8dfd0_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/85de7d3cae793de57d2e43999de8dfd0_MD5.png)
 
 ## 6 端口[⚓︎](https://1panel.cn/docs/v2/user_manual/databases/redis/#6)
 
@@ -1873,7 +1873,7 @@ Redis 持久化分为两种：AOF 及 RDB，其中：
   - 优点： 有序保存了对数据库执行的所有写入操作，数据不容易丢失，即使发生故障停机，也只会丢失上一次写入日志文件操作之后的数据，更可靠且更容易对文件进行分析
   - 缺点： 一般相同的数据集来说，AOF 体积要更大，而且速度可能会慢于 RDB
 
-![img.png](_txtdbpic/4ee1a80be7dafe14691be9834e19af76_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4ee1a80be7dafe14691be9834e19af76_MD5.png)
 
 - appendonly: 是否开启 AOF 备份
 - appendfsync: 同步频率
@@ -1881,7 +1881,7 @@ Redis 持久化分为两种：AOF 及 RDB，其中：
   - everysec: 每秒
   - no: 不同步
 
-![img.png](_txtdbpic/ed123507880b178b406825ad50ce1e07_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ed123507880b178b406825ad50ce1e07_MD5.png)
 
 - 设置持久化策略，当 Redis 满足其中任意一个条件时，将触发 RDB 持久化。
 
@@ -1897,7 +1897,7 @@ Redis 持久化分为两种：AOF 及 RDB，其中：
 
 在容器概览页面可以查看到当前服务器上容器服务的整体状态，包括容器、编排、镜像、网络、存储卷等数量信息，及容器服务基础配置信息等。
 
-![img.png](_txtdbpic/6e45c709c18198b565809de125a11c30_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6e45c709c18198b565809de125a11c30_MD5.png)
 
 
 
@@ -1913,13 +1913,13 @@ Redis 持久化分为两种：AOF 及 RDB，其中：
 - 根据需要配置容器设置
 - 镜像需要从镜像镜像菜单手动拉取
 
-![img.png](_txtdbpic/68757e36e4b324ba573d50fdcbea6e17_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/68757e36e4b324ba573d50fdcbea6e17_MD5.png)
 
 ## 2 检查容器[⚓︎](https://1panel.cn/docs/v2/user_manual/containers/container/#2)
 
 点击目标容器名称，有关容器的所有信息都将显示在右侧抽屉中。
 
-![img.png](_txtdbpic/504c7ed197209f8cf164fbfb400e5169_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/504c7ed197209f8cf164fbfb400e5169_MD5.png)
 
 ## 3 查看容器日志[⚓︎](https://1panel.cn/docs/v2/user_manual/containers/container/#3)
 
@@ -1927,7 +1927,7 @@ Redis 持久化分为两种：AOF 及 RDB，其中：
 - **追踪：** 实时刷新容器日志
 - **下载：** 下载容器日志
 
-![img.png](_txtdbpic/e8cd5ca3c2f9fc13da7676e389789a71_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e8cd5ca3c2f9fc13da7676e389789a71_MD5.png)
 
 ## 4 访问容器的控制台[⚓︎](https://1panel.cn/docs/v2/user_manual/containers/container/#4)
 
@@ -1935,7 +1935,7 @@ Redis 持久化分为两种：AOF 及 RDB，其中：
 
 **注意：** 对于 Alpine Linux 容器，选择 /bin/ash 命令。如果需要定义除提供的命令之外的命令，请将 **自定义** 选项切换为打开。
 
-![img.png](_txtdbpic/dec5aa9c43f86d556f28da3f51c07636_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dec5aa9c43f86d556f28da3f51c07636_MD5.png)
 
 ## 5 查看容器统计信息[⚓︎](https://1panel.cn/docs/v2/user_manual/containers/container/#5)
 
@@ -1948,7 +1948,7 @@ Redis 持久化分为两种：AOF 及 RDB，其中：
 
 **可以更改刷新间隔**。
 
-![img.png](_txtdbpic/c2d96572e6ad66a948d226daf8a6ba86_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c2d96572e6ad66a948d226daf8a6ba86_MD5.png)
 
 
 
@@ -1968,7 +1968,7 @@ Redis 持久化分为两种：AOF 及 RDB，其中：
 
 [了解更多容器编排相关的知识](https://docs.docker.com/compose)
 
-![img.png](_txtdbpic/093c22d79c6c639fcce22e1c0bd6e149_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/093c22d79c6c639fcce22e1c0bd6e149_MD5.png)
 
 ## 2 编辑编排[⚓︎](https://1panel.cn/docs/v2/user_manual/containers/compose/#2)
 
@@ -1984,7 +1984,7 @@ Compose 按照来源可以区分为三种：
 
 点击编排列表名称，进入编排详情界面，详情界面实现该 Compose 对应的容器列表，仅当该 Compose 为 1Panel 创建时，支持对 Compose 进行启停操作。
 
-![img.png](_txtdbpic/9bf4a0b36ed3b6b0cd7de3eb88b6fdad_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9bf4a0b36ed3b6b0cd7de3eb88b6fdad_MD5.png)
 
 
 
@@ -2008,7 +2008,7 @@ Compose 按照来源可以区分为三种：
 - 直接构建镜像，等价于 docker build 操作
 - 构建镜像将耗费一段时间，如果关闭抽屉后还想查看构建日志，则可以去【主机 - 文件】中，下载或查看 [安装目录]/1panel/tmp/docker_logs/image_build_[时间戳].log
 
-![img.png](_txtdbpic/d2854364a0b23aecff5e0de88320138b_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d2854364a0b23aecff5e0de88320138b_MD5.png)
 
 - 编辑： 使用 Web 编辑器编辑 Dockerfile
 - 路径选择： 选择 1Panel 服务中已存在的 Dockerfile
@@ -2035,7 +2035,7 @@ Compose 按照来源可以区分为三种：
 
 [了解更多容器网络相关的知识](https://docs.docker.com/network)
 
-![img.png](_txtdbpic/decc2add0233d0ab4b9b0e36b87c3347_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/decc2add0233d0ab4b9b0e36b87c3347_MD5.png)
 
 **模式：Docker中的网络驱动（network driver）是可插拔的，1Panel 提供几种网络驱动以提供核心的网络功能，包括：**
 
@@ -2054,7 +2054,7 @@ Volume 是一个数据存储区域，可以挂载到容器中以提供持久存�
 
 [了解更多容器存储相关的知识](https://docs.docker.com/storage/volumes)
 
-![img.png](_txtdbpic/8afaac063fa2407076f9c67c91182e1d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8afaac063fa2407076f9c67c91182e1d_MD5.png)
 
 
 
@@ -2067,7 +2067,7 @@ Volume 是一个数据存储区域，可以挂载到容器中以提供持久存�
 - 仓库存在认证信息时，后端会自动执行 docker login 操作
 - 添加 http 协议仓库后，会自动在配置文件中添加该仓库的授信信息，需要重启 Docker 服务
 
-![img.png](_txtdbpic/5be4c61409b97dd05afcb4ac17138269_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5be4c61409b97dd05afcb4ac17138269_MD5.png)
 
 
 
@@ -2079,7 +2079,7 @@ Volume 是一个数据存储区域，可以挂载到容器中以提供持久存�
 
 供创建编排时使用。
 
-![img.png](_txtdbpic/d8bcc7d5448be8e913f1f089ec69c863_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d8bcc7d5448be8e913f1f089ec69c863_MD5.png)
 
 
 
@@ -2094,7 +2094,7 @@ Volume 是一个数据存储区域，可以挂载到容器中以提供持久存�
 - 支持查看 Docker 运行状态，并执行重启服务等操作
 - 配置文件默认为：/etc/docker/daemon.json
 
-![img.png](_txtdbpic/ca30101ad88658945334ebd221fe497a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ca30101ad88658945334ebd221fe497a_MD5.png)
 
 - 镜像加速：应用安装失败，镜像拉取超时，此时可以配置镜像加速器进行优化
 
@@ -2131,11 +2131,11 @@ Volume 是一个数据存储区域，可以挂载到容器中以提供持久存�
 
   
 
-- 面板设置中开启 IPv6，其中 fixed-cidr-v6 是上一步获取到的 IPv6 网段的子网（配置默认网络，前缀长度最大为 /80）![img.png](_txtdbpic/a63d191ffd37ccc53f1aa50104487d34_MD5.png)
+- 面板设置中开启 IPv6，其中 fixed-cidr-v6 是上一步获取到的 IPv6 网段的子网（配置默认网络，前缀长度最大为 /80）![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a63d191ffd37ccc53f1aa50104487d34_MD5.png)
 
-- 通过【网络】-【详情】检查是否生效。若生效，则 EnableIPv6 值为 true，IPAM.Config[1].Subnet 是上一步配置的 fixed-cidr-v6![img.png](_txtdbpic/8eb8de9443ed88827e76cbeb5218fdd7_MD5.png)
+- 通过【网络】-【详情】检查是否生效。若生效，则 EnableIPv6 值为 true，IPAM.Config[1].Subnet 是上一步配置的 fixed-cidr-v6![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8eb8de9443ed88827e76cbeb5218fdd7_MD5.png)
 
-- 创建 IPv6 网络![img.png](_txtdbpic/54eaf0811b76488a3db794d66bfaef9f_MD5.png)
+- 创建 IPv6 网络![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/54eaf0811b76488a3db794d66bfaef9f_MD5.png)
 
 - 使用创建的 IPv6 网络创建容器
 
@@ -2193,7 +2193,7 @@ Linux 中文件权限可按照以下三个不用角色分别进行设置：
 
 通过时间监控指标上方的时间选择组件，可以调整监控数据的时间范围。
 
-![img.png](_txtdbpic/46bcd44f78118e9043c060f1549e54cd_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/46bcd44f78118e9043c060f1549e54cd_MD5.png)
 
 ## 2 修改设置[⚓︎](https://1panel.cn/docs/v2/user_manual/hosts/monitor/#2)
 
@@ -2266,13 +2266,13 @@ sudo systemctl enable firewalld
 
 **点击防火墙开关按钮，即可开启或关闭防火墙。**
 
-![img.png](_txtdbpic/f2c804e4cc6876f0ea62050219b65677_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f2c804e4cc6876f0ea62050219b65677_MD5.png)
 
 **点击禁 ping 按钮，即可开启或关闭 PING 命令。**
 
 - 禁用 PING 命令的主要功能是：为了防止用户频繁 PING 服务器而导致服务器性能下降
 
-![img.png](_txtdbpic/3e3cef3038f8685f626303659b2466ab_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3e3cef3038f8685f626303659b2466ab_MD5.png)
 
 ## 3 端口规则[⚓︎](https://1panel.cn/docs/v2/user_manual/hosts/firewall/#3)
 
@@ -2285,9 +2285,9 @@ sudo systemctl enable firewalld
 
 **端口放行成功后，可以查看防火墙列表查看当前端口的运行情况。**
 
-![img.png](_txtdbpic/5ba0da1b263a9ee5002e63c4db032348_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/5ba0da1b263a9ee5002e63c4db032348_MD5.png)
 
-![img.png](_txtdbpic/e8e8f8e1aa2e67f067f86c30f6899741_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e8e8f8e1aa2e67f067f86c30f6899741_MD5.png)
 
 ## 4 端口转发[⚓︎](https://1panel.cn/docs/v2/user_manual/hosts/firewall/#4)
 
@@ -2298,7 +2298,7 @@ sudo systemctl enable firewalld
 - 目标 IP：如果是本机端口转发，目标IP为：127.0.0.1；如果目标IP不填写，则默认为本机端口转发
 - 目标端口：接收转发报文的目标端口
 
-![img.png](_txtdbpic/09ab3f14dde78df41b1628f7157cbc4d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/09ab3f14dde78df41b1628f7157cbc4d_MD5.png)
 
 ## 5 IP 规则[⚓︎](https://1panel.cn/docs/v2/user_manual/hosts/firewall/#5-ip)
 
@@ -2307,9 +2307,9 @@ sudo systemctl enable firewalld
 - 指定 IP
 - 策略：默认为放行，有放行、屏蔽
 
-![img.png](_txtdbpic/44e9fc7029ba482caffcd1dc465d68df_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/44e9fc7029ba482caffcd1dc465d68df_MD5.png)
 
-![img.png](_txtdbpic/a7b0f8968c1cef109d977977c7d795cb_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a7b0f8968c1cef109d977977c7d795cb_MD5.png)
 
 
 
@@ -2329,7 +2329,7 @@ sudo systemctl enable firewalld
 - 点击操作列的 `详情`，可以查看进程的更多信息，包括基本信息、内存信息、打开的文件、环境变量及网络连接信息等
 - 点击操作列的 `结束`，可以结束掉指定进程
 
-![img.png](_txtdbpic/28e0d055f99917c625777efd9c03cda0_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/28e0d055f99917c625777efd9c03cda0_MD5.png)
 
 ## 2 查看网络连接信息[⚓︎](https://1panel.cn/docs/v2/user_manual/hosts/process/#2)
 
@@ -2339,7 +2339,7 @@ sudo systemctl enable firewalld
 - 列表上方筛选组件可以更具进程 ID、进程名称、端口号进行筛选
 - 列表中可以根据 PID 进行排序，根据连接状态进行筛选
 
-![img.png](_txtdbpic/7fe17d451153aebd5e0e94761bb14915_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7fe17d451153aebd5e0e94761bb14915_MD5.png)
 
 
 
@@ -2353,7 +2353,7 @@ sudo systemctl enable firewalld
 
 在 SSH 管理配置页面，可以开启/关闭/重启 SSH 服务，设置 SSH 服务开机自启动，同时支持可视化调整监听端口、监听地址等常用配置，或者通过配置文件方式修改其他配置。
 
-![img.png](_txtdbpic/134794da110bd3ace21e09bd7a9df358_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/134794da110bd3ace21e09bd7a9df358_MD5.png)
 
 ## 2 管理 SSH 会话[⚓︎](https://1panel.cn/docs/v2/user_manual/hosts/ssh/#2-ssh)
 
@@ -2362,13 +2362,13 @@ sudo systemctl enable firewalld
 - 在列表中可以查看系统中的所有活跃的 SSH 会话信息
 - 点击操作列的 `断开`，可以断开指定的 SSH 会话
 
-![img.png](_txtdbpic/89a055792a25088f070494dbc7e63d24_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/89a055792a25088f070494dbc7e63d24_MD5.png)
 
 ## 3 查看 SSH 登录日志[⚓︎](https://1panel.cn/docs/v2/user_manual/hosts/ssh/#3-ssh)
 
 点击当前页面上方的 `登录日志` 选项，可以进入 SSH 登录日志列表。
 
-![img.png](_txtdbpic/015505d003f9451cdc7e14d6cea156dd_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/015505d003f9451cdc7e14d6cea156dd_MD5.png)
 
 
 
@@ -2405,7 +2405,7 @@ sudo systemctl enable firewalld
 - 解释器：选择不同的解释器执行脚本内容，系统预设 bash python sh，支持自定义；
 - 脚本内容：具体需要执行的脚本内容，支持编辑、选择脚本库以及选择服务器脚本执行；
 
-![img.png](_txtdbpic/23f0d6d3f0a84666e927f25fd151476c_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/23f0d6d3f0a84666e927f25fd151476c_MD5.png)
 
 ### 2 备份应用 | 备份网站 ｜ 备份数据库[⚓︎](https://1panel.cn/docs/v2/user_manual/cronjobs/#2)
 
@@ -2413,7 +2413,7 @@ sudo systemctl enable firewalld
 
 备份应用、备份网站备份数据库大体相同，直接选择对应的备份内容，支持备份所有。
 
-![img.png](_txtdbpic/2f87d338abfd2e3f6884444dec1bd977_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2f87d338abfd2e3f6884444dec1bd977_MD5.png)
 
 ### 3 备份目录[⚓︎](https://1panel.cn/docs/v2/user_manual/cronjobs/#3)
 
@@ -2421,7 +2421,7 @@ sudo systemctl enable firewalld
 
 备份文件或目录，支持直接选择需要备份的多个文件，或者指定单个目录。
 
-![img.png](_txtdbpic/d73b093e6508442609030c26b5a29a4a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d73b093e6508442609030c26b5a29a4a_MD5.png)
 
 ### 4 备份日志[⚓︎](https://1panel.cn/docs/v2/user_manual/cronjobs/#4)
 
@@ -2457,11 +2457,11 @@ URL 地址：需要定时访问的 URL 地址；
 
 备份类型的计划任务，可在计划任务列表直接查看备份文件份数，并支持下载操作。
 
-![img.png](_txtdbpic/74e363f71a18c4fab9ccac90cec9a9dd_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/74e363f71a18c4fab9ccac90cec9a9dd_MD5.png)
 
 显示该任务产生的所有报告详情，支持时间、状态筛选。
 
-![img.png](_txtdbpic/03bcad02f4a562f40db17feff20a9ee4_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/03bcad02f4a562f40db17feff20a9ee4_MD5.png)
 
 ## 导入导出[⚓︎](https://1panel.cn/docs/v2/user_manual/cronjobs/#_3)
 
@@ -2488,13 +2488,13 @@ URL 地址：需要定时访问的 URL 地址；
 - 支持快速快速命令（需要在【终端 - 快速命令】菜单中维护），用户可预定于常用快速命令
 - 支持当前所有连接批量输入
 
-![img.png](_txtdbpic/d35b190d6f39cd3b2ba0b0be9096fd3d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d35b190d6f39cd3b2ba0b0be9096fd3d_MD5.png)
 
 ## 2 主机管理[⚓︎](https://1panel.cn/docs/v2/user_manual/terminal/#2)
 
 维护主机信息，支持主机分组。
 
-![img.png](_txtdbpic/0d2769d0ed96305731529d5b7d50924a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0d2769d0ed96305731529d5b7d50924a_MD5.png)
 
 
 
@@ -2515,7 +2515,7 @@ URL 地址：需要定时访问的 URL 地址；
 - 系统时区
 - 服务器时间
 
-![img.png](_txtdbpic/b6ac24162f3b3fe2b689ddd5e78efb85_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b6ac24162f3b3fe2b689ddd5e78efb85_MD5.png)
 
 
 
@@ -2555,7 +2555,7 @@ URL 地址：需要定时访问的 URL 地址；
   - 容器操作日志文件
   - 计划任务执行日志文件
 
-![img.png](_txtdbpic/65412d46cc60ce99a5a126f33843ae46_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/65412d46cc60ce99a5a126f33843ae46_MD5.png)
 
 
 
@@ -2603,29 +2603,29 @@ systemctl status supervisord
 
 首次使用需要先初始化 supervisor，导入配置文件位置和服务名称。
 
-![初始化](_txtdbpic/d77d5ef8de310b5d3340f8c7f6d3034f_MD5.png)
+![初始化](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d77d5ef8de310b5d3340f8c7f6d3034f_MD5.png)
 
 后期服务名称和配置文件有变动，可以在设置页面进行重新初始化。
 
-![重新初始化](_txtdbpic/0158a3eeaeb10de5e8cac9ff7d5a873e_MD5.png)
+![重新初始化](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0158a3eeaeb10de5e8cac9ff7d5a873e_MD5.png)
 
 ## 3 创建[⚓︎](https://1panel.cn/docs/v2/user_manual/toolbox/supervisor/#3)
 
 点击创建守护进程按钮，填写相应参数，点击确认。
 
-![创建](_txtdbpic/e63b2d32c817ee4cba2a484330e1aa48_MD5.png)
+![创建](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e63b2d32c817ee4cba2a484330e1aa48_MD5.png)
 
 ## 4 守护进程管理[⚓︎](https://1panel.cn/docs/v2/user_manual/toolbox/supervisor/#4)
 
 列表页面可以操作守护进程，包括启动、停止、重启、查看日志、编辑、删除、修改源文等。
 
-![创建](_txtdbpic/dee5a884012b910f5119d196df204305_MD5.png)
+![创建](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dee5a884012b910f5119d196df204305_MD5.png)
 
 ## 5 Supervisor 管理[⚓︎](https://1panel.cn/docs/v2/user_manual/toolbox/supervisor/#5-supervisor)
 
 Supervisor 状态栏可以重启 停止 Supervisor 服务，查看日志，修改配置文件等。
 
-![创建](_txtdbpic/b5089198a20f37a71ee132df51a908c1_MD5.png)
+![创建](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b5089198a20f37a71ee132df51a908c1_MD5.png)
 
 
 
@@ -2718,7 +2718,7 @@ systemctl status clamav-freshclam.service
 
 点击操作列的 `执行` 可以手动执行该条扫描规则，点击 `报告` 即可查看该条扫描规则的执行记录和扫描结果。
 
-![img.png](_txtdbpic/22416455ac1727628ca6ab3af86ad68b_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/22416455ac1727628ca6ab3af86ad68b_MD5.png)
 
 ## 5 病毒类型说明[⚓︎](https://1panel.cn/docs/v2/user_manual/toolbox/clam/#5)
 
@@ -2907,7 +2907,7 @@ logpath = /var/log/secure            # SSH 登陆日志位置
 
 WAF 是 Web Application Firewall 的缩写，也被称为 Web 应用防火墙。 可以保护你的网站免受恶意攻击，如 SQL 注入、XSS 攻击等。
 
-![img.png](_txtdbpic/a65261d51482a3b50c5967c980274a9d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a65261d51482a3b50c5967c980274a9d_MD5.png)
 
 
 
@@ -2919,7 +2919,7 @@ WAF 是 Web Application Firewall 的缩写，也被称为 Web 应用防火墙。
 
 概览页可以查看今日状态、拦截地图、请求趋势、拦截趋势等。
 
-![img.png](_txtdbpic/a65261d51482a3b50c5967c980274a9d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a65261d51482a3b50c5967c980274a9d_MD5.png)
 
 
 
@@ -2936,7 +2936,7 @@ WAF 是 Web Application Firewall 的缩写，也被称为 Web 应用防火墙。
 - 全局设置的开关可以控制所有网站的规则，比如关闭访问频率之后所有网站的访问频率限制都会失效
 - 全局设置中的小项，比如默认规则-参数规则的第一项，关闭了之后，只影响新建网站，不影响现存网站
 
-![img.png](_txtdbpic/cdc8319e7b60c429cdac5e43e25fe3e7_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/cdc8319e7b60c429cdac5e43e25fe3e7_MD5.png)
 
 ## 1 黑白名单[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/global/#1)
 
@@ -2971,21 +2971,21 @@ WAF 是 Web Application Firewall 的缩写，也被称为 Web 应用防火墙。
 - 全局模式：单位时间请求任意 URL 次数之和超过阈值即触发
 - URL 模式：单位时间请求单个 URL 次数超过阈值即触发
 
-![img.png](_txtdbpic/e74c39cbda22a62221a5bdde9d34128c_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e74c39cbda22a62221a5bdde9d34128c_MD5.png)
 
 ### 2.2 攻击频率限制[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/global/#22)
 
 - 如果某个 IP 一直触发 WAF 规则，则拉黑此 IP
 - 场景：某个 IP 一直攻击你的网站，触发了多次规则
 
-![img.png](_txtdbpic/842a30876822653dd2e4431820a3e8f5_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/842a30876822653dd2e4431820a3e8f5_MD5.png)
 
 ### 2.3 404频率限制[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/global/#23-404)
 
 - 如果某个 IP 的访问一直返回 404 ，则拉黑此 IP
 - 场景：扫描器或者恶意爬虫一直爬你的网站
 
-![img.png](_txtdbpic/15c243c1e24c8dc61e84faea3e7a976d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/15c243c1e24c8dc61e84faea3e7a976d_MD5.png)
 
 ## 3 默认规则[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/global/#3)
 
@@ -3030,19 +3030,19 @@ SQL 注入防御 和 XSS 防御。
 - 可以匹配 URL IP Header Host 的参数，并选择相应的动作
 - 比如可以选择 URL 为 /login 的比如经过人机验证
 
-![img.png](_txtdbpic/60db3a7dcd04d33de3e3214f8ffa36f2_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/60db3a7dcd04d33de3e3214f8ffa36f2_MD5.png)
 
 ### 4.2 文件上传限制[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/global/#42)
 
 可以根据文件后缀限制上传文件的类型。
 
-![img.png](_txtdbpic/d5969a1cbcf4766fc4c76cfa1c3fa41a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d5969a1cbcf4766fc4c76cfa1c3fa41a_MD5.png)
 
 ### 4.3 地区访问限制（✨专业版）[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/global/#43)
 
 可以限制或者仅允许某些地区的访问。
 
-![img.png](_txtdbpic/89903f081dcc88180f395922e4a2b2ff_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/89903f081dcc88180f395922e4a2b2ff_MD5.png)
 
 ### 4.4 CDN[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/global/#44-cdn)
 
@@ -3052,7 +3052,7 @@ SQL 注入防御 和 XSS 防御。
 - 从 Header 列表中获取： 从常用的 CDN 携带真实 IP 的 HTTP Header 中获取，取第一个能获取到的值
 - 获取 X-Forwarded-For 的上一级代理地址：例如：X-Forwarded-For: client,proxy1,proxy2,proxy3 上一级代理会取最后一个 IP proxy3
 
-![img.png](_txtdbpic/6659d7d1e7313c0b67cbcadee78bb634_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6659d7d1e7313c0b67cbcadee78bb634_MD5.png)
 
 ## 5 配置[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/global/#5)
 
@@ -3062,7 +3062,7 @@ SQL 注入防御 和 XSS 防御。
 
 可以自定义拦截页面。
 
-![img.png](_txtdbpic/ce4050aa92afd3f4c055d80f3e20fc6d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ce4050aa92afd3f4c055d80f3e20fc6d_MD5.png)
 
 ### 5.2 恶意 IP 组[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/global/#52-ip)
 
@@ -3081,7 +3081,7 @@ SQL 注入防御 和 XSS 防御。
 网站设置，可以查看并配置某个网站的 WAF 规则。
 包括频率设置 默认规则 自定义规则 等。
 
-![img.png](_txtdbpic/8827ff8d78f211a8f52cc9e14fc199a8_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8827ff8d78f211a8f52cc9e14fc199a8_MD5.png)
 
 ## 1 频率限制[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/site/#1)
 
@@ -3094,7 +3094,7 @@ SQL 注入防御 和 XSS 防御。
 - 全局模式：单位时间请求任意 URL 次数之和超过阈值即触发
 - URL 模式：单位时间请求单个 URL 次数超过阈值即触发
 
-![img.png](_txtdbpic/e74c39cbda22a62221a5bdde9d34128c_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e74c39cbda22a62221a5bdde9d34128c_MD5.png)
 
 ## 2 默认规则[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/site/#2)
 
@@ -3138,19 +3138,19 @@ SQL 注入防御 和 XSS 防御。
 
 根据自己的需求制定 WAF 规则。可以匹配 URL IP Header Host 的参数，并选择相应的动作。比如可以选择 URL 为 /login 的比如经过人机验证。
 
-![img.png](_txtdbpic/60db3a7dcd04d33de3e3214f8ffa36f2_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/60db3a7dcd04d33de3e3214f8ffa36f2_MD5.png)
 
 ## 3.2 文件上传限制[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/site/#32)
 
 可以根据文件后缀限制上传文件的类型。
 
-![img.png](_txtdbpic/d5969a1cbcf4766fc4c76cfa1c3fa41a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d5969a1cbcf4766fc4c76cfa1c3fa41a_MD5.png)
 
 ## 3.3 地区访问限制（✨专业版）[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/site/#33)
 
 可以限制或者仅允许某些地区的访问。
 
-![img.png](_txtdbpic/89903f081dcc88180f395922e4a2b2ff_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/89903f081dcc88180f395922e4a2b2ff_MD5.png)
 
 ## 3.4 CDN[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/waf/site/#34-cdn)
 
@@ -3160,7 +3160,7 @@ SQL 注入防御 和 XSS 防御。
 - 从 Header 列表中获取： 从常用的 CDN 携带真实 IP 的 HTTP Header 中获取，取第一个能获取到的值
 - 获取 X-Forwarded-For 的上一级代理地址：例如：X-Forwarded-For: client,proxy1,proxy2,proxy3 上一级代理会取最后一个 IP proxy3
 
-![img.png](_txtdbpic/6659d7d1e7313c0b67cbcadee78bb634_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6659d7d1e7313c0b67cbcadee78bb634_MD5.png)
 
 
 
@@ -3174,7 +3174,7 @@ SQL 注入防御 和 XSS 防御。
 
 拦截记录 可以查看 WAF 拦截的请求。 可以拉黑 IP、给 URL 加白名单、查看详细信息等。
 
-![img.png](_txtdbpic/8f14fc00b461db90b91878a97d955c4e_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8f14fc00b461db90b91878a97d955c4e_MD5.png)
 
 
 
@@ -3186,7 +3186,7 @@ SQL 注入防御 和 XSS 防御。
 
 封锁记录 可以查看 WAF 临时拉黑的 IP。 可以拉黑或者解封 IP。
 
-![img.png](_txtdbpic/bda66111d4166b4846df85849dd857d5_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bda66111d4166b4846df85849dd857d5_MD5.png)
 
 
 
@@ -3214,7 +3214,7 @@ SQL 注入防御 和 XSS 防御。
 
 在节点概览页面可以查看到当前集群中所有节点的整体状态，包括节点数量、在线状态、资源使用情况、应用分布等统计信息。
 
-![img.png](_txtdbpic/136706b2716933f5438a10fde235f43d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/136706b2716933f5438a10fde235f43d_MD5.png)
 
 ## 3 添加节点[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/node/#3)
 
@@ -3258,19 +3258,19 @@ SQL 注入防御 和 XSS 防御。
   - **自定义应用仓库**
   - **备份账号设置**
 
-![img.png](_txtdbpic/7b184d442eb0fab7efd8e9be0a42c8a9_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7b184d442eb0fab7efd8e9be0a42c8a9_MD5.png)
 
 ### 3.2 可用性检查[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/node/#32)
 
 添加节点前，需要先进性可用性检查，验证网络连通性和认证信息的正确性。只有通过可用性检查的节点才能成功添加。
 
-![img.png](_txtdbpic/d8d98878f354b062d3fd8064115e255f_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d8d98878f354b062d3fd8064115e255f_MD5.png)
 
 ### 3.3 添加节点[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/node/#33)
 
 可用性检查通过后，点击【确定】按钮，完成节点添加。
 
-![img.png](_txtdbpic/c427703c557b634cbf5f1bebfd010ad1_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c427703c557b634cbf5f1bebfd010ad1_MD5.png)
 
 ## 4 节点管理[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/node/#4)
 
@@ -3283,7 +3283,7 @@ SQL 注入防御 和 XSS 防御。
 - **资源使用率**：显示 CPU、内存、磁盘、网络的使用情况
 - **数据同步状态**：显示节点的数据同步状态
 
-![img.png](_txtdbpic/7f5c16206a69b733e916b86327a54f40_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7f5c16206a69b733e916b86327a54f40_MD5.png)
 
 ### 4.2 节点操作[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/node/#42)
 
@@ -3300,21 +3300,21 @@ SQL 注入防御 和 XSS 防御。
 
 节点分组功能允许用户按照业务需求、环境类型或地理位置对节点进行分类管理。
 
-![img.png](_txtdbpic/68a3923c235094ea92c0d622592ace56_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/68a3923c235094ea92c0d622592ace56_MD5.png)
 
 ## 6 节点切换[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/node/#6)
 
 在面板管理页面左下角，显示当前节点信息，点击节点名称，可以切换到其他节点。后续进行的所有操作，例如应用部署、网站管理等，都会在当前节点上进行。
 
-![img.png](_txtdbpic/9439cb727861d32b86a3c399f107583c_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9439cb727861d32b86a3c399f107583c_MD5.png)
 
 ## 7 故障处理[⚓︎](https://1panel.cn/docs/v2/user_manual/xpack/node/#7)
 
-![img.png](_txtdbpic/2b25291bd26ce08cf7bcc66040a0bad9_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2b25291bd26ce08cf7bcc66040a0bad9_MD5.png)
 
 当节点状态异常时，可以点击节点列表状态列上的异常图标，查看异常原因。
 
-![img.png](_txtdbpic/e3304aa2aa2be4cb92df65a44b8a84cf_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e3304aa2aa2be4cb92df65a44b8a84cf_MD5.png)
 
 
 
@@ -3391,19 +3391,19 @@ SQL 注入防御 和 XSS 防御。
 
 用于记录用户在 1Panel 上进行的操作。
 
-![面板日志-操作日志](_txtdbpic/944b48d3db769991330f5a0fdeecaa5e_MD5.png)
+![面板日志-操作日志](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/944b48d3db769991330f5a0fdeecaa5e_MD5.png)
 
 ### 1.2 访问日志[⚓︎](https://1panel.cn/docs/v2/user_manual/logs/#12)
 
 用于记录 1Panel 控制台的访问日志。
 
-![面板日志-访问日志](_txtdbpic/b00e9e4339220d60d870d106ab8bf65e_MD5.png)
+![面板日志-访问日志](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b00e9e4339220d60d870d106ab8bf65e_MD5.png)
 
 ### 1.3 系统日志[⚓︎](https://1panel.cn/docs/v2/user_manual/logs/#13)
 
 用于记录 1Panel 服务的运行日志，可用于开发人员等快速定位问题。
 
-![面板日志-系统日志](_txtdbpic/da8f7d4cb69c41d4e1ba1966131449f6_MD5.png)
+![面板日志-系统日志](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/da8f7d4cb69c41d4e1ba1966131449f6_MD5.png)
 
 ## 2 登录日志[⚓︎](https://1panel.cn/docs/v2/user_manual/logs/#2)
 
@@ -3415,15 +3415,15 @@ SQL 注入防御 和 XSS 防御。
 
 当需要清理登录日志时，可以手动删除上述文件中的历史内容。
 
-![登录日志](_txtdbpic/b035ea177b75951f1c972877b675242f_MD5.png)
+![登录日志](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b035ea177b75951f1c972877b675242f_MD5.png)
 
 ## 3 网站日志[⚓︎](https://1panel.cn/docs/v2/user_manual/logs/#3)
 
 用于查看在 1Panel 上创建的各个网站的日志，分为运行日志和错误日志，可以用于排查网站的访问问题。
 
-![img.png](_txtdbpic/632f809e9fceb0f9dd22d74776b498fa_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/632f809e9fceb0f9dd22d74776b498fa_MD5.png)
 
-![img.png](_txtdbpic/f177ae597039a50f2e3cdb1d1e06bdc7_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f177ae597039a50f2e3cdb1d1e06bdc7_MD5.png)
 
 
 
@@ -3453,7 +3453,7 @@ SQL 注入防御 和 XSS 防御。
 - 预览体验计划：开启后可以获取到 1Panel 的预览版本，以分享有关新功能和更新的反馈
 - 高级功能菜单隐藏：控制是否在左侧菜单中显示高级功能菜单项
 
-![img.png](_txtdbpic/32038177656f051de0e8cd1e548e5c7c_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/32038177656f051de0e8cd1e548e5c7c_MD5.png)
 
 ## 2 安全[⚓︎](https://1panel.cn/docs/v2/user_manual/settings/#2)
 
@@ -3471,7 +3471,7 @@ SQL 注入防御 和 XSS 防御。
 - 密码复杂度校验： 开启后，账户密码必须长度大于 8 位，且包含数字、字母及特殊字符，如 Password@2023
 - 两步校验： 开启 MFA 登录验证，登录时输入用户名密码后，需要手机或者浏览器扫描二维码完成登录，提升系统安全等级
 
-![img.png](_txtdbpic/c769e82424b7ae81cbb248955c959dfd_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c769e82424b7ae81cbb248955c959dfd_MD5.png)
 
 注意
 
@@ -3545,37 +3545,37 @@ Use "1panel update [command] --help" for more information about a command.
 
 （2）点击新注册，并填写注册信息，其中的重定向 URI 作为 重定向 Url 参数。
 
-![img.png](_txtdbpic/95a2b33382c139ee46e040b61420f690_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/95a2b33382c139ee46e040b61420f690_MD5.png)
 
 （3）主页上的 应用程序(客户端) ID 作为客户端 ID。
 
-![img.png](_txtdbpic/906df365a630d23c519122f4ea91fe90_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/906df365a630d23c519122f4ea91fe90_MD5.png)
 
 （4）在【证书和密码】页面新建客户端密码，填写相关信息，生成的值作为客户端密钥。
 
-![img.png](_txtdbpic/19c5838996cf82cbc9f3470c4740dd56_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/19c5838996cf82cbc9f3470c4740dd56_MD5.png)
 
 （5）在【API 权限】页面选择需要的权限，添加权限，Microsoft Graph，委托的权限，勾选 Files.ReadWrite All、offline_access、User.Read，这将作为 scope 传递。
 
-![img.png](_txtdbpic/0d7d5941cc984a6fb55bf45bfa56a765_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0d7d5941cc984a6fb55bf45bfa56a765_MD5.png)
 
 ### 3.3 OneDrive 账号绑定[⚓︎](https://1panel.cn/docs/v2/user_manual/settings/#33-onedrive)
 
 （1）点击 OneDrive 授权码获取按钮。
 
-![img.png](_txtdbpic/83bf833832c8159731da9c552097c306_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/83bf833832c8159731da9c552097c306_MD5.png)
 
 （2）输入 Onedrive 账号信息。
 
-![img.png](_txtdbpic/94ef07d9008d5d37484bf5e1b41fdbf9_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/94ef07d9008d5d37484bf5e1b41fdbf9_MD5.png)
 
 （3）信任 1panel 服务。
 
-![img.png](_txtdbpic/d7e8e2201c593dd7657155d030d41868_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d7e8e2201c593dd7657155d030d41868_MD5.png)
 
 （4）复制授权码到 1Panel 授权码输入框 (注意不要包含 &session_state=xxx 部分)。
 
-![img.png](_txtdbpic/4b02770e668982ab63b8e916d70577bd_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4b02770e668982ab63b8e916d70577bd_MD5.png)
 
 ### 3.4 阿里云盘账号绑定[⚓︎](https://1panel.cn/docs/v2/user_manual/settings/#34)
 
@@ -3583,11 +3583,11 @@ Use "1panel update [command] --help" for more information about a command.
 
 （2）右键检查或者 F12 打开浏览器调试模式，找到 token 信息，复制值。
 
-![img.png](_txtdbpic/4066e1632d33e4c50f66d80f86d5a91b_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4066e1632d33e4c50f66d80f86d5a91b_MD5.png)
 
 （3）将复制的值粘贴到 1 处，点击解析，自动解析出 3 和 4 输入框的值，修改备份目录后点击确认即可。
 
-![img.png](_txtdbpic/eec925261e48d220387979da47b1e13d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eec925261e48d220387979da47b1e13d_MD5.png)
 
 ### 3.5 谷歌云盘账号绑定[⚓︎](https://1panel.cn/docs/v2/user_manual/settings/#35)
 
@@ -3601,35 +3601,35 @@ Use "1panel update [command] --help" for more information about a command.
 
 （2）点击创建项目，并填写项目名称。
 
-![img.png](_txtdbpic/99f79a1f691ef4d432a865cf7fc431eb_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/99f79a1f691ef4d432a865cf7fc431eb_MD5.png)
 
 （3）配置 Google Auth Platform，受众群体选择外部。
 
-![img.png](_txtdbpic/40cbc61380f2c9ab2dc9f4fbfc5fbe7d_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/40cbc61380f2c9ab2dc9f4fbfc5fbe7d_MD5.png)
 
 （4）创建 OAuth 客户端，应用类型选择 Web应用，添加重定向地址 [https://localhost:8080](https://localhost:8080/)，创建。
 
-![img.png](_txtdbpic/d06eff2b00c2f819b5eebb4b618b8e75_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d06eff2b00c2f819b5eebb4b618b8e75_MD5.png)
 
 （5）复制对应的客户端 ID 以及客户端密钥。
 
-![img.png](_txtdbpic/c81c0095365aa6b11344fcf14d68551f_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c81c0095365aa6b11344fcf14d68551f_MD5.png)
 
 （6）发布应用
 
-![img.png](_txtdbpic/d05da3a953a3f98d3433924f05a0565c_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d05da3a953a3f98d3433924f05a0565c_MD5.png)
 
 （7）启用 google drive API
 
-![img.png](_txtdbpic/7c19c4da99663a72dbdcefbfddab00fd_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7c19c4da99663a72dbdcefbfddab00fd_MD5.png)
 
 （8）点击授权码的获取按钮，登陆谷歌账号，跳转至 1Panel 应用，完成登陆。
 
-![img.png](_txtdbpic/529b16f459ba3a58dcf7f98c3939471f_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/529b16f459ba3a58dcf7f98c3939471f_MD5.png)
 
 （9）完成授权后继续跳转，在浏览器地址中复制授权码（注意！这里只需要复制 code 的值），粘贴复制的授权码到授权码输入框中，修改备份目录后点击确认即可
 
-![img.png](_txtdbpic/f28a112d5c2d00db4018e18f8a624c43_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f28a112d5c2d00db4018e18f8a624c43_MD5.png)
 
 ### 3.6 WebDAV 连接 AList[⚓︎](https://1panel.cn/docs/v2/user_manual/settings/#36-webdav-alist)
 
@@ -3637,11 +3637,11 @@ Use "1panel update [command] --help" for more information about a command.
 
 （2）存储 菜单中添加对应的存储，记住该路径。
 
-![img.png](_txtdbpic/49b87857e505d291a05eab577917dc4a_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/49b87857e505d291a05eab577917dc4a_MD5.png)
 
 （3）1Panel 备份账号中，添加 WebDAV 类型的备份账号。地址参数填写 `${2步骤中的地址}/dav`，备份目录参数填写 `/${2步骤中的存储路径}/xxx`，如此处可以使用 `/tmp/sftp/1panel`，完成绑定。
 
-![img.png](_txtdbpic/b1b70551c5fbfcdc52c72c3c22a7edc5_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b1b70551c5fbfcdc52c72c3c22a7edc5_MD5.png)
 
 ### 3.7 部分对象存储服务商与亚马逊 S3 云存储的兼容性[⚓︎](https://1panel.cn/docs/v2/user_manual/settings/#37-s3)
 
@@ -3674,7 +3674,7 @@ Use "1panel update [command] --help" for more information about a command.
 - 1pctl 命令行工具，路径为 /usr/local/bin/1pctl
 - 1panel.service 路径为 /etc/systemd/system/1panel.service
 
-![img.png](_txtdbpic/63bd22bb4983ab1ba16c9fc4e42e30fe_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/63bd22bb4983ab1ba16c9fc4e42e30fe_MD5.png)
 
 - 创建和同步快照只支持选择第三方账号
 - 快照恢复过程中，将对恢复前数据进行备份，默认的备份路径为 [安装目录]/original_[快照名]
@@ -3690,14 +3690,14 @@ Use "1panel update [command] --help" for more information about a command.
 
 用户可以添加多个专业许可证，每个专业版许可证可以绑定一个节点将其激活为专业版节点，同时可以绑定多个社区版节点
 
-![img.png](_txtdbpic/6093a86cd947cb78634a2b0cd3869254_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6093a86cd947cb78634a2b0cd3869254_MD5.png)
 
 ## 6 关于[⚓︎](https://1panel.cn/docs/v2/user_manual/settings/#6)
 
 - 支持检查 1Panel 服务是否存在新版本，更新将替换 1panel 二进制文件、1pctl 命令行工具以及 1panel.service 文件
 - 更新失败时，将回滚所有更新内容到更新前的状态，如更新后发现版本信息没有发生变化，则更新失败，可在【面板日志 - 系统日志】中查看失败原因，解决后重新完成更新操作
 
-![img.png](_txtdbpic/6d842f10af9c7addd1e4ae89f94577a1_MD5.png)
+![img.png](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d842f10af9c7addd1e4ae89f94577a1_MD5.png)
 
 
 
@@ -3713,13 +3713,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 OpenResty 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/openresty/#2-openresty)
 
 在右上角搜索框输入 **OpenResty**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251022205345484](_txtdbpic/b5947686e31e5b25249dadbef76968ca_MD5.png)
+![image-20251022205345484](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b5947686e31e5b25249dadbef76968ca_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/openresty/#3)
 
@@ -3733,7 +3733,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确定** 按钮开始安装。
 
-![image-20251022205428034](_txtdbpic/73c5e848fb4b0b0628caa80bd5dc985d_MD5.png)
+![image-20251022205428034](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/73c5e848fb4b0b0628caa80bd5dc985d_MD5.png)
 
 ## 4. 查看运行状态[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/openresty/#4)
 
@@ -3748,13 +3748,13 @@ Use "1panel update [command] --help" for more information about a command.
 - **进入容器终端**：在容器内执行命令
 - **备份 / 恢复**：对应用数据进行备份和恢复
 
-![image-20251022205720006](_txtdbpic/18be0ab84039308a8cce52f24eb19bbc_MD5.png)
+![image-20251022205720006](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/18be0ab84039308a8cce52f24eb19bbc_MD5.png)
 
 ## 5. 使用 OpenResty[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/openresty/#5-openresty)
 
 进入 1Panel 左侧的 **网站** 菜单，即可创建新网站并使用 OpenResty 服务。
 
-![image-20251022205757786](_txtdbpic/7b0c2b3d02a5b05b698ab39f72192e55_MD5.png)
+![image-20251022205757786](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7b0c2b3d02a5b05b698ab39f72192e55_MD5.png)
 
 
 
@@ -3772,13 +3772,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 MySQL 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/mysql/#2-mysql)
 
 在右上角搜索框输入 **MySQL**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251016110903786](_txtdbpic/dc3485b635bdb3ecba8ad70a47f9db82_MD5.png)
+![image-20251016110903786](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dc3485b635bdb3ecba8ad70a47f9db82_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/mysql/#3)
 
@@ -3792,7 +3792,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![img](_txtdbpic/aea9a7dbc1b43df81e538115d419ab26_MD5.png)
+![img](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/aea9a7dbc1b43df81e538115d419ab26_MD5.png)
 
 等待安装完成即可
 
@@ -3800,7 +3800,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 安装完成后，点击左侧菜单的 **「数据库」**。
 
-![image-20251016112506720](_txtdbpic/04f253ad546d5b0cca60eac95e68045e_MD5.png)
+![image-20251016112506720](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/04f253ad546d5b0cca60eac95e68045e_MD5.png)
 
 选择 **创建数据库** 根据需要修改相关信息
 
@@ -3809,17 +3809,17 @@ Use "1panel update [command] --help" for more information about a command.
 - **密码**（默认随机生成）
 - **权限**（可选所有人或指定IP） 确认配置无误后，点击 **确认** 按钮开始创建。
 
-![image-20251016113634840](_txtdbpic/4e28b7609003c13b1674a79924a05f3a_MD5.png)
+![image-20251016113634840](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4e28b7609003c13b1674a79924a05f3a_MD5.png)
 
 ## 5. 连接 MySQL 数据库[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/mysql/#5-mysql)
 
 获取数据库配置信息
 
-![image-20251016114303123](_txtdbpic/75d9b1be1a8204b2fa492c5850d44d04_MD5.png)
+![image-20251016114303123](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/75d9b1be1a8204b2fa492c5850d44d04_MD5.png)
 
 使用本地工具连接数据库
 
-![image-20251016114547646](_txtdbpic/7853964cf6297ec0093953a341886828_MD5.png)
+![image-20251016114547646](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7853964cf6297ec0093953a341886828_MD5.png)
 
 
 
@@ -3835,13 +3835,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 Redis 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/redis/#2-redis)
 
 在右上角搜索框输入 **Redis**，选择第一个，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251016141645215](_txtdbpic/fa7ec5e1076cc9388b8ae4149f017871_MD5.png)
+![image-20251016141645215](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fa7ec5e1076cc9388b8ae4149f017871_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/redis/#3)
 
@@ -3855,7 +3855,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251016141905753](_txtdbpic/064840e1106a2e269379d1afde52e9e8_MD5.png)
+![image-20251016141905753](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/064840e1106a2e269379d1afde52e9e8_MD5.png)
 
 等待安装完成即可
 
@@ -3863,15 +3863,15 @@ Use "1panel update [command] --help" for more information about a command.
 
 点击左侧菜单的 **「数据库」** 选择Redis，即可输入命令
 
-![image-20251016142801288](_txtdbpic/4700c18a4fcbcda3017583c14329c257_MD5.png)
+![image-20251016142801288](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4700c18a4fcbcda3017583c14329c257_MD5.png)
 
 使用工具进行连接。点击 **连接信息** 获取连接配置
 
-![image-20251016143234658](_txtdbpic/fe07c9dac80ca469b3815a3a90d37cec_MD5.png)
+![image-20251016143234658](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fe07c9dac80ca469b3815a3a90d37cec_MD5.png)
 
 本地输入连接信息进行连接
 
-![image-20251016144637758](_txtdbpic/09aaa00e126fb785c5fe6dbf53f6c548_MD5.png)
+![image-20251016144637758](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/09aaa00e126fb785c5fe6dbf53f6c548_MD5.png)
 
 
 
@@ -3887,13 +3887,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 AList 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/alist/#2-alist)
 
 在右上角搜索框输入 **AList**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251017093725067](_txtdbpic/c2455eb26434711a5479f43cab476c9a_MD5.png)
+![image-20251017093725067](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c2455eb26434711a5479f43cab476c9a_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/alist/#3)
 
@@ -3907,7 +3907,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251017095132628](_txtdbpic/0c7467d73c429c7bd5fcb9de193477b9_MD5.png)
+![image-20251017095132628](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0c7467d73c429c7bd5fcb9de193477b9_MD5.png)
 
 等待安装完成即可
 
@@ -3915,26 +3915,26 @@ Use "1panel update [command] --help" for more information about a command.
 
 安装完成后，确认 1Panel 配置默认访问地址，已配置过可忽略
 
-![image-20251016172322315](_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
+![image-20251016172322315](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
 
 点击左侧菜单的 **容器** ，找到 AList 容器，点击终端
 
-![image-20251017101043569](_txtdbpic/32007ae5a6843998740fd0b27c0324bd_MD5.png)
+![image-20251017101043569](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/32007ae5a6843998740fd0b27c0324bd_MD5.png)
 
 连接终端，生成密码，可选两种方式
 
 - **生成随机密码**：./alist admin random
 - **手动设置密码**：./alist admin set NEW_PASSWORD
 
-![image-20251017101434307](_txtdbpic/696505d080d2df2f1b090b3cf521bc1a_MD5.png)
+![image-20251017101434307](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/696505d080d2df2f1b090b3cf521bc1a_MD5.png)
 
 返回应用商店，点击 **跳转** 即可访问 AList 服务
 
-![image-20251017101728523](_txtdbpic/8c6ef69853d08e9e90b2ac6f0074a1db_MD5.png)
+![image-20251017101728523](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/8c6ef69853d08e9e90b2ac6f0074a1db_MD5.png)
 
 输入生成的密码即可
 
-![image-20251017101943414](_txtdbpic/a7c50305b2a108547fab2c32cdbc8e1c_MD5.png)
+![image-20251017101943414](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a7c50305b2a108547fab2c32cdbc8e1c_MD5.png)
 
 
 
@@ -3952,13 +3952,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 WordPress 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/wordpress/#2-wordpress)
 
 在右上角搜索框输入 **WordPress**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251017154851362](_txtdbpic/a5a7b6a945cf512225ec966b3f3ea4a3_MD5.png)
+![image-20251017154851362](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a5a7b6a945cf512225ec966b3f3ea4a3_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/wordpress/#3)
 
@@ -3975,7 +3975,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251017155548615](_txtdbpic/6a0fd9c8e74affa59d5acd04740a8154_MD5.png)
+![image-20251017155548615](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6a0fd9c8e74affa59d5acd04740a8154_MD5.png)
 
 等待安装完成即可
 
@@ -3983,19 +3983,19 @@ Use "1panel update [command] --help" for more information about a command.
 
 配置默认访问地址，已配置则忽略此步骤
 
-![image-20251016172322315](_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
+![image-20251016172322315](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
 
 返回应用商店，点击 **跳转** 即可访问 WordPress 服务
 
-![image-20251017155825666](_txtdbpic/4d5875a21fc56e9cd4c7bce95c630a39_MD5.png)
+![image-20251017155825666](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/4d5875a21fc56e9cd4c7bce95c630a39_MD5.png)
 
 设置配置信息，完成初始化
 
-![image-20251017155933483](_txtdbpic/b321915f8cca348878e50dfaf7778a3d_MD5.png)
+![image-20251017155933483](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b321915f8cca348878e50dfaf7778a3d_MD5.png)
 
 输入用户名密码登录，即可使用
 
-![image-20251017160433777](_txtdbpic/6e02a97cac8ba89acca0472c6814ddb3_MD5.png)
+![image-20251017160433777](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6e02a97cac8ba89acca0472c6814ddb3_MD5.png)
 
 
 
@@ -4011,13 +4011,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 phpMyAdmin 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/phpmyadmin/#2-phpmyadmin)
 
 在右上角搜索框输入 **phpMyAdmin**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251016175101288](_txtdbpic/c43a644c937ce17a0b86cff82ae17bdb_MD5.png)
+![image-20251016175101288](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c43a644c937ce17a0b86cff82ae17bdb_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/phpmyadmin/#3)
 
@@ -4030,7 +4030,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251016175326474](_txtdbpic/fe394ad58e0f9bc81690711e4ccb89f3_MD5.png)
+![image-20251016175326474](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fe394ad58e0f9bc81690711e4ccb89f3_MD5.png)
 
 等待安装完成即可
 
@@ -4038,15 +4038,15 @@ Use "1panel update [command] --help" for more information about a command.
 
 安装完成后，确认 1Panel 配置默认访问地址
 
-![image-20251016172322315](_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
+![image-20251016172322315](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
 
 返回应用商店，点击 **跳转** 即可访问 phpMyAdmin 服务
 
-![image-20251016175944497](_txtdbpic/c7b81c7e4c6ce2c5ae8c4f16c2032376_MD5.png)
+![image-20251016175944497](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c7b81c7e4c6ce2c5ae8c4f16c2032376_MD5.png)
 
 输入需要管理的数据库信息即可
 
-![image-20251016180107079](_txtdbpic/799b78e89f4557a979a9a5d23fd40512_MD5.png)
+![image-20251016180107079](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/799b78e89f4557a979a9a5d23fd40512_MD5.png)
 
 
 
@@ -4064,13 +4064,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 Ollama 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/ollama/#2-ollama)
 
 在右上角搜索框输入 **Ollama**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251017163039229](_txtdbpic/2df0b489b6f169ac5267dbf6a627e190_MD5.png)
+![image-20251017163039229](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2df0b489b6f169ac5267dbf6a627e190_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/ollama/#3)
 
@@ -4083,7 +4083,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251017163107970](_txtdbpic/70eed2de6791267d8152ee72e7931531_MD5.png)
+![image-20251017163107970](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/70eed2de6791267d8152ee72e7931531_MD5.png)
 
 等待安装完成即可
 
@@ -4091,19 +4091,19 @@ Use "1panel update [command] --help" for more information about a command.
 
 配置默认访问地址，已配置则忽略此步骤
 
-![image-20251016172322315](_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
+![image-20251016172322315](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
 
 返回应用商店，点击 **跳转** 即可访问 Ollama 服务
 
-![image-20251017171351530](_txtdbpic/fe94e1f52dd9f4d608cab3d34bfbde16_MD5.png)
+![image-20251017171351530](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/fe94e1f52dd9f4d608cab3d34bfbde16_MD5.png)
 
 访问页面，可以看到 `Ollama is running` 表示搭建成功
 
-![image-20251017171445095](_txtdbpic/6b7d5a58f5527575e247a728de8192e2_MD5.png)
+![image-20251017171445095](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6b7d5a58f5527575e247a728de8192e2_MD5.png)
 
 点击 **终端** 连接ollama，使用命令控制
 
-![image-20251017171937567](_txtdbpic/faa9ab1ee4087fd550c644c2bf5b4817_MD5.png)
+![image-20251017171937567](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/faa9ab1ee4087fd550c644c2bf5b4817_MD5.png)
 
 
 
@@ -4119,13 +4119,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 frp 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/frp/#2-frp)
 
 在右上角搜索框输入 **frp**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251022210133411](_txtdbpic/d3ac7ae9611b1a41fdfbaba92a84d17f_MD5.png)
+![image-20251022210133411](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d3ac7ae9611b1a41fdfbaba92a84d17f_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/frp/#3)
 
@@ -4141,7 +4141,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251022210239559](_txtdbpic/89609d0056dbb7fc4813d8c8a7a8f657_MD5.png)
+![image-20251022210239559](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/89609d0056dbb7fc4813d8c8a7a8f657_MD5.png)
 
 等待安装完成即可
 
@@ -4149,23 +4149,23 @@ Use "1panel update [command] --help" for more information about a command.
 
 配置默认访问地址，已配置则忽略此步骤
 
-![image-20251016172322315](_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
+![image-20251016172322315](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
 
 返回应用商店，点击 **跳转** 即可访问 frp web 服务
 
-![image-20251022210650881](_txtdbpic/c92673623e35ecd4815ee6c5f85a3df8_MD5.png)
+![image-20251022210650881](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c92673623e35ecd4815ee6c5f85a3df8_MD5.png)
 
 输入账户密码即可
 
-![image-20251022210723926](_txtdbpic/6da9d38dc8709c656bdc457e67e1e2a2_MD5.png)
+![image-20251022210723926](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6da9d38dc8709c656bdc457e67e1e2a2_MD5.png)
 
 如需修改配置，首先进入安装目录
 
-![image-20251022210836670](_txtdbpic/e381265511db62688333093378a70db4_MD5.png)
+![image-20251022210836670](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e381265511db62688333093378a70db4_MD5.png)
 
 修改frp配置文件即可
 
-![image-20251022210951332](_txtdbpic/9900da3237c1eafe8ebfc2da477599d5_MD5.png)
+![image-20251022210951332](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9900da3237c1eafe8ebfc2da477599d5_MD5.png)
 
 
 
@@ -4181,13 +4181,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 ddns-go 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/ddns-go/#2-ddns-go)
 
 在右上角搜索框输入 **ddns-go**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251020154143141](_txtdbpic/e8b7f8d8e64471d9c0174a37aa63ec0d_MD5.png)
+![image-20251020154143141](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/e8b7f8d8e64471d9c0174a37aa63ec0d_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/ddns-go/#3)
 
@@ -4199,7 +4199,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251020155257247](_txtdbpic/9c7a5ad0c4b2a49e9081d99afb1e0cf5_MD5.png)
+![image-20251020155257247](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/9c7a5ad0c4b2a49e9081d99afb1e0cf5_MD5.png)
 
 等待安装完成即可
 
@@ -4207,15 +4207,15 @@ Use "1panel update [command] --help" for more information about a command.
 
 安装完成后，确认 1Panel 配置默认访问地址，已配置过可忽略
 
-![image-20251016172322315](_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
+![image-20251016172322315](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
 
 返回应用商店，点击 **跳转** 即可访问 ddns-go 服务
 
-![image-20251020154839215](_txtdbpic/97c4b42e4857d73f4ab2ebfc310ef262_MD5.png)
+![image-20251020154839215](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/97c4b42e4857d73f4ab2ebfc310ef262_MD5.png)
 
 首次登录需配置管理员账号
 
-![image-20251020154950622](_txtdbpic/c08de0a7a0dd31cc85cec6236593991a_MD5.png)
+![image-20251020154950622](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/c08de0a7a0dd31cc85cec6236593991a_MD5.png)
 
 
 
@@ -4231,13 +4231,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 RustDesk 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/rustdesk/#2-rustdesk)
 
 在右上角搜索框输入 **RustDesk**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251021135819982](_txtdbpic/376c3cc13bbb049d9d530ff69250de52_MD5.png)
+![image-20251021135819982](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/376c3cc13bbb049d9d530ff69250de52_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/rustdesk/#3)
 
@@ -4255,7 +4255,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251021140057677](_txtdbpic/b792ff97dcab53124bb0d49885f52cf8_MD5.png)
+![image-20251021140057677](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b792ff97dcab53124bb0d49885f52cf8_MD5.png)
 
 等待安装完成即可
 
@@ -4263,27 +4263,27 @@ Use "1panel update [command] --help" for more information about a command.
 
 点击参数获取配置信息
 
-![image-20251021142500835](_txtdbpic/6b90477f364f63b5476b2cb041788a94_MD5.png)
+![image-20251021142500835](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6b90477f364f63b5476b2cb041788a94_MD5.png)
 
 进入安装目录
 
-![image-20251021142617880](_txtdbpic/ce601abbcdcad9bf8644a9c5e6256c74_MD5.png)
+![image-20251021142617880](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ce601abbcdcad9bf8644a9c5e6256c74_MD5.png)
 
 根据找到对应的 pub 文件，获取key
 
-![image-20251021142841367](_txtdbpic/dee0cccb374298ce7dbb05099a5ad71e_MD5.png)
+![image-20251021142841367](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dee0cccb374298ce7dbb05099a5ad71e_MD5.png)
 
 下载客户端https://github.com/rustdesk/rustdesk/releases，下载后，打开客户端，进入设置选择中继服务器
 
-![image-20251021141554097](_txtdbpic/158f9ba082d75c52f0545388a5642ea4_MD5.png)
+![image-20251021141554097](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/158f9ba082d75c52f0545388a5642ea4_MD5.png)
 
 填入对应的信息
 
-![image-20251021142939475](_txtdbpic/6b40f42c09059c50588437af00985e91_MD5.png)
+![image-20251021142939475](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6b40f42c09059c50588437af00985e91_MD5.png)
 
 在另外一台主机的客户端，也填入相同的信息，输入连接信息远程连接即可
 
-![image-20251021143340226](_txtdbpic/62269cdcbffcf8683781945574603b1e_MD5.png)
+![image-20251021143340226](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/62269cdcbffcf8683781945574603b1e_MD5.png)
 
 
 
@@ -4299,13 +4299,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 MinIO 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/minio/#2-minio)
 
 在右上角搜索框输入 **MinIO**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251016165333807](_txtdbpic/1924103691de18d195eb121bbb9379d4_MD5.png)
+![image-20251016165333807](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1924103691de18d195eb121bbb9379d4_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/minio/#3)
 
@@ -4324,7 +4324,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251016170535427](_txtdbpic/ad454c2474d8d40bfda0298eebe06d4d_MD5.png)
+![image-20251016170535427](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ad454c2474d8d40bfda0298eebe06d4d_MD5.png)
 
 等待安装完成即可
 
@@ -4332,23 +4332,23 @@ Use "1panel update [command] --help" for more information about a command.
 
 安装完成后，获取 MinIO 配置信息，点击 **已安装** 选择 **参数**
 
-![image-20251016171810134](_txtdbpic/ad6d47ef15ad7b2a6a825aa9493dbe4c_MD5.png)
+![image-20251016171810134](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/ad6d47ef15ad7b2a6a825aa9493dbe4c_MD5.png)
 
 得到配置信息
 
-![image-20251016172011132](_txtdbpic/1f8edb77b5f1337ef618c34a62e0e2fe_MD5.png)
+![image-20251016172011132](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/1f8edb77b5f1337ef618c34a62e0e2fe_MD5.png)
 
 配置默认访问地址
 
-![image-20251016172322315](_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
+![image-20251016172322315](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/6d62d3f0ed66130c9ceb43c5373908dd_MD5.png)
 
 返回应用商店，点击 **跳转** 即可访问 MinIO 服务
 
-![image-20251016172526853](_txtdbpic/3ed58e6c1cc69c0ef6b15d253144bbdc_MD5.png)
+![image-20251016172526853](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/3ed58e6c1cc69c0ef6b15d253144bbdc_MD5.png)
 
 输入上面得到的 **用户名和密码** ，进入 **MinIO Web 服务**
 
-![image-20251016173115776](_txtdbpic/b1be418cdb8a13b278def9f981ab3c58_MD5.png)
+![image-20251016173115776](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b1be418cdb8a13b278def9f981ab3c58_MD5.png)
 
 
 
@@ -4364,13 +4364,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 Bitwarden 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/bitwarden/#2-bitwarden)
 
 在右上角搜索框输入 **Bitwarden**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251020154143141](_txtdbpic/afcb74d86c6b347fe281caebd996b59d_MD5.png)
+![image-20251020154143141](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/afcb74d86c6b347fe281caebd996b59d_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/bitwarden/#3)
 
@@ -4383,7 +4383,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251020154143141](_txtdbpic/f4f9303d5c9f3805d7823818ee7d998d_MD5.png)
+![image-20251020154143141](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/f4f9303d5c9f3805d7823818ee7d998d_MD5.png)
 
 等待安装完成即可
 
@@ -4391,37 +4391,37 @@ Use "1panel update [command] --help" for more information about a command.
 
 注意 Bitwarden 需要配置 SSL证书访问，直接访问会一直转圈
 
-![image-20251021103933402](_txtdbpic/92366ea0db2cfc13eafa02fddd577ec9_MD5.png)
+![image-20251021103933402](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/92366ea0db2cfc13eafa02fddd577ec9_MD5.png)
 
 点击左侧菜单的网站，选择创建网站
 
-![image-20251021104405151](_txtdbpic/bb60c48dd7105e08ec97c59614d55f94_MD5.png)
+![image-20251021104405151](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/bb60c48dd7105e08ec97c59614d55f94_MD5.png)
 
 点击反向代理
 
-![image-20251021104522152](_txtdbpic/0d697bc875f9d3c87d1cba9e9b6493cd_MD5.png)
+![image-20251021104522152](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0d697bc875f9d3c87d1cba9e9b6493cd_MD5.png)
 
 输入反向代理后的域名和端口，应用选择 Bitwarden，点击确认
 
-![image-20251021111122113](_txtdbpic/78b7c3010293c0c14a012f93a78d522e_MD5.png)
+![image-20251021111122113](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/78b7c3010293c0c14a012f93a78d522e_MD5.png)
 
 网站创建成功后，点击配置
 
-![image-20251021110218133](_txtdbpic/d9888ed4c53697bf56aab97df01cf091_MD5.png)
+![image-20251021110218133](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/d9888ed4c53697bf56aab97df01cf091_MD5.png)
 
 左侧选择 HTTPS ，启用 HTTPS
 
-![image-20251021110452921](_txtdbpic/52c77a8a5f6325fe400b18fbf1c653a3_MD5.png)
+![image-20251021110452921](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/52c77a8a5f6325fe400b18fbf1c653a3_MD5.png)
 
 导入你的证书，或者选择已有证书，配置好后点击保存即可
 
-![image-20251021110637134](_txtdbpic/a9e963592ef1468f1c0275f16339236d_MD5.png)
+![image-20251021110637134](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a9e963592ef1468f1c0275f16339236d_MD5.png)
 
 ## 5. 访问 Bitwarden 服务[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/bitwarden/#5-bitwarden)
 
 访问反向代理的域名和端口地址即可
 
-![image-20251021112440459](_txtdbpic/7c2173885566dc54c05d9945ca29344a_MD5.png)
+![image-20251021112440459](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/7c2173885566dc54c05d9945ca29344a_MD5.png)
 
 
 
@@ -4439,13 +4439,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 MongoDB 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/mongodb/#2-mongodb)
 
 在右上角搜索框输入 **MongoDB**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251016155319717](_txtdbpic/dd4fcea23f690571c8356755ee511154_MD5.png)
+![image-20251016155319717](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/dd4fcea23f690571c8356755ee511154_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/mongodb/#3)
 
@@ -4459,7 +4459,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251016155828329](_txtdbpic/0f84da1cc60b96075d7dabd229550028_MD5.png)
+![image-20251016155828329](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/0f84da1cc60b96075d7dabd229550028_MD5.png)
 
 等待安装完成即可
 
@@ -4467,15 +4467,15 @@ Use "1panel update [command] --help" for more information about a command.
 
 安装完成后，获取 MongoDB 配置信息，点击 **已安装** 选择 **参数**
 
-![image-20251016162420157](_txtdbpic/000331a062ae1902ccbd487609fd1d93_MD5.png)
+![image-20251016162420157](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/000331a062ae1902ccbd487609fd1d93_MD5.png)
 
 得到配置信息
 
-![image-20251016162604193](_txtdbpic/b704f82d1f25242e1744ea8a6cd2fb07_MD5.png)
+![image-20251016162604193](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/b704f82d1f25242e1744ea8a6cd2fb07_MD5.png)
 
 使用本地工具连接 MongoDB
 
-![image-20251016162737239](_txtdbpic/feb638705e52649092713d8adcc598a0_MD5.png)
+![image-20251016162737239](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/feb638705e52649092713d8adcc598a0_MD5.png)
 
 
 
@@ -4491,13 +4491,13 @@ Use "1panel update [command] --help" for more information about a command.
 
 进入 1Panel 控制台后，点击左侧菜单的 **「应用商店」**。
 
-![image-20251016110510084](_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
+![image-20251016110510084](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/eeb13f4d4408b6065a4153b6566df73f_MD5.png)
 
 ## 2. 搜索 Nextcloud 并安装[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/nextcloud/#2-nextcloud)
 
 在右上角搜索框输入 **Nextcloud**，点击应用卡片进入详情页，选择 **安装**。
 
-![image-20251017113630514](_txtdbpic/a792d1bfadbac0e6e37f285f6697a140_MD5.png)
+![image-20251017113630514](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a792d1bfadbac0e6e37f285f6697a140_MD5.png)
 
 ## 3. 配置安装参数[⚓︎](https://1panel.cn/docs/v2/user_manual/appstore/nextcloud/#3)
 
@@ -4511,7 +4511,7 @@ Use "1panel update [command] --help" for more information about a command.
 
 确认设置无误后，点击 **确认** 按钮开始安装。
 
-![image-20251017133618550](_txtdbpic/466e81d24895c85e603a6664aa0904bf_MD5.png)
+![image-20251017133618550](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/466e81d24895c85e603a6664aa0904bf_MD5.png)
 
 等待安装完成即可
 
@@ -4519,15 +4519,15 @@ Use "1panel update [command] --help" for more information about a command.
 
 默认端口为 443，因此初次访问时，需要在浏览器地址栏使用 `https://IP:端口` 的格式
 
-![image-20251017134623486](_txtdbpic/a0268579c52e43c019e583b83cc56a1b_MD5.png)
+![image-20251017134623486](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/a0268579c52e43c019e583b83cc56a1b_MD5.png)
 
 可以在 **容器** 页面点击 **编辑** 修改端口配置
 
-![image-20251017134941753](_txtdbpic/422126acf3637cf34df9c1716a340254_MD5.png)
+![image-20251017134941753](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/422126acf3637cf34df9c1716a340254_MD5.png)
 
 修改为 80 端口即可
 
-![image-20251017135035543](_txtdbpic/2f6d859da6a6b1636db18f93f79c5980_MD5.png)
+![image-20251017135035543](https://cdn.jsdelivr.net/gh/otxtdb/txtdb@master/_txtdbpic/2f6d859da6a6b1636db18f93f79c5980_MD5.png)
 
 
 

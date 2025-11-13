@@ -178,6 +178,9 @@
   },
   "active": "1a0982fef40c8d61",
   "lastOpenFiles": [
+    "docs/网盘/OpenList.md",
+    "docs/网盘/Nextcloud.md",
+    "docs/网盘",
     "docs/管理面板/1Panel.md",
     "docs/Chrome插件/Distill Web Monitor.md",
     "docs/AICG/Stable Diffusion.md",
@@ -212,9 +215,6 @@
     "docs/邮件服务器/Stalwart.md",
     "docs/邮件服务器/index.md",
     "docs/邮件服务器/Brevo.md",
-    "docs/邮件服务器",
-    "docs/网盘/OpenList.md",
-    "docs/网盘/Nextcloud.md",
     "网盘/OpenList.md",
     "网盘/Nextcloud.md",
     "docs/ERP/index.md",
@@ -223,7 +223,6 @@
     "undefined.md",
     "Clippings/“进销存”插件配置 - 进销存使用教程.md",
     "Clippings/Teambition  OpenList 文档.md",
-    "Clippings/Seafile  OpenList 文档.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
