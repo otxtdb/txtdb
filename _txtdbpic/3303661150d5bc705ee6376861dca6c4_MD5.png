@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File:IP address icon.png - Dolibarr ERP CRM Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"aSOccv0dwinwBb2DJtTi0gAAACw","wgCSPNonce":!1,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":6,"wgPageName":"File:IP_address_icon.png","wgTitle":"IP address icon.png","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"File:IP_address_icon.png","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionCreate":[],"wgRestrictionUpload":[],"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgULSAcceptLanguageList":["zh-cn"],"wgULSCurrentAutonym":"中文（中国大陆）‎","wgMFDisplayWikibaseDescriptions":{"search":!1,"nearby":!1,"watchlist":!1,"tagline":!1},"wgEditSubmitButtonLabelPublish":!1,"wgULSPosition":"interlanguage"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["mediawiki.action.view.metadata","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","mmv.head","mmv.bootstrap.autostart","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=zh-cn&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cfilepage%7Cjquery.makeCollapsible.styles%7Cmediawiki.action.view.filepage%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;ctype=text/css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.4"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Dolibarr ERP CRM Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.dolibarr.org/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Dolibarr ERP CRM Wiki的Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:IP_address_icon.png"/>
+<meta name="verify-v1" content="HMNutRwqmhagMMJPRLLAFKlwRnifyx4SoJjYN+fyZV0=" >
+<meta name="msvalidate.01" content="97D254FD131581C03545FB5D9A228AD7" >
+<meta name="msvalidate.01" content="75E451280BD2F3F7D98F57F9959562B7" >
+<link rel="stylesheet" id="font-wasesome-css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" />
+
+<!-- Facebook Open graph tag -->
+<meta property="og:title" content="Dolibarr Open Source ERP and CRM wiki documentation" />
+<meta property="og:url" content="https://wiki.dolibarr.org" />
+<meta property="og:description" content="Online wiki documentation of Dolibar ERP CRM software" />
+<meta property="og:image" content="https://www.dolibarr.org/medias/image/www.dolibarr.org/images/stories/dolibarr_256x256.png" />
+<meta property="og:type" content="article" />
+<meta property="og:author" content="Dolibarr team" />
+<meta property="fb:app_id" content="177908922592070" />
+<!--<meta property="fb:admins" content="304255556311577" />-->
+<!-- End tag -->
+
+<!-- Twitter tag -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@dolibarr">
+<meta name="twitter:title" content="Dolibarr Open Source ERP and CRM wiki documentation">
+<meta name="twitter:description" content="Online wiki documentation of Dolibar ERP CRM software">
+<meta name="twitter:image" content="https://www.dolibarr.org/medias/image/www.dolibarr.org/images/stories/dolibarr_256x256.png">
+<!-- End tag -->
+
+<!-- Facebook Pixel Code -->
+<!--
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1998533953704960');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1998533953704960&ev=PageView&noscript=1"
+/></noscript>
+-->
+<!-- End Facebook Pixel Code -->
+
+<!-- Google tag (gtag.js) -->
+<!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CKX17PGXFY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CKX17PGXFY');
+</script>
+-->
+<!-- End Google Analytics -->
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.dolibarr.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject page-File_IP_address_icon_png rootpage-File_IP_address_icon_png skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading"  lang="zh-Hans-CN" dir="ltr">File:IP address icon.png</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">来自Dolibarr ERP CRM Wiki</div>
+		<div id="contentSub" lang="zh-Hans-CN" dir="ltr"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">跳到导航</a>
+		<a class="mw-jump-link" href="#searchInput">跳到搜索</a>
+		<div id="mw-content-text"><ul id="filetoc"><li><a href="#file">文件</a></li>
+<li><a href="#filehistory">文件历史</a></li>
+<li><a href="#filelinks">文件用途</a></li>
+<li><a href="#metadata">元数据</a></li></ul><div class="fullImageLink" id="file"><a href="https://upload.wikimedia.org/wikipedia/commons/0/09/IP_address_icon.png"><img alt="File:IP address icon.png" src="https://upload.wikimedia.org/wikipedia/commons/0/09/IP_address_icon.png" decoding="async" width="256" height="256" data-file-width="256" data-file-height="256" /></a><div class="mw-filepage-resolutioninfo">没有更高的分辨率。</div></div>
+<div class="fullMedia"><p><a href="https://upload.wikimedia.org/wikipedia/commons/0/09/IP_address_icon.png" class="internal" title="IP address icon.png">IP_address_icon.png</a> &#8206;<span class="fileInfo">（256 × 256像素，文件大小：5 KB，MIME类型：<span class="mime-type">image/png</span>）</span>
+</p></div><div class="sharedUploadNotice">
+<p>本文件来自维基共享资源并可能被其他项目使用。
+其<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://commons.wikimedia.org/wiki/File:IP_address_icon.png">文件描述页</a>上的描述显示在下面。
+</p>
+</div>
+<div id="shared-image-desc"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div class="mw-heading mw-heading2"><h2 id="摘要"><span id=".E6.91.98.E8.A6.81"></span>摘要</h2></div>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information vevent" dir="ltr">
+
+<tbody><tr>
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="zh-cn">描述<span class="summary fn" style="display:none">IP address icon.png</span></td>
+<td class="description">
+<div class="description en" dir="ltr" lang="en"><span class="language en" title="英语"><b>English: </b></span> icon representing an IP address</div></td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="zh-cn">日期</td>
+<td lang="zh-cn">
+<time class="dtstart" datetime="2015-04-13" lang="zh-cn" dir="ltr" style="white-space:nowrap">2015年4月13日</time></td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="zh-cn">来源</td>
+<td>
+<a rel="nofollow" class="external text" href="https://www.flaticon.com/free-icon/ip-address_1694">Flaticon</a> (<a rel="nofollow" class="external text" href="https://web.archive.org/web/20250805121043/https://www.flaticon.com/free-icon/ip-address_1694">archive</a>)</td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="zh-cn">作者</td>
+<td>
+Freepik</td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_ver" class="fileinfo-paramfield" lang="zh-cn">其他版本</td>
+<td>
+<div class="layouttemplate" style="clear:both;" dir="ltr">
+<table style="width:100%; margin:0.5em auto; border-spacing:8px; background: var(--background-color-neutral-subtle,#f7fff8); color: inherit;border: 2px solid var(--border-color-progressive--focus,#55b480)">
+<tbody><tr>
+<td><span typeof="mw:File"><a href="//commons.wikimedia.org/wiki/File:Gnome-x-office-drawing.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gnome-x-office-drawing.svg/120px-Gnome-x-office-drawing.svg.png" decoding="async" width="70" height="70" class="mw-file-element" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gnome-x-office-drawing.svg/250px-Gnome-x-office-drawing.svg.png 2x" data-file-width="512" data-file-height="512"></a></span>
+</td>
+<td><div lang="zh-hans" dir="ltr" class="description zh-hans" style="display:inline;"><a href="//commons.wikimedia.org/wiki/File:IP_address_icon.svg" title="File:IP address icon.svg">File:IP address icon.svg</a>是此文件的矢量版本。 如果此文件质量不低于原点阵图，就应该将这个PNG格式文件替换为此文件。</div><div style="clear:both;"></div>
+<hr>
+<div style="margin-left:auto margin-right:auto; text-align:center; font-size:90%;">File:IP address icon.png → <a href="//commons.wikimedia.org/wiki/File:IP_address_icon.svg" title="File:IP address icon.svg">File:IP address icon.svg</a></div><span id="field-vva" title="IP address icon.svg"></span>
+<hr>
+<div style="font-size:90%;"><div lang="zh-hans" dir="ltr" class="description zh-hans" style="display:inline;">更多信息请参阅<a href="//commons.wikimedia.org/wiki/Help:SVG/zh" title="Help:SVG/zh">Help:SVG/zh</a>。</div></div>
+<hr>
+<div lang="">
+<table class="mw-collapsible mw-collapsed" style="clear:both;margin:2px auto;background:var(--background-color-base, #FFF);color:inherit;border:1px solid #AAA;padding:1px;width:100%">
+
+<tbody><tr>
+<th scope="col" style="font-size:88%;background:var(--background-color-neutral, #eaecf0);border:none;color:inherit;padding:0 .2em;text-align:center"><span style="font-weight:normal"><a href="//commons.wikimedia.org/wiki/Template:Vector_version_available/lang" title="Template:Vector version available/lang">其他语言</a></span>
+</th></tr>
+<tr>
+<td class="mw-collapsible-content" style="font-size:88%;border:none;padding:0;"><span style="font-size:small;line-height:1.4" class="plainlinks noprint"><a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/als"><bdi class="language lang-als" lang="als">Alemannisch</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ar"><bdi class="language lang-ar" lang="ar">العربية</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/be-tarask"><bdi class="language lang-be-tarask" lang="be-tarask">беларуская (тарашкевіца)</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/bg"><bdi class="language lang-bg" lang="bg">български</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/bn"><bdi class="language lang-bn" lang="bn">বাংলা</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ca"><bdi class="language lang-ca" lang="ca">català</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ce"><bdi class="language lang-ce" lang="ce">нохчийн</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/cs"><bdi class="language lang-cs" lang="cs">čeština</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/da"><bdi class="language lang-da" lang="da">dansk</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/de"><bdi class="language lang-de" lang="de">Deutsch</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/el"><bdi class="language lang-el" lang="el">Ελληνικά</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/en"><bdi class="language lang-en" lang="en">English</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/en-gb"><bdi class="language lang-en-gb" lang="en-gb">British English</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/eo"><bdi class="language lang-eo" lang="eo">Esperanto</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/es"><bdi class="language lang-es" lang="es">español</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/et"><bdi class="language lang-et" lang="et">eesti</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/eu"><bdi class="language lang-eu" lang="eu">euskara</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/fa"><bdi class="language lang-fa" lang="fa">فارسی</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/fi"><bdi class="language lang-fi" lang="fi">suomi</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/fr"><bdi class="language lang-fr" lang="fr">français</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/fy"><bdi class="language lang-fy" lang="fy">Frysk</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/gl"><bdi class="language lang-gl" lang="gl">galego</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/gsw"><bdi class="language lang-gsw" lang="gsw">Alemannisch</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/he"><bdi class="language lang-he" lang="he">עברית</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/hi"><bdi class="language lang-hi" lang="hi">हिन्दी</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/hr"><bdi class="language lang-hr" lang="hr">hrvatski</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/hu"><bdi class="language lang-hu" lang="hu">magyar</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/hy"><bdi class="language lang-hy" lang="hy">հայերեն</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/id"><bdi class="language lang-id" lang="id">Bahasa Indonesia</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/io"><bdi class="language lang-io" lang="io">Ido</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/it"><bdi class="language lang-it" lang="it">italiano</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ja"><bdi class="language lang-ja" lang="ja">日本語</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ka"><bdi class="language lang-ka" lang="ka">ქართული</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ko"><bdi class="language lang-ko" lang="ko">한국어</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/lt"><bdi class="language lang-lt" lang="lt">lietuvių</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/mk"><bdi class="language lang-mk" lang="mk">македонски</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ml"><bdi class="language lang-ml" lang="ml">മലയാളം</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ms"><bdi class="language lang-ms" lang="ms">Bahasa Melayu</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/my"><bdi class="language lang-my" lang="my">မြန်မာဘာသာ</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/nb"><bdi class="language lang-nb" lang="nb">norsk bokmål</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/nds"><bdi class="language lang-nds" lang="nds">Plattdüütsch</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/nl"><bdi class="language lang-nl" lang="nl">Nederlands</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/nn"><bdi class="language lang-nn" lang="nn">norsk nynorsk</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/no"><bdi class="language lang-no" lang="no">norsk</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/oc"><bdi class="language lang-oc" lang="oc">occitan</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/pl"><bdi class="language lang-pl" lang="pl">polski</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/prg"><bdi class="language lang-prg" lang="prg">prūsiskan</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/pt"><bdi class="language lang-pt" lang="pt">português</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/pt-br"><bdi class="language lang-pt-br" lang="pt-br">português do Brasil</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ro"><bdi class="language lang-ro" lang="ro">română</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ru"><bdi class="language lang-ru" lang="ru">русский</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/scn"><bdi class="language lang-scn" lang="scn">sicilianu</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sco"><bdi class="language lang-sco" lang="sco">Scots</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sk"><bdi class="language lang-sk" lang="sk">slovenčina</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sl"><bdi class="language lang-sl" lang="sl">slovenščina</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sr"><bdi class="language lang-sr" lang="sr">српски / srpski</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sv"><bdi class="language lang-sv" lang="sv">svenska</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ta"><bdi class="language lang-ta" lang="ta">தமிழ்</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/th"><bdi class="language lang-th" lang="th">ไทย</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/tr"><bdi class="language lang-tr" lang="tr">Türkçe</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/tt"><bdi class="language lang-tt" lang="tt">татарча / tatarça</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/uk"><bdi class="language lang-uk" lang="uk">українська</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/vec"><bdi class="language lang-vec" lang="vec">vèneto</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/vi"><bdi class="language lang-vi" lang="vi">Tiếng Việt</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/zh"><bdi class="language lang-zh" lang="zh">中文</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/zh-cn"><bdi class="language lang-zh-cn" lang="zh-cn">中文（中国大陆）</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/zh-hans"><bdi class="language lang-zh-hans" lang="zh-hans">中文（简体）</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/zh-hant"><bdi class="language lang-zh-hant" lang="zh-hant">中文（繁體）</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/zh-my"><bdi class="language lang-zh-my" lang="zh-my">中文（马来西亚）</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/zh-sg"><bdi class="language lang-zh-sg" lang="zh-sg">中文（新加坡）</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/zh-tw"><bdi class="language lang-zh-tw" lang="zh-tw">中文（臺灣）</bdi></a>&nbsp;<b>∙</b> <small class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/w/index.php?title=Template:Vector_version_available/lang&amp;action=edit">+/−</a></small></span>
+</td></tr></tbody></table></div>
+</td>
+<td style="background:transparent; color: inherit;text-align:center; vertical-align:middle"><div class="wpImageAnnotatorControl wpImageAnnotatorOff"><div class="com-checker" style="display:inline-block;box-shadow: 1px 3px 5px #888;"><span typeof="mw:File"><a href="//commons.wikimedia.org/wiki/File:IP_address_icon.svg" class="mw-file-description" title="新SVG图片"><img alt="新SVG图片" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IP_address_icon.svg/120px-IP_address_icon.svg.png" decoding="async" width="96" height="150" class="mw-file-element" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IP_address_icon.svg/250px-IP_address_icon.svg.png 1.5x" data-file-width="632" data-file-height="982"></a></span></div></div>
+</td></tr></tbody></table>
+<p><span class="layouttemplateargs" style="display:none;speak:none;" title="template=Vector+version+available 1%3DIP+address+icon.svg 2%3D 3%3D">&nbsp;</span>
+</p>
+</div></td>
+</tr>
+
+
+</tbody></table>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="许可协议"><span id=".E8.AE.B8.E5.8F.AF.E5.8D.8F.E8.AE.AE"></span>许可协议</h2></div>
+<table class="licensetpl" style="display:none">
+<tbody><tr>
+<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</td></tr></tbody></table>
+<table style="width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;" dir="ltr" class="layouttemplate" lang="zh-hans">
+<tbody><tr>
+<td style="width: 70px;"><span typeof="mw:File"><span title="Public domain"><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196"></span></span>
+</td>
+<td><div lang="zh-hans" dir="ltr" class="description zh-hans" style="display:inline;">由于本文件描绘的文本不是“文学作品”或其他受当地版权法保护的类型，故其<b>不受<a href="https://en.wikipedia.org/wiki/zh:%E8%91%97%E4%BD%9C%E6%9D%83" class="extiw" title="w:zh:著作权">著作权保护</a></b>且属于<b><a href="https://en.wikipedia.org/wiki/zh:%E5%85%AC%E6%9C%89%E9%A2%86%E5%9F%9F" class="extiw" title="w:zh:公有领域">公有领域</a></b>。没有足够创作性，作者使用普通字体或基本笔迹创作的事实、数据及公有财产的非原始信息，以及简单的几何图形不受著作权保护。
+<small>此标签不应适用于所有文字图片。不同国家对于著作权人的“文学作品”的法律定义和法庭解释实践皆有不同。部分国家保护几乎所有的书面作品，而其他国家仅保护具有独特艺术性或科学性的文献及数据库。文字的创作性程度、作用及长度息息相关。版权保护限于文学形式——其自身包含的信息可能不受保护。</small></div>
+</td></tr></tbody></table> <h1 class="mw-slot-header"><mediainfoslotheader></mediainfoslotheader></h1><mediainfoview style="display: none"><mediainfoviewcaptions><div class="wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><h3 class="wbmi-entityview-captions-header">说明</h3><div class="wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout"><label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">中文（中国大陆）</label><div lang="zh-cn" dir="ltr" class="wbmi-caption-value wbmi-entityview-emptyCaption">添加一行文字以描述该文件所表现的内容</div></div></div></mediainfoviewcaptions><mediainfoviewstatements><div id="P180" data-mw-property="P180" data-mw-statements="[]" data-mw-formatvalue="[]" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h3 class="wbmi-statements-title">此文件中描述的项目</h3><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">描绘内容</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"></div></div></div><div id="P6216" data-mw-property="P6216" data-mw-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6216&quot;,&quot;hash&quot;:&quot;5570347fdc76d2a80732f51ea10ee4b144a084e0&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:50423863,&quot;id&quot;:&quot;Q50423863&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M39568517$735992FB-1800-4778-A863-AC39AE221E8A&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-mw-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:6216,\&quot;id\&quot;:\&quot;P6216\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;zh-cn&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P6216\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\&quot;>\u7248\u6743\u72b6\u6001<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;zh-cn&quot;:{&quot;&quot;:&quot;\u7248\u6743\u72b6\u6001&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:50423863,\&quot;id\&quot;:\&quot;Q50423863\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;zh-cn&quot;:{&quot;P6216&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q50423863\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q50423863\&quot;>\u7248\u6743\u6240\u6709<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;zh-cn&quot;:{&quot;P6216&quot;:&quot;\u7248\u6743\u6240\u6709&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">版权状态</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q50423863" href="https://www.wikidata.org/wiki/Special:EntityPage/Q50423863">版权所有</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P275" data-mw-property="P275" data-mw-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;d88af718aa8a9dfc24195b73bf4f597bc66c46c3&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:20007257,&quot;id&quot;:&quot;Q20007257&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M39568517$07B672B6-D527-419D-AEA5-22C3497D370E&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-mw-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:275,\&quot;id\&quot;:\&quot;P275\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;zh-cn&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P275\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\&quot;>\u8bb8\u53ef\u534f\u8bae<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;zh-cn&quot;:{&quot;&quot;:&quot;\u8bb8\u53ef\u534f\u8bae&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:20007257,\&quot;id\&quot;:\&quot;Q20007257\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;zh-cn&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q20007257\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q20007257\&quot;>\u77e5\u8bc6\u5171\u4eab\u7f72\u540d4.0\u56fd\u9645<\/a>\u00a0<sup class=\&quot;wb-language-fallback-indicator wb-language-fallback-transliteration\&quot;>\u7b80\u4f53\u4e2d\u6587\uff08\u5df2\u8f6c\u5199\uff09<\/sup>&quot;}},&quot;text\/plain&quot;:{&quot;zh-cn&quot;:{&quot;P275&quot;:&quot;\u77e5\u8bc6\u5171\u4eab\u7f72\u540d4.0\u56fd\u9645&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">许可协议</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q20007257" href="https://www.wikidata.org/wiki/Special:EntityPage/Q20007257">知识共享署名4.0国际</a>&nbsp;<sup class="wb-language-fallback-indicator wb-language-fallback-transliteration">简体中文（已转写）</sup></bdi></h4></div></div></div></div></div></div></div></div><div id="P571" data-mw-property="P571" data-mw-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P571&quot;,&quot;hash&quot;:&quot;40bf3079dcbe3e5de6fe060a564a793b44895ccb&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;time&quot;:&quot;+2015-04-13T00:00:00Z&quot;,&quot;timezone&quot;:0,&quot;before&quot;:0,&quot;after&quot;:0,&quot;precision&quot;:11,&quot;calendarmodel&quot;:&quot;http:\/\/www.wikidata.org\/entity\/Q1985727&quot;},&quot;type&quot;:&quot;time&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M39568517$FBBE9148-1722-4B3C-AB6B-3FEDC6F28669&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-mw-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:571,\&quot;id\&quot;:\&quot;P571\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;zh-cn&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P571\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P571\&quot;>\u6210\u7acb\u6216\u521b\u5efa\u65f6\u95f4<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;zh-cn&quot;:{&quot;&quot;:&quot;\u6210\u7acb\u6216\u521b\u5efa\u65f6\u95f4&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;time\&quot;:\&quot;+2015-04-13T00:00:00Z\&quot;,\&quot;timezone\&quot;:0,\&quot;before\&quot;:0,\&quot;after\&quot;:0,\&quot;precision\&quot;:11,\&quot;calendarmodel\&quot;:\&quot;http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q1985727\&quot;},\&quot;type\&quot;:\&quot;time\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;zh-cn&quot;:{&quot;P571&quot;:&quot;13 4 2015&quot;}},&quot;text\/plain&quot;:{&quot;zh-cn&quot;:{&quot;P571&quot;:&quot;13 4 2015&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P571 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P571" href="https://www.wikidata.org/wiki/Special:EntityPage/P571">成立或创建时间</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>13 4 2015</bdi></h4></div></div></div></div></div></div></div></div></mediainfoviewstatements></mediainfoview>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐b544d4cb5‐lxzjm
+Cached time: 20251123231841
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.083 seconds
+Real time usage: 0.138 seconds
+Preprocessor visited node count: 699/1000000
+Revision size: 458/2097152 bytes
+Post‐expand include size: 97620/2097152 bytes
+Template argument size: 24585/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 1280137/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  107.996      1 -total
+ 85.93%   92.800      1 Template:Information
+ 43.20%   46.658      1 Template:Vector_version_available
+ 29.92%   32.317      1 Template:Vector_version_available/layout
+ 13.85%   14.955      1 Template:PD-text
+  9.37%   10.119      1 Template:Collapse
+  6.32%    6.828      1 Template:Clear
+  5.52%    5.958      1 Template:En
+  5.35%    5.783      3 Template:Lang
+  5.26%    5.681      1 Template:ImageNoteControl
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:39568517:|#|:idhash:userlang=zh-cn!wb=3!wbMobile=0 and timestamp 20251123231841 and revision id 1119239611. Rendering was triggered because: page_view
+ -->
+</div></div>
+<h2 id="filehistory">文件历史</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>点击某个日期/时间查看对应时刻的文件。
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>日期/时间</th><th>缩⁠略⁠图</th><th>大小</th><th>用户</th><th>备注</th></tr>
+<tr><td>当前</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/0/09/IP_address_icon.png">2015年4月14日 (二) 04:35</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/0/09/IP_address_icon.png"><img alt="2015年4月14日 (二) 04:35版本的缩略图" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IP_address_icon.png/120px-IP_address_icon.png" decoding="async" width="120" height="120" data-file-width="256" data-file-height="256" /></a></td><td>256 × 256<span style="white-space: nowrap;">（5 KB）</span></td><td>CookieMonster755</td><td dir="ltr">User created page with UploadWizard</td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">文件用途</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>以下3个页面使用本文件：
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/index.php/User_documentation" title="User documentation">User documentation</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/index.php/User_documentation_JA" title="User documentation JA">User documentation JA</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/index.php/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C" title="用户手册">用户手册</a></li>
+</ul>
+</div>
+<h2 id="metadata">元数据</h2>
+<div class="mw-imagepage-section-metadata"><p>此文件中包含有额外的信息。这些信息可能是由数码相机或扫描仪在创建或数字化过程中所添加。
+</p><p>
+如果文件已从其原始状态修改，某些细节可能无法完全反映修改后的文件。</p><table id="mw_metadata" class="mw_metadata collapsed">
+<tbody><tr class="exif-xresolution mw-metadata-collapsible"><th>水平分辨率</th><td>448.3 dpc</td></tr><tr class="exif-yresolution mw-metadata-collapsible"><th>垂直分辨率</th><td>448.3 dpc</td></tr><tr class="exif-software mw-metadata-collapsible"><th>使用软件</th><td><ul class="metadata-langlist"><li class="mw-metadata-lang-default"><span class="mw-metadata-lang-value">www.inkscape.org</span></li>
+</ul></td></tr></tbody></table>
+</div>
+<div class="printfooter">取自“<a dir="ltr" href="https://wiki.dolibarr.org/index.php/File:IP_address_icon.png">https://wiki.dolibarr.org/index.php/File:IP_address_icon.png</a>”</div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nysvf');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+</div>
+
+<div id="mw-navigation">
+	<h2>导航菜单</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>个人工具</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=File%3AIP+address+icon.png" title="建议您创建一个账户并登录，不过这不是强制的">创建账号</a></li><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=File%3AIP+address+icon.png" title="我们建议您登录，不过这不是强制的[o]" accesskey="o">登录</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>命名空间</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected"><a href="/index.php/File:IP_address_icon.png" title="查看文件页面[c]" accesskey="c">文件</a></li><li id="ca-talk" class="new"><a href="/index.php?title=File_talk:IP_address_icon.png&amp;action=edit&amp;redlink=1" rel="discussion" title="关于内容页面的讨论（页面不存在）[t]" accesskey="t">讨论</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>变体</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>查看</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/index.php/File:IP_address_icon.png">阅读</a></li><li id="ca-view-foreign"><a href="https://commons.wikimedia.org/wiki/File:IP_address_icon.png">在维基共享资源查看</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>更多</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3  lang="zh-Hans-CN" dir="ltr">
+		<label for="searchInput">搜索</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="在Dolibarr ERP CRM Wiki搜索" autocapitalize="sentences" title="在Dolibarr ERP CRM Wiki搜索[f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/index.php/Home"
+			title="访问首页"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>导航</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/index.php/Home" title="访问首页[z]" accesskey="z">首页</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb emptyPortlet vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>工具</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-Social_networks" class="mw-portlet mw-portlet-Social_networks vector-menu vector-menu-portal portal" aria-labelledby="p-Social_networks-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-Social_networks-label" class="vector-menu-heading">
+		<span>Social networks</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-Facebook"><a href="https://www.facebook.com/dolibarr" rel="nofollow" target="_blank">Facebook</a></li><li id="n-LinkedIn"><a href="https://www.linkedin.com/company/association-dolibarr" rel="nofollow" target="_blank">LinkedIn</a></li><li id="n-Twitter"><a href="https://twitter.com/dolibarr" rel="nofollow" target="_blank">Twitter</a></li><li id="n-Youtube"><a href="https://www.youtube.com/user/DolibarrERPCRM" rel="nofollow" target="_blank">Youtube</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>其他语言</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info" >
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-mobileview"><a href="https://wiki.dolibarr.org/index.php?title=File:IP_address_icon.png&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":388});});</script>
+</body></html>

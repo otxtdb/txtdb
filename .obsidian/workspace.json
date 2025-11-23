@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "419db3a8976b0bec",
+        "id": "741e920873dd2950",
         "type": "tabs",
         "children": [
           {
-            "id": "0c23335351620eac",
+            "id": "d90e48c27cca6765",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,21 +180,21 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0c23335351620eac",
+  "active": "d90e48c27cca6765",
   "lastOpenFiles": [
-    "docs/Dolibarr/资源、历史和项目组织.md",
+    "_txtdbpic/a068d00adf6396b6b5c21ef3f447386f_MD5.png",
     "docs/Dolibarr/用户文档.md",
+    "_txtdbpic/7944cbcdfb84c76b6be5a0475e0e21b1_MD5.png",
+    "_txtdbpic/3303661150d5bc705ee6376861dca6c4_MD5.png",
+    "docs/Dolibarr/资源、历史和项目组织.md",
     "_txtdbpic/1e992ab0c02f671fafdb93cab2f17139_MD5.png",
     "_txtdbpic/73f07f410310009ae67c9a0bf27601ec_MD5.png",
-    "_txtdbpic/a068d00adf6396b6b5c21ef3f447386f_MD5.png",
     "_txtdbpic/3d2a47d2dc3b834e39dcc1431db52f6a_MD5.png",
-    "_txtdbpic/7944cbcdfb84c76b6be5a0475e0e21b1_MD5.png",
     "docs/Dolibarr/谁使用 Dolibarr.md",
     "_txtdbpic/b4eceed9ed80a0809a5c9c0d0b10172a_MD5.png",
     "_txtdbpic/2ed01ab9b081868e6173025b2073cc7b_MD5.png",
     "_txtdbpic/9c9876c4a4c6e0a6f87dcdd05a627182_MD5.png",
     "_txtdbpic/664d4557274d4063efc3f5afd799ab28_MD5.png",
-    "_txtdbpic/99cdccc4128ef5a901a46a575c8cdec0_MD5.png",
     "docs/Dolibarr/Dolibarr 无法做什么.md",
     "docs/Dolibarr/Dolibarr 的功能.md",
     "docs/Nextcloud/维护和发布计划.md",
