@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "741e920873dd2950",
+        "id": "079f645f487d9aeb",
         "type": "tabs",
         "children": [
           {
-            "id": "d90e48c27cca6765",
+            "id": "40984e16ad9fe322",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Dolibarr/用户文档.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "用户文档"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,10 +176,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d90e48c27cca6765",
+  "active": "40984e16ad9fe322",
   "lastOpenFiles": [
-    "_txtdbpic/a068d00adf6396b6b5c21ef3f447386f_MD5.png",
     "docs/Dolibarr/用户文档.md",
+    "_txtdbpic/a068d00adf6396b6b5c21ef3f447386f_MD5.png",
     "_txtdbpic/7944cbcdfb84c76b6be5a0475e0e21b1_MD5.png",
     "_txtdbpic/3303661150d5bc705ee6376861dca6c4_MD5.png",
     "docs/Dolibarr/资源、历史和项目组织.md",
