@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "079f645f487d9aeb",
+        "id": "2e51b2a142d9211a",
         "type": "tabs",
         "children": [
           {
-            "id": "40984e16ad9fe322",
+            "id": "c521195dd1da1e4e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -163,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +176,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "40984e16ad9fe322",
+  "active": "25ad79425d152323",
   "lastOpenFiles": [
+    "docs/1Panel/1Panel 文档.md",
+    "docs/Nextcloud/index.md",
+    "docs/Dolibarr/计划任务模块.md",
+    "docs/Dolibarr/批量导入.md",
+    "docs/Dolibarr/恢复.md",
+    "docs/Dolibarr/导出模块.md",
+    "docs/Dolibarr/备份.md",
+    "docs/1Panel",
     "docs/Dolibarr/用户文档.md",
     "_txtdbpic/a068d00adf6396b6b5c21ef3f447386f_MD5.png",
     "_txtdbpic/7944cbcdfb84c76b6be5a0475e0e21b1_MD5.png",
@@ -218,14 +223,7 @@
     "docs/Chrome插件",
     "docs/跟踪/changedetection.md",
     "docs/跟踪",
-    "docs/电商系统/index.md",
     "_txtdbpic/1ee3cc8f6d0ce1bc78beda3942c21958_MD5.xml",
-    "_txtdbpic/67abb7c3be3235dafbeed55ad7cdc39d_MD5.xml",
-    "docs/Cloudflare/Cloudflare 邮件路由.md",
-    "docs/邮件服务器/Stalwart.md",
-    "docs/邮件服务器/index.md",
-    "docs/邮件服务器/Brevo.md",
-    "网盘/OpenList.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
