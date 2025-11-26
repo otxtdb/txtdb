@@ -1,6 +1,6 @@
 ---
-title: "1Panel 文档"
-source: "https://1panel.cn/docs/v2/#3"
+title: "1Panel 文档介绍"
+source: "https://1panel.cn/docs/v2/"
 author:
   - "[[1Panel]]"
 published:
@@ -30,5 +30,3 @@ Gitee「最受欢迎开源软件」评选进行中，请大家投票支持 1Pane
 您可以在哔哩哔哩（B 站）上搜索相关教学视频。[点击这里](https://space.bilibili.com/510493147/channel/collectiondetail?sid=1199760)
 
 ## 3 致谢贡献者[⚓︎](https://1panel.cn/docs/v2/#3 "Permanent link")
-
-[点击获取你的贡献者证书，参与社区回馈活动。](https://www.lxware.cn/1panel-contributors#/)
