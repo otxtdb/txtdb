@@ -11,14 +11,10 @@
             "id": "17a474805a0016bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/1Panel/产品优势.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "产品优势"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,12 +176,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f471feebb9c14962",
+  "active": "17a474805a0016bf",
   "lastOpenFiles": [
-    "docs/1Panel/1Panel 文档 22.md",
-    "docs/1Panel/产品优势.md",
-    "docs/1Panel/1Panel 文档介绍.md",
     "docs/1Panel/1Panel 文档.md",
+    "docs/1Panel/产品优势.md",
+    "docs/1Panel/1Panel 文档 22.md",
+    "docs/1Panel/1Panel 文档介绍.md",
     "_txtdbpic/0a6a90bed6d69e29e21afa9be97152c2_MD5.png",
     "docs/1Panel/1Panel 文档 1.md",
     "docs/1Panel/index.md",
