@@ -11,10 +11,14 @@
             "id": "17a474805a0016bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/1Panel/1Panel 文档.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1Panel 文档"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "17a474805a0016bf",
   "lastOpenFiles": [
+    "docs/1Panel/index.md",
     "docs/1Panel/1Panel 文档.md",
     "docs/Nextcloud/index.md",
     "docs/Dolibarr/计划任务模块.md",
@@ -221,7 +226,6 @@
     "docs/终端",
     "docs/电商系统/ShopXO.md",
     "docs/Chrome插件",
-    "docs/跟踪/changedetection.md",
     "docs/跟踪",
     "_txtdbpic/1ee3cc8f6d0ce1bc78beda3942c21958_MD5.xml",
     "未命名.canvas",
