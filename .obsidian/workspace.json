@@ -11,10 +11,14 @@
             "id": "17a474805a0016bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/Distill/Slack、Discord 和 Teams 提醒.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Slack、Discord 和 Teams 提醒"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 348.5
   },
   "right": {
     "id": "b04518270e465468",
@@ -176,7 +180,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "25ad79425d152323",
+  "active": "17a474805a0016bf",
   "lastOpenFiles": [
     "未命名 1.base",
     "未命名.base",
