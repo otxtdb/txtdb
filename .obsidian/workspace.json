@@ -178,6 +178,11 @@
   },
   "active": "65d4830635b5e90e",
   "lastOpenFiles": [
+    "docs/Erphpdown/WordPress 如何获取支付宝接口信息（私钥、公钥）.md",
+    "docs/Erphpdown/Erphplogin Pro 连接QQ微博微信登录弹窗登录.md",
+    "docs/Erphpdown/Erphpdown 使用教程.md",
+    "docs/Erphpdown/Erphpdown 会员推广下载.md",
+    "docs/Erphpdown",
     "docs/JustNews/页面边栏设置.md",
     "docs/JustNews/页脚设置.md",
     "docs/JustNews/页头和菜单设置.md",
@@ -201,10 +206,6 @@
     "docs/changedetection.io/开发理念.md",
     "docs/changedetection.io/处理被监视 URL 中的变量.md",
     "docs/changedetection.io/图像变化检测.md",
-    "docs/changedetection.io/可配置的 BASE_URL 设置.md",
-    "docs/changedetection.io/使用 WebDriver 获取页面.md",
-    "docs/changedetection.io/从外部文件添加标题.md",
-    "docs/changedetection.io/iPadOS 安装说明 WIP 中.md",
     "docs/changedetection.io",
     "未命名 1.base",
     "未命名.base",
@@ -223,7 +224,6 @@
     "docs/Nextcloud",
     "docs/网盘",
     "docs/AICG",
-    "docs/数据分析",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
