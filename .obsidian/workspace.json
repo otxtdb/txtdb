@@ -85,25 +85,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22e96a6a49b6d47a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Backtrader.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backtrader 的反向链接列表"
-            }
-          },
-          {
             "id": "3cf6d455fa85b426",
             "type": "leaf",
             "state": {
@@ -157,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
