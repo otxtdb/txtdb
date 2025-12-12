@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/test.md",
+                "file": "docs/FAQ - Git it Write.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "FAQ - Git it Write"
             }
           }
         ]
@@ -161,11 +161,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "aec5dd6fa0a5f3f7",
+  "active": "f471feebb9c14962",
   "lastOpenFiles": [
-    "Clippings/FAQ - Git it Write.md",
-    "Clippings/FAQ - Git it Write 1.md",
     "docs/test.md",
+    "docs/FAQ - Git it Write.md",
+    "Clippings/FAQ - Git it Write 1.md",
     "docs/VirtualBrowser/安全与隐私.md",
     "docs/VirtualBrowser/安装插件.md",
     "docs/VirtualBrowser/高级配置指南.md",
