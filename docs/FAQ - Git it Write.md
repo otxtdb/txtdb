@@ -12,5 +12,5 @@ taxonomy: "{  doc_category: [Nextcloud] }"
 ---
 ### 支持哪些 Git 托管服务？[#](https://www.aakashweb.com/docs/git-it-write/faq/#which-git-hosting-services-are-supported)
 
-  
+
 目前仅支持 GitHub。
