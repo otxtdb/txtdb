@@ -11,7 +11,6 @@ taxonomy:{ doc_category: [Nextcloud] }
 
 ## My post content
 
-dfsa
 
 Lor
 ```
