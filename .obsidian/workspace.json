@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Title of the post.md",
+                "file": "docs/Git it Write.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Title of the post"
+              "title": "Git it Write"
             }
           }
         ]
@@ -161,10 +161,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "aec5dd6fa0a5f3f7",
+  "active": "f471feebb9c14962",
   "lastOpenFiles": [
-    "docs/test.md",
     "docs/Title of the post.md",
+    "docs/Git it Write.md",
+    "docs/test.md",
     "docs/未命名",
     "docs/FAQ - Git it Write.md",
     "Clippings/FAQ - Git it Write 1.md",
@@ -189,7 +190,6 @@
     "docs/VirtualBrowser/分组管理.md",
     "docs/VirtualBrowser/使用案例.md",
     "docs/VirtualBrowser/代理导入导出.md",
-    "docs/VirtualBrowser/亲测可用的指纹修改.md",
     "docs/VirtualBrowser",
     "docs/Erphpdown",
     "docs/JustNews",
