@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FAQ - Git it Write.md",
+                "file": "docs/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FAQ - Git it Write"
+              "title": "test"
             }
           }
         ]
@@ -163,8 +163,8 @@
   },
   "active": "aec5dd6fa0a5f3f7",
   "lastOpenFiles": [
-    "docs/test.md",
     "docs/FAQ - Git it Write.md",
+    "docs/test.md",
     "Clippings/FAQ - Git it Write 1.md",
     "docs/VirtualBrowser/安全与隐私.md",
     "docs/VirtualBrowser/安装插件.md",
