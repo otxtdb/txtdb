@@ -11,14 +11,10 @@
             "id": "aec5dd6fa0a5f3f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Title of the post.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Title of the post"
+              "title": "新标签页"
             }
           }
         ]
@@ -163,8 +159,8 @@
   },
   "active": "aec5dd6fa0a5f3f7",
   "lastOpenFiles": [
-    "docs/Git it Write.md",
     "docs/Title of the post.md",
+    "docs/Git it Write.md",
     "docs/test.md",
     "docs/未命名",
     "docs/FAQ - Git it Write.md",
