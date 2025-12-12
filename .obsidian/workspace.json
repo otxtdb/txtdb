@@ -11,10 +11,14 @@
             "id": "aec5dd6fa0a5f3f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/333.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "333"
             }
           }
         ]
@@ -159,6 +163,7 @@
   },
   "active": "aec5dd6fa0a5f3f7",
   "lastOpenFiles": [
+    "docs/333.md",
     "docs/Editing txtdbdocsWriting posts - Git it Write.md at master · otxtdbtxtdb.md",
     "docs/11.md",
     "docs/Editing txtdbdocsWriting posts - Git it Write.md at master · otxtdbtxtdb 1.md",
@@ -185,7 +190,6 @@
     "docs/VirtualBrowser/性能优化指南.md",
     "docs/VirtualBrowser/快速开始.md",
     "docs/VirtualBrowser/帮助中心.md",
-    "docs/VirtualBrowser/导入导出.md",
     "docs/VirtualBrowser",
     "docs/Erphpdown",
     "docs/JustNews",
