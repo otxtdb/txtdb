@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/未命名.md",
+                "file": "docs/Title of the post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Title of the post"
             }
           }
         ]
@@ -164,7 +164,7 @@
   "active": "aec5dd6fa0a5f3f7",
   "lastOpenFiles": [
     "docs/test.md",
-    "docs/未命名.md",
+    "docs/Title of the post.md",
     "docs/未命名",
     "docs/FAQ - Git it Write.md",
     "Clippings/FAQ - Git it Write 1.md",
