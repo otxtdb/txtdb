@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/test.md",
+                "file": "docs/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "未命名"
             }
           }
         ]
@@ -163,8 +163,10 @@
   },
   "active": "aec5dd6fa0a5f3f7",
   "lastOpenFiles": [
-    "docs/FAQ - Git it Write.md",
     "docs/test.md",
+    "docs/未命名.md",
+    "docs/未命名",
+    "docs/FAQ - Git it Write.md",
     "Clippings/FAQ - Git it Write 1.md",
     "docs/VirtualBrowser/安全与隐私.md",
     "docs/VirtualBrowser/安装插件.md",
@@ -207,7 +209,6 @@
     "_txtdbpic/2ed01ab9b081868e6173025b2073cc7b_MD5.png",
     "_txtdbpic/9c9876c4a4c6e0a6f87dcdd05a627182_MD5.png",
     "docs/Nextcloud",
-    "docs/网盘",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
