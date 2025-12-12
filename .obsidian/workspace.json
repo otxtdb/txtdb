@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48ede0dd7eaeeb35",
+        "id": "9e0a75f500efb00e",
         "type": "tabs",
         "children": [
           {
-            "id": "65d4830635b5e90e",
+            "id": "aec5dd6fa0a5f3f7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,7 +157,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "65d4830635b5e90e",
+  "active": "aec5dd6fa0a5f3f7",
   "lastOpenFiles": [
     "docs/VirtualBrowser/高级配置指南.md",
     "docs/VirtualBrowser/配置使用环境.md",
