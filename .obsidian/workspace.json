@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e2ab2010fcfd2ab",
+        "id": "bcba9d1fa0498b1d",
         "type": "tabs",
         "children": [
           {
-            "id": "f16b91cda4937d7a",
+            "id": "ad5d89cb0e3bbdfe",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
