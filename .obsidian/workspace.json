@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcba9d1fa0498b1d",
+        "id": "b6d67eb03560f572",
         "type": "tabs",
         "children": [
           {
-            "id": "ad5d89cb0e3bbdfe",
+            "id": "5f8ad1cb4468fa5f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,6 +177,7 @@
   },
   "active": "25ad79425d152323",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "README.md",
     "docs/Erphpdown/WordPress 如何获取支付宝接口信息（私钥、公钥）.md",
     "docs/Erphpdown/Erphplogin Pro 连接QQ微博微信登录弹窗登录.md",
@@ -203,7 +204,6 @@
     "docs/VirtualBrowser/系统要求.md",
     "docs/VirtualBrowser/窗口同步器.md",
     "docs/VirtualBrowser/窗口同步器 1.md",
-    "docs/VirtualBrowser/最佳实践指南.md",
     "docs/VirtualBrowser",
     "docs/Erphpdown",
     "docs/JustNews",
