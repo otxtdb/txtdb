@@ -1,14 +1,16 @@
 ---
-title: "OpenClaw 安装"
-source: "https://openclaws.io/zh/install"
+title: OpenClaw 安装
+source: https://openclaws.io/zh/install
 author:
   - "[[OpenClaws.io]]"
 published:
 created: 2026-02-15
-description: "多种安装方式任你选，殊途同归。"
+description: 多种安装方式任你选，殊途同归。
 tags:
-  - "clippings"
-taxonomy: { doc_category: [openclaw] }
+  - clippings
+taxonomy:
+  doc_category:
+    - openclaw
 ---
 ## 系统要求
 
