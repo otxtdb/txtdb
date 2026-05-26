@@ -7,7 +7,7 @@ created: 2026-05-19
 description: "A guide for the installation and troubleshooting of Automatic1111's Stable Diffusion WebUI on Fedora-based distributions - OttCS/automatic1111-webui-fedora"
 tags:
   - "clippings"
-taxonomy: { doc_category: [TXTDB] }
+taxonomy: { doc_category: [sd-webui] }
 ---
 ## AUTOMATIC1111/stable-diffusion-webui 用于基于 Fedora 的发行版
 
