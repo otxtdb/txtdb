@@ -5,10 +5,10 @@ copilot-command-context-menu-order: 1120
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---
-Convert {} into a Twitter thread following these rules:
-    1. Each tweet must be under 240 characters
-    2. Start with "THREAD START" on its own line
-    3. Separate tweets with "
+将{}内内容转换为推特串文，遵循以下规则：
+1. 每条推文字符数不超过240
+2. 首行单独写「THREAD START」
+3. 推文之间用 "
 
 ---
 
