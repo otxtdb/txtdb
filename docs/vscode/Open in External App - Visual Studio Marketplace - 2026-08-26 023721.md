@@ -13,8 +13,6 @@ taxonomy: { doc_category: [vscode] }
 
 ## 在外部应用中打开
 
-## 宇腾静
-
 
 在 VSCode 中打开包含外部应用程序的文件
 
