@@ -9,13 +9,6 @@ tags:
   - "clippings"
 taxonomy: { doc_category: [vscode] }
 ---
-[跳转至内容部分](#start-of-content)
-
-## 在外部应用中打开
-
-
-在 VSCode 中打开包含外部应用程序的文件
-
 ## 在外部应用中打开
 
 在 VSCode 中打开包含外部应用程序的文件。
