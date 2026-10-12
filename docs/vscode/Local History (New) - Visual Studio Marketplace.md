@@ -9,8 +9,6 @@ tags:
   - "clippings"
 taxonomy: { doc_category: [vscode] }
 ---
-[跳转至内容部分](#start-of-content)
-
 ## 当地历史（新内容）
 
 

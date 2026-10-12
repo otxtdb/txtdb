@@ -321,20 +321,3 @@ VSCode 确实是一个非常出色的编辑器，但有时候我还是更喜欢�
 }
 ```
 
-## 我的扩展程序
-
-- [在外部应用中打开](https://github.com/tjx666/open-in-external-app)
-- [包管理器增强工具](https://github.com/tjx666/package-manager-enhancer)
-- [新版本的文件工具类函数](https://github.com/tjx666/vscode-neo-file-utils)
-- [重新加载应该能解决所有问题。](https://github.com/tjx666/reload-can-solve-any-problems)
-- [VSCode FE 辅助工具](https://github.com/tjx666/vscode-fe-helper)
-- [VSCode 文件](https://github.com/tjx666/vscode-archive)
-- [更好的色彩增强工具](https://github.com/tjx666/better-colorizer/tree/main)
-- [修改文件前的警告信息](https://github.com/tjx666/modify-file-warning)
-- [权力编辑](https://github.com/tjx666/power-edit)
-
-请查看以下信息：发行商/云腾景
-
-## 🧡 支持者们
-
-感谢 `JiangShiqi` 设计了该扩展程序的标志。
