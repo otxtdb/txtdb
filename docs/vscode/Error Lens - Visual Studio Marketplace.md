@@ -9,15 +9,7 @@ tags:
   - "clippings"
 taxonomy: { doc_category: [vscode] }
 ---
-[跳转至内容部分](#start-of-content)
-
 ## 错误镜头/有缺陷的镜头
-
-## 亚历山大
-
-|
-
-9,701,666 次安装次数
 
 改进对错误、警告以及其他语言相关问题的提示方式。
 
@@ -34,23 +26,23 @@ ErrorLens 通过让诊断信息更加突出显示，从而提升了语言诊断�
 
 ## 命令（15 条）
 
-| 命令 | 描述 |
-| --- | --- |
-| 错误 Lens 切换 | 错误透镜：切换（启用/禁用）所有功能（切换全局设置 `"errorLens.enabled"` ） |
-| 错误 Lens 切换错误 | 错误显示：启用/禁用 `"errorLens.enabledDiagnosticLevels"` 设置中的错误显示功能。 |
-| 错误 Lens 切换警告 | 错误透镜：在 `"errorLens.enabledDiagnosticLevels"` 设置中启用/禁用警告功能。 |
-| 错误：镜头切换信息功能出现故障 | 错误透镜：启用/禁用 `"errorLens.enabledDiagnosticLevels"` 设置中的信息显示。 |
-| errorLens.toggleHint | 错误透镜：在 `"errorLens.enabledDiagnosticLevels"` 设置中启用/禁用提示功能。 |
-| 错误 Lens 切换内联消息 | 错误透镜：切换全局设置 `"errorLens.messageEnabled"` 。 |
-| 错误：Lens\_search\_for\_problem | 错误透镜：这是一个在默认浏览器中存在的未解决难题（由 `errorLens.searchForProblemQuery` 设置控制）。 |
-| 错误：Lens.selectProblem | 错误透镜：将编辑器选择设置到问题范围中（由 `errorLens.selectProblemType` 设置控制）。 |
-| 错误检测 切换工作区 | 错误透镜：根据文件系统路径来排除或包含当前工作区。 |
-| 错误：Lens.disableLine | 错误透镜：添加一条注释来禁用 Linter 规则下的行处理。注释的格式由 `"errorLens.disableLineComments"` 设置控制。 |
+| 命令                                    | 描述                                                                                      |
+| ------------------------------------- | --------------------------------------------------------------------------------------- |
+| 错误 Lens 切换                            | 错误透镜：切换（启用/禁用）所有功能（切换全局设置 `"errorLens.enabled"` ）                                       |
+| 错误 Lens 切换错误                          | 错误显示：启用/禁用 `"errorLens.enabledDiagnosticLevels"` 设置中的错误显示功能。                            |
+| 错误 Lens 切换警告                          | 错误透镜：在 `"errorLens.enabledDiagnosticLevels"` 设置中启用/禁用警告功能。                              |
+| 错误：镜头切换信息功能出现故障                       | 错误透镜：启用/禁用 `"errorLens.enabledDiagnosticLevels"` 设置中的信息显示。                              |
+| errorLens.toggleHint                  | 错误透镜：在 `"errorLens.enabledDiagnosticLevels"` 设置中启用/禁用提示功能。                              |
+| 错误 Lens 切换内联消息                        | 错误透镜：切换全局设置 `"errorLens.messageEnabled"` 。                                              |
+| 错误：Lens\_search\_for\_problem         | 错误透镜：这是一个在默认浏览器中存在的未解决难题（由 `errorLens.searchForProblemQuery` 设置控制）。                     |
+| 错误：Lens.selectProblem                 | 错误透镜：将编辑器选择设置到问题范围中（由 `errorLens.selectProblemType` 设置控制）。                              |
+| 错误检测 切换工作区                            | 错误透镜：根据文件系统路径来排除或包含当前工作区。                                                               |
+| 错误：Lens.disableLine                   | 错误透镜：添加一条注释来禁用 Linter 规则下的行处理。注释的格式由 `"errorLens.disableLineComments"` 设置控制。            |
 | 错误：errorLens.findLinterRuleDefinition | 错误透镜：在本地 Linter 文件中查找相关规则定义（例如 `.eslintrc.json` ）。目标文件将由"errorLens.lintFilePaths"设置来决定。 |
-| errorLens.copyProblemMessage | 错误透镜：将问题信息复制到剪贴板（位于当前光标位置）。 |
-| errorLens.excludeProblem | 错误透镜：排除当前问题（针对处于活动光标位置的问题）（请将其写入设置中）。 |
-| 错误：Lens.copyProblemCode | 错误代码：将错误代码复制到剪贴板（位于当前光标位置）。 |
-| 错误：Lens.updateEverything 发生错误。 | 错误透镜：更新所有装饰物品。支持参数 {"kind": "update" \| "clear"} |
+| errorLens.copyProblemMessage          | 错误透镜：将问题信息复制到剪贴板（位于当前光标位置）。                                                             |
+| errorLens.excludeProblem              | 错误透镜：排除当前问题（针对处于活动光标位置的问题）（请将其写入设置中）。                                                   |
+| 错误：Lens.copyProblemCode               | 错误代码：将错误代码复制到剪贴板（位于当前光标位置）。                                                             |
+| 错误：Lens.updateEverything 发生错误。        | 错误透镜：更新所有装饰物品。支持参数 {"kind": "update" \| "clear"}                                        |
 
 ## 设置 (75)
 

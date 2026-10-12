@@ -9,17 +9,8 @@ tags:
   - "clippings"
 taxonomy: { doc_category: [vscode] }
 ---
-[跳转至内容部分](#start-of-content)
-
 ## ESLint
 
-## 微软
-
-[microsoft.com](https://microsoft.com/)
-
-|
-
-52,429,414 次安装次数
 
 将 ESLint JavaScript 工具集成到 VS Code 中。
 

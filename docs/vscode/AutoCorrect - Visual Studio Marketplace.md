@@ -11,13 +11,6 @@ taxonomy: { doc_category: [vscode] }
 ---
 ## AutoCorrect
 
-## Jason Lee
-
-|
-
-18,109 installs
-
-[| (7)](#review-details) | Free
 
 AutoCorrect is a linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 

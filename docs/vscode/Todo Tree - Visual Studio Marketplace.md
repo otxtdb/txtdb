@@ -9,17 +9,7 @@ tags:
   - "clippings"
 taxonomy: { doc_category: [vscode] }
 ---
-[跳转至内容部分](#start-of-content)
-
 ## Todo 树
-
-## 格伦特弗格利
-
-|
-
-7,739,896 次安装次数
-
-| (214) | 免费
 
 以树状视图显示 TODO、FIXME 等注释标签
 

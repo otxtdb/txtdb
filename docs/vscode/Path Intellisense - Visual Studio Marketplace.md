@@ -9,18 +9,6 @@ tags:
   - "clippings"
 taxonomy: { doc_category: [vscode] }
 ---
-[跳转至内容部分](#start-of-content)
-
-## 路径智能提示功能
-
-## 克里斯蒂安·科勒
-
-|
-
-19,271,857 次安装次数
-
-一种能够自动补全文件名的 Visual Studio Code 插件
-
 ## 路径智能提示功能
 
 一个能够自动补全文件名的 Visual Studio Code 插件。
@@ -198,10 +186,3 @@ Pathintellisense 将 ts.config.compilerOptions.paths 作为映射关系来使用
 
 当路径需要相对于当前项目的根目录来指定时，请使用${workspaceFolder}。V2.2.1 及更早的版本则使用${workspaceRoot}。较新版本则同时支持这两种占位符。
 
-## 历史
-
-请查看变更记录。
-
-## 许可证/授权证书
-
-该软件依据 MIT 许可证发布。

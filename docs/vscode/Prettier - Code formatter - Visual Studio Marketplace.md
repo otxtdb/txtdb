@@ -13,18 +13,6 @@ taxonomy: { doc_category: [vscode] }
 
 ## 更美观——代码格式工具
 
-## 更漂亮了
-
-[更漂亮点吧.io](https://prettier.io/)
-
-|
-
-71,082,743 次安装次数
-
-| (492) | 免费
-
-|
-
 使用 \`prettier\` 进行代码格式化工具
 
 ## 更美观的 Visual Studio Code 格式化工具

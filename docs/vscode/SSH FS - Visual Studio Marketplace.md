@@ -9,19 +9,8 @@ tags:
   - "clippings"
 taxonomy: { doc_category: [vscode] }
 ---
-[跳转至内容部分](#start-of-content)
-
 ## SSH 文件系统
 
-## 凯尔文·舒夫斯
-
-|
-
-781,811 用户安装次数
-
-| (111) | 免费
-
-|
 
 文件系统、终端界面以及通过 SSH 实现的任务管理工具
 
@@ -29,10 +18,7 @@ taxonomy: { doc_category: [vscode] }
 
 ![Logo](https://github.com/SchoofsKelvin/vscode-sshfs/raw/HEAD/resources/Logo.png)
 
-此扩展功能允许将远程文件夹作为本地工作区文件夹来使用，启动集成式远程终端，并运行 `ssh-shell` 任务。
-
-## 特点/特色
-
+此扩展功能允许将远程文件夹作为本地工作
 ### 配置编辑器
 
 内置的配置编辑器使得创建和编辑配置变得非常方便： ![Config editor](https://github.com/SchoofsKelvin/vscode-sshfs/raw/HEAD/media/config-editor.png)
@@ -113,8 +99,3 @@ taxonomy: { doc_category: [vscode] }
 
 如《终端》部分所述， `Terminal command` 选项允许我们覆盖用于启动远程 shell 的命令。默认情况下，该扩展会通过 SSH 连接启动远程 shell；在必要时会执行 `cd ...` 命令，之后会执行 `$SHELL` 命令来启动用户的默认 shell。这个配置选项允许我们用自定义的方式来启动 shell，或者配置默认的 SSH shell。
 
-## 链接
-
-- GitHub（问题列表 | 预发布信息 | 路线图 | 赞助商）
-- [Visual Studio 市场](https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs)
-- [打开 VSX 注册表](https://open-vsx.org/extension/Kelvin/vscode-sshfs)

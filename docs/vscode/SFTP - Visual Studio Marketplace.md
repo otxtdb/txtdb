@@ -9,17 +9,7 @@ tags:
   - "clippings"
 taxonomy: { doc_category: [vscode] }
 ---
-[跳转至内容部分](#start-of-content)
-
 ## SFTP
-
-## 纳提兹克 unk
-
-|
-
-1,522,878 次安装次数
-
-| (89) | 免费
 
 SFTP/FTP 同步
 

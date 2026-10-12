@@ -11,14 +11,6 @@ taxonomy: { doc_category: [vscode] }
 ---
 ## Terminal Command Assistant
 
-## duolabmeng6
-
-|
-
-36 installs
-
-[| (0)](#review-details) | Free
-
 在源代码管理旁边添加终端操作按钮
 
 ## Terminal Helper VSCode 插件
